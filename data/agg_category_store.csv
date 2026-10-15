@@ -1,0 +1,28 @@
+product_category,store_location,qty,revenue
+Bakery,Astoria,7496,26599.75
+Bakery,Hell's Kitchen,7678,27386.95
+Bakery,Lower Manhattan,8040,28328.94
+Branded,Astoria,279,5457.0
+Branded,Hell's Kitchen,119,1942.0
+Branded,Lower Manhattan,378,6208.0
+Coffee,Astoria,29655,89744.3
+Coffee,Hell's Kitchen,30220,91222.65
+Coffee,Lower Manhattan,29375,88985.5
+Coffee beans,Astoria,502,10219.2
+Coffee beans,Hell's Kitchen,790,18635.1
+Coffee beans,Lower Manhattan,536,11230.95
+Drinking Chocolate,Astoria,6351,26335.25
+Drinking Chocolate,Hell's Kitchen,5672,23586.25
+Drinking Chocolate,Lower Manhattan,5434,22494.5
+Flavours,Astoria,2206,1764.8000000000002
+Flavours,Hell's Kitchen,3596,2876.8
+Flavours,Lower Manhattan,4709,3767.2000000000003
+Loose Tea,Astoria,344,3194.0
+Loose Tea,Hell's Kitchen,485,4461.349999999999
+Loose Tea,Lower Manhattan,381,3558.25
+Packaged Chocolate,Astoria,110,1089.71
+Packaged Chocolate,Hell's Kitchen,197,1698.77
+Packaged Chocolate,Lower Manhattan,180,1619.16
+Tea,Astoria,24048,67839.9
+Tea,Hell's Kitchen,22980,64701.3
+Tea,Lower Manhattan,22709,63864.75

@@ -1,0 +1,3688 @@
+date,store_location,product_category,qty,revenue
+2023-01-01,Astoria,Bakery,17,61.00
+2023-01-01,Astoria,Coffee,125,381.80
+2023-01-01,Astoria,Drinking Chocolate,36,142.50
+2023-01-01,Astoria,Tea,99,283.10
+2023-01-01,Hell's Kitchen,Bakery,18,65.25
+2023-01-01,Hell's Kitchen,Coffee,133,427.05
+2023-01-01,Hell's Kitchen,Drinking Chocolate,17,71.75
+2023-01-01,Hell's Kitchen,Tea,102,287.40
+2023-01-01,Lower Manhattan,Bakery,33,115.25
+2023-01-01,Lower Manhattan,Coffee,117,351.25
+2023-01-01,Lower Manhattan,Drinking Chocolate,20,81.25
+2023-01-01,Lower Manhattan,Tea,85,240.60
+2023-01-02,Astoria,Bakery,36,127.25
+2023-01-02,Astoria,Coffee,141,426.90
+2023-01-02,Astoria,Drinking Chocolate,21,83.50
+2023-01-02,Astoria,Tea,103,287.85
+2023-01-02,Hell's Kitchen,Bakery,23,81.50
+2023-01-02,Hell's Kitchen,Coffee,134,398.30
+2023-01-02,Hell's Kitchen,Drinking Chocolate,16,72.25
+2023-01-02,Hell's Kitchen,Tea,99,276.75
+2023-01-02,Lower Manhattan,Bakery,28,101.00
+2023-01-02,Lower Manhattan,Coffee,101,284.05
+2023-01-02,Lower Manhattan,Drinking Chocolate,16,64.75
+2023-01-02,Lower Manhattan,Tea,72,199.25
+2023-01-03,Astoria,Bakery,22,77.00
+2023-01-03,Astoria,Coffee,140,430.10
+2023-01-03,Astoria,Drinking Chocolate,28,116.50
+2023-01-03,Astoria,Tea,97,279.15
+2023-01-03,Hell's Kitchen,Bakery,29,103.50
+2023-01-03,Hell's Kitchen,Coffee,114,336.40
+2023-01-03,Hell's Kitchen,Drinking Chocolate,33,142.75
+2023-01-03,Hell's Kitchen,Tea,119,323.60
+2023-01-03,Lower Manhattan,Bakery,30,108.25
+2023-01-03,Lower Manhattan,Coffee,111,338.95
+2023-01-03,Lower Manhattan,Drinking Chocolate,20,84.50
+2023-01-03,Lower Manhattan,Tea,80,224.30
+2023-01-04,Astoria,Bakery,23,81.50
+2023-01-04,Astoria,Coffee,112,327.55
+2023-01-04,Astoria,Drinking Chocolate,27,109.75
+2023-01-04,Astoria,Tea,100,289.45
+2023-01-04,Hell's Kitchen,Bakery,16,56.25
+2023-01-04,Hell's Kitchen,Coffee,130,388.75
+2023-01-04,Hell's Kitchen,Drinking Chocolate,23,97.00
+2023-01-04,Hell's Kitchen,Tea,87,239.65
+2023-01-04,Lower Manhattan,Bakery,22,76.75
+2023-01-04,Lower Manhattan,Coffee,95,279.50
+2023-01-04,Lower Manhattan,Drinking Chocolate,12,51.75
+2023-01-04,Lower Manhattan,Tea,79,222.20
+2023-01-05,Astoria,Bakery,30,105.25
+2023-01-05,Astoria,Coffee,117,364.70
+2023-01-05,Astoria,Drinking Chocolate,37,149.50
+2023-01-05,Astoria,Tea,101,283.60
+2023-01-05,Hell's Kitchen,Bakery,17,61.50
+2023-01-05,Hell's Kitchen,Coffee,109,320.15
+2023-01-05,Hell's Kitchen,Drinking Chocolate,21,89.75
+2023-01-05,Hell's Kitchen,Tea,88,243.50
+2023-01-05,Lower Manhattan,Bakery,26,92.50
+2023-01-05,Lower Manhattan,Coffee,120,378.30
+2023-01-05,Lower Manhattan,Drinking Chocolate,14,59.25
+2023-01-05,Lower Manhattan,Tea,98,270.85
+2023-01-06,Astoria,Bakery,29,103.00
+2023-01-06,Astoria,Coffee,93,292.55
+2023-01-06,Astoria,Drinking Chocolate,21,90.00
+2023-01-06,Astoria,Tea,81,230.50
+2023-01-06,Hell's Kitchen,Bakery,25,88.75
+2023-01-06,Hell's Kitchen,Coffee,136,397.90
+2023-01-06,Hell's Kitchen,Drinking Chocolate,14,58.75
+2023-01-06,Hell's Kitchen,Tea,81,221.80
+2023-01-06,Lower Manhattan,Bakery,24,84.00
+2023-01-06,Lower Manhattan,Coffee,121,360.35
+2023-01-06,Lower Manhattan,Drinking Chocolate,30,117.50
+2023-01-06,Lower Manhattan,Tea,81,228.75
+2023-01-07,Astoria,Bakery,27,98.75
+2023-01-07,Astoria,Coffee,103,314.70
+2023-01-07,Astoria,Drinking Chocolate,28,117.25
+2023-01-07,Astoria,Tea,99,276.60
+2023-01-07,Hell's Kitchen,Bakery,30,108.00
+2023-01-07,Hell's Kitchen,Coffee,149,450.50
+2023-01-07,Hell's Kitchen,Coffee beans,3,58.90
+2023-01-07,Hell's Kitchen,Drinking Chocolate,28,119.00
+2023-01-07,Hell's Kitchen,Flavours,18,14.40
+2023-01-07,Hell's Kitchen,Loose Tea,1,9.50
+2023-01-07,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-01-07,Hell's Kitchen,Tea,93,257.40
+2023-01-07,Lower Manhattan,Bakery,23,79.75
+2023-01-07,Lower Manhattan,Coffee,85,264.00
+2023-01-07,Lower Manhattan,Coffee beans,9,179.75
+2023-01-07,Lower Manhattan,Drinking Chocolate,6,26.25
+2023-01-07,Lower Manhattan,Flavours,21,16.80
+2023-01-07,Lower Manhattan,Loose Tea,1,8.95
+2023-01-07,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-01-07,Lower Manhattan,Tea,73,206.35
+2023-01-08,Astoria,Bakery,42,154.25
+2023-01-08,Astoria,Branded,1,14.00
+2023-01-08,Astoria,Coffee,77,230.35
+2023-01-08,Astoria,Coffee beans,3,42.75
+2023-01-08,Astoria,Drinking Chocolate,25,99.25
+2023-01-08,Astoria,Loose Tea,5,47.05
+2023-01-08,Astoria,Tea,74,205.50
+2023-01-08,Hell's Kitchen,Bakery,28,101.25
+2023-01-08,Hell's Kitchen,Coffee,122,366.80
+2023-01-08,Hell's Kitchen,Coffee beans,2,35.45
+2023-01-08,Hell's Kitchen,Drinking Chocolate,18,77.75
+2023-01-08,Hell's Kitchen,Flavours,20,16.00
+2023-01-08,Hell's Kitchen,Loose Tea,3,27.40
+2023-01-08,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-01-08,Hell's Kitchen,Tea,82,227.25
+2023-01-08,Lower Manhattan,Bakery,31,110.00
+2023-01-08,Lower Manhattan,Branded,1,14.00
+2023-01-08,Lower Manhattan,Coffee,119,359.60
+2023-01-08,Lower Manhattan,Coffee beans,7,133.25
+2023-01-08,Lower Manhattan,Drinking Chocolate,15,64.00
+2023-01-08,Lower Manhattan,Flavours,36,28.80
+2023-01-08,Lower Manhattan,Loose Tea,1,9.25
+2023-01-08,Lower Manhattan,Tea,92,253.65
+2023-01-09,Astoria,Bakery,23,81.50
+2023-01-09,Astoria,Coffee,79,244.30
+2023-01-09,Astoria,Coffee beans,4,76.20
+2023-01-09,Astoria,Drinking Chocolate,19,80.50
+2023-01-09,Astoria,Loose Tea,4,36.35
+2023-01-09,Astoria,Packaged Chocolate,4,41.86
+2023-01-09,Astoria,Tea,75,213.30
+2023-01-09,Hell's Kitchen,Bakery,25,91.00
+2023-01-09,Hell's Kitchen,Coffee,100,308.80
+2023-01-09,Hell's Kitchen,Coffee beans,4,73.25
+2023-01-09,Hell's Kitchen,Drinking Chocolate,32,137.75
+2023-01-09,Hell's Kitchen,Flavours,16,12.80
+2023-01-09,Hell's Kitchen,Loose Tea,1,8.95
+2023-01-09,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-01-09,Hell's Kitchen,Tea,93,255.45
+2023-01-09,Lower Manhattan,Bakery,24,103.54
+2023-01-09,Lower Manhattan,Branded,6,98.00
+2023-01-09,Lower Manhattan,Coffee,111,340.30
+2023-01-09,Lower Manhattan,Coffee beans,4,68.20
+2023-01-09,Lower Manhattan,Drinking Chocolate,21,90.75
+2023-01-09,Lower Manhattan,Flavours,3,2.40
+2023-01-09,Lower Manhattan,Loose Tea,4,35.80
+2023-01-09,Lower Manhattan,Packaged Chocolate,2,26.66
+2023-01-09,Lower Manhattan,Tea,87,242.55
+2023-01-10,Astoria,Bakery,37,128.50
+2023-01-10,Astoria,Branded,1,12.00
+2023-01-10,Astoria,Coffee,110,326.65
+2023-01-10,Astoria,Coffee beans,2,41.45
+2023-01-10,Astoria,Drinking Chocolate,27,111.50
+2023-01-10,Astoria,Flavours,25,20.00
+2023-01-10,Astoria,Loose Tea,2,20.20
+2023-01-10,Astoria,Tea,101,286.70
+2023-01-10,Hell's Kitchen,Bakery,26,90.00
+2023-01-10,Hell's Kitchen,Branded,1,12.00
+2023-01-10,Hell's Kitchen,Coffee,111,337.10
+2023-01-10,Hell's Kitchen,Drinking Chocolate,11,43.75
+2023-01-10,Hell's Kitchen,Flavours,26,20.80
+2023-01-10,Hell's Kitchen,Loose Tea,3,27.40
+2023-01-10,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-01-10,Hell's Kitchen,Tea,94,269.45
+2023-01-10,Lower Manhattan,Bakery,37,132.25
+2023-01-10,Lower Manhattan,Branded,1,12.00
+2023-01-10,Lower Manhattan,Coffee,104,321.05
+2023-01-10,Lower Manhattan,Coffee beans,4,105.25
+2023-01-10,Lower Manhattan,Drinking Chocolate,25,99.50
+2023-01-10,Lower Manhattan,Flavours,24,19.20
+2023-01-10,Lower Manhattan,Loose Tea,2,17.90
+2023-01-10,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-01-10,Lower Manhattan,Tea,79,215.80
+2023-01-11,Astoria,Bakery,23,84.25
+2023-01-11,Astoria,Branded,5,66.00
+2023-01-11,Astoria,Coffee,94,284.20
+2023-01-11,Astoria,Drinking Chocolate,20,84.00
+2023-01-11,Astoria,Flavours,17,13.60
+2023-01-11,Astoria,Loose Tea,1,9.50
+2023-01-11,Astoria,Tea,69,198.60
+2023-01-11,Hell's Kitchen,Bakery,34,118.00
+2023-01-11,Hell's Kitchen,Branded,2,40.00
+2023-01-11,Hell's Kitchen,Coffee,113,336.15
+2023-01-11,Hell's Kitchen,Coffee beans,1,45.00
+2023-01-11,Hell's Kitchen,Drinking Chocolate,24,107.00
+2023-01-11,Hell's Kitchen,Flavours,23,18.40
+2023-01-11,Hell's Kitchen,Loose Tea,2,18.45
+2023-01-11,Hell's Kitchen,Packaged Chocolate,5,36.80
+2023-01-11,Hell's Kitchen,Tea,91,254.75
+2023-01-11,Lower Manhattan,Bakery,29,102.75
+2023-01-11,Lower Manhattan,Coffee,84,263.15
+2023-01-11,Lower Manhattan,Coffee beans,3,83.45
+2023-01-11,Lower Manhattan,Drinking Chocolate,26,104.25
+2023-01-11,Lower Manhattan,Flavours,30,24.00
+2023-01-11,Lower Manhattan,Loose Tea,3,27.40
+2023-01-11,Lower Manhattan,Tea,83,236.05
+2023-01-12,Astoria,Bakery,31,108.50
+2023-01-12,Astoria,Coffee,86,256.35
+2023-01-12,Astoria,Coffee beans,2,40.20
+2023-01-12,Astoria,Drinking Chocolate,10,40.25
+2023-01-12,Astoria,Flavours,13,10.40
+2023-01-12,Astoria,Loose Tea,4,36.40
+2023-01-12,Astoria,Packaged Chocolate,1,7.60
+2023-01-12,Astoria,Tea,59,161.00
+2023-01-12,Hell's Kitchen,Bakery,24,87.25
+2023-01-12,Hell's Kitchen,Branded,1,12.00
+2023-01-12,Hell's Kitchen,Coffee,98,283.85
+2023-01-12,Hell's Kitchen,Coffee beans,2,38.45
+2023-01-12,Hell's Kitchen,Drinking Chocolate,15,62.25
+2023-01-12,Hell's Kitchen,Flavours,21,16.80
+2023-01-12,Hell's Kitchen,Loose Tea,1,8.95
+2023-01-12,Hell's Kitchen,Tea,89,242.35
+2023-01-12,Lower Manhattan,Bakery,43,152.25
+2023-01-12,Lower Manhattan,Coffee,102,316.75
+2023-01-12,Lower Manhattan,Coffee beans,3,45.75
+2023-01-12,Lower Manhattan,Drinking Chocolate,27,108.50
+2023-01-12,Lower Manhattan,Flavours,38,30.40
+2023-01-12,Lower Manhattan,Loose Tea,1,10.95
+2023-01-12,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-01-12,Lower Manhattan,Tea,87,242.90
+2023-01-13,Astoria,Bakery,27,98.00
+2023-01-13,Astoria,Coffee,95,287.75
+2023-01-13,Astoria,Drinking Chocolate,15,59.50
+2023-01-13,Astoria,Flavours,20,16.00
+2023-01-13,Astoria,Tea,89,244.55
+2023-01-13,Hell's Kitchen,Bakery,35,125.75
+2023-01-13,Hell's Kitchen,Coffee,164,495.25
+2023-01-13,Hell's Kitchen,Coffee beans,7,135.70
+2023-01-13,Hell's Kitchen,Drinking Chocolate,33,140.25
+2023-01-13,Hell's Kitchen,Flavours,33,26.40
+2023-01-13,Hell's Kitchen,Loose Tea,7,65.75
+2023-01-13,Hell's Kitchen,Packaged Chocolate,2,12.80
+2023-01-13,Hell's Kitchen,Tea,128,360.70
+2023-01-13,Lower Manhattan,Bakery,37,134.25
+2023-01-13,Lower Manhattan,Branded,2,42.00
+2023-01-13,Lower Manhattan,Coffee,120,363.45
+2023-01-13,Lower Manhattan,Coffee beans,3,57.00
+2023-01-13,Lower Manhattan,Drinking Chocolate,15,60.25
+2023-01-13,Lower Manhattan,Flavours,22,17.60
+2023-01-13,Lower Manhattan,Loose Tea,3,27.15
+2023-01-13,Lower Manhattan,Tea,93,263.50
+2023-01-14,Astoria,Bakery,13,44.25
+2023-01-14,Astoria,Branded,3,79.00
+2023-01-14,Astoria,Coffee,84,255.85
+2023-01-14,Astoria,Coffee beans,4,77.70
+2023-01-14,Astoria,Drinking Chocolate,25,105.50
+2023-01-14,Astoria,Flavours,25,20.00
+2023-01-14,Astoria,Loose Tea,2,19.90
+2023-01-14,Astoria,Packaged Chocolate,1,7.60
+2023-01-14,Astoria,Tea,56,153.90
+2023-01-14,Hell's Kitchen,Bakery,51,184.00
+2023-01-14,Hell's Kitchen,Coffee,128,402.55
+2023-01-14,Hell's Kitchen,Coffee beans,7,149.25
+2023-01-14,Hell's Kitchen,Drinking Chocolate,17,70.50
+2023-01-14,Hell's Kitchen,Flavours,30,24.00
+2023-01-14,Hell's Kitchen,Loose Tea,4,35.80
+2023-01-14,Hell's Kitchen,Packaged Chocolate,3,34.26
+2023-01-14,Hell's Kitchen,Tea,86,243.45
+2023-01-14,Lower Manhattan,Bakery,44,155.50
+2023-01-14,Lower Manhattan,Branded,6,106.00
+2023-01-14,Lower Manhattan,Coffee,92,287.75
+2023-01-14,Lower Manhattan,Drinking Chocolate,14,55.50
+2023-01-14,Lower Manhattan,Flavours,29,23.20
+2023-01-14,Lower Manhattan,Loose Tea,1,9.25
+2023-01-14,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-01-14,Lower Manhattan,Tea,45,130.20
+2023-01-15,Astoria,Bakery,38,132.00
+2023-01-15,Astoria,Branded,5,112.00
+2023-01-15,Astoria,Coffee,140,413.35
+2023-01-15,Astoria,Coffee beans,9,218.20
+2023-01-15,Astoria,Drinking Chocolate,19,76.50
+2023-01-15,Astoria,Flavours,23,18.40
+2023-01-15,Astoria,Loose Tea,2,17.90
+2023-01-15,Astoria,Packaged Chocolate,2,20.93
+2023-01-15,Astoria,Tea,127,339.65
+2023-01-15,Hell's Kitchen,Bakery,35,122.00
+2023-01-15,Hell's Kitchen,Branded,2,40.00
+2023-01-15,Hell's Kitchen,Coffee,84,259.55
+2023-01-15,Hell's Kitchen,Coffee beans,3,57.70
+2023-01-15,Hell's Kitchen,Drinking Chocolate,30,122.25
+2023-01-15,Hell's Kitchen,Flavours,13,10.40
+2023-01-15,Hell's Kitchen,Loose Tea,1,8.95
+2023-01-15,Hell's Kitchen,Packaged Chocolate,3,27.33
+2023-01-15,Hell's Kitchen,Tea,109,314.25
+2023-01-15,Lower Manhattan,Bakery,28,98.50
+2023-01-15,Lower Manhattan,Branded,1,14.00
+2023-01-15,Lower Manhattan,Coffee,126,378.80
+2023-01-15,Lower Manhattan,Coffee beans,1,18.00
+2023-01-15,Lower Manhattan,Drinking Chocolate,19,85.50
+2023-01-15,Lower Manhattan,Flavours,28,22.40
+2023-01-15,Lower Manhattan,Loose Tea,2,19.90
+2023-01-15,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-01-15,Lower Manhattan,Tea,76,211.65
+2023-01-16,Astoria,Bakery,31,108.75
+2023-01-16,Astoria,Branded,2,42.00
+2023-01-16,Astoria,Coffee,126,378.70
+2023-01-16,Astoria,Coffee beans,2,25.00
+2023-01-16,Astoria,Drinking Chocolate,37,147.00
+2023-01-16,Astoria,Flavours,24,19.20
+2023-01-16,Astoria,Loose Tea,3,27.95
+2023-01-16,Astoria,Packaged Chocolate,2,20.93
+2023-01-16,Astoria,Tea,92,257.80
+2023-01-16,Hell's Kitchen,Bakery,37,135.00
+2023-01-16,Hell's Kitchen,Coffee,120,360.45
+2023-01-16,Hell's Kitchen,Coffee beans,4,104.45
+2023-01-16,Hell's Kitchen,Drinking Chocolate,19,80.50
+2023-01-16,Hell's Kitchen,Flavours,14,11.20
+2023-01-16,Hell's Kitchen,Loose Tea,4,36.35
+2023-01-16,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-01-16,Hell's Kitchen,Tea,78,215.60
+2023-01-16,Lower Manhattan,Bakery,26,90.00
+2023-01-16,Lower Manhattan,Branded,1,14.00
+2023-01-16,Lower Manhattan,Coffee,110,339.55
+2023-01-16,Lower Manhattan,Coffee beans,4,87.75
+2023-01-16,Lower Manhattan,Drinking Chocolate,14,55.00
+2023-01-16,Lower Manhattan,Flavours,28,22.40
+2023-01-16,Lower Manhattan,Loose Tea,1,8.95
+2023-01-16,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-01-16,Lower Manhattan,Tea,74,219.70
+2023-01-17,Astoria,Bakery,25,90.00
+2023-01-17,Astoria,Branded,8,148.00
+2023-01-17,Astoria,Coffee,109,330.05
+2023-01-17,Astoria,Coffee beans,3,86.45
+2023-01-17,Astoria,Drinking Chocolate,25,104.75
+2023-01-17,Astoria,Flavours,24,19.20
+2023-01-17,Astoria,Loose Tea,2,19.00
+2023-01-17,Astoria,Tea,101,277.95
+2023-01-17,Hell's Kitchen,Bakery,22,78.00
+2023-01-17,Hell's Kitchen,Coffee,79,239.85
+2023-01-17,Hell's Kitchen,Coffee beans,21,850.50
+2023-01-17,Hell's Kitchen,Drinking Chocolate,10,41.25
+2023-01-17,Hell's Kitchen,Flavours,14,11.20
+2023-01-17,Hell's Kitchen,Loose Tea,1,9.50
+2023-01-17,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-01-17,Hell's Kitchen,Tea,66,184.80
+2023-01-17,Lower Manhattan,Bakery,24,86.75
+2023-01-17,Lower Manhattan,Branded,2,40.00
+2023-01-17,Lower Manhattan,Coffee,98,288.05
+2023-01-17,Lower Manhattan,Coffee beans,2,32.50
+2023-01-17,Lower Manhattan,Drinking Chocolate,24,99.75
+2023-01-17,Lower Manhattan,Flavours,30,24.00
+2023-01-17,Lower Manhattan,Loose Tea,2,19.90
+2023-01-17,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-01-17,Lower Manhattan,Tea,68,191.55
+2023-01-18,Astoria,Bakery,34,120.75
+2023-01-18,Astoria,Branded,3,68.00
+2023-01-18,Astoria,Coffee,110,326.75
+2023-01-18,Astoria,Coffee beans,5,116.75
+2023-01-18,Astoria,Drinking Chocolate,21,89.50
+2023-01-18,Astoria,Flavours,19,15.20
+2023-01-18,Astoria,Loose Tea,4,36.10
+2023-01-18,Astoria,Packaged Chocolate,1,13.33
+2023-01-18,Astoria,Tea,98,277.65
+2023-01-18,Hell's Kitchen,Bakery,26,94.25
+2023-01-18,Hell's Kitchen,Branded,1,14.00
+2023-01-18,Hell's Kitchen,Coffee,88,267.20
+2023-01-18,Hell's Kitchen,Coffee beans,4,53.00
+2023-01-18,Hell's Kitchen,Drinking Chocolate,23,90.00
+2023-01-18,Hell's Kitchen,Flavours,21,16.80
+2023-01-18,Hell's Kitchen,Loose Tea,4,35.80
+2023-01-18,Hell's Kitchen,Tea,96,275.05
+2023-01-18,Lower Manhattan,Bakery,28,94.75
+2023-01-18,Lower Manhattan,Branded,1,14.00
+2023-01-18,Lower Manhattan,Coffee,105,321.65
+2023-01-18,Lower Manhattan,Coffee beans,1,15.00
+2023-01-18,Lower Manhattan,Drinking Chocolate,23,95.00
+2023-01-18,Lower Manhattan,Flavours,33,26.40
+2023-01-18,Lower Manhattan,Loose Tea,2,17.90
+2023-01-18,Lower Manhattan,Packaged Chocolate,3,28.53
+2023-01-18,Lower Manhattan,Tea,73,212.60
+2023-01-19,Astoria,Bakery,31,109.25
+2023-01-19,Astoria,Branded,3,70.00
+2023-01-19,Astoria,Coffee,138,429.60
+2023-01-19,Astoria,Coffee beans,4,95.50
+2023-01-19,Astoria,Drinking Chocolate,20,80.50
+2023-01-19,Astoria,Flavours,25,20.00
+2023-01-19,Astoria,Loose Tea,1,8.95
+2023-01-19,Astoria,Packaged Chocolate,2,20.93
+2023-01-19,Astoria,Tea,89,244.65
+2023-01-19,Hell's Kitchen,Bakery,38,136.50
+2023-01-19,Hell's Kitchen,Branded,1,12.00
+2023-01-19,Hell's Kitchen,Coffee,120,353.35
+2023-01-19,Hell's Kitchen,Coffee beans,8,152.75
+2023-01-19,Hell's Kitchen,Drinking Chocolate,20,85.25
+2023-01-19,Hell's Kitchen,Flavours,9,7.20
+2023-01-19,Hell's Kitchen,Loose Tea,2,18.20
+2023-01-19,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-01-19,Hell's Kitchen,Tea,94,273.40
+2023-01-19,Lower Manhattan,Bakery,21,73.00
+2023-01-19,Lower Manhattan,Branded,2,40.00
+2023-01-19,Lower Manhattan,Coffee,106,330.55
+2023-01-19,Lower Manhattan,Coffee beans,2,38.45
+2023-01-19,Lower Manhattan,Drinking Chocolate,27,116.75
+2023-01-19,Lower Manhattan,Flavours,36,28.80
+2023-01-19,Lower Manhattan,Tea,58,160.50
+2023-01-20,Astoria,Bakery,57,203.00
+2023-01-20,Astoria,Coffee,62,174.30
+2023-01-20,Astoria,Coffee beans,7,193.20
+2023-01-20,Astoria,Drinking Chocolate,13,53.50
+2023-01-20,Astoria,Flavours,8,6.40
+2023-01-20,Astoria,Loose Tea,5,44.75
+2023-01-20,Astoria,Packaged Chocolate,2,20.93
+2023-01-20,Astoria,Tea,61,175.35
+2023-01-20,Hell's Kitchen,Bakery,26,93.25
+2023-01-20,Hell's Kitchen,Branded,1,14.00
+2023-01-20,Hell's Kitchen,Coffee,122,362.75
+2023-01-20,Hell's Kitchen,Coffee beans,4,108.95
+2023-01-20,Hell's Kitchen,Drinking Chocolate,20,83.50
+2023-01-20,Hell's Kitchen,Flavours,26,20.80
+2023-01-20,Hell's Kitchen,Loose Tea,3,27.75
+2023-01-20,Hell's Kitchen,Tea,82,229.75
+2023-01-20,Lower Manhattan,Bakery,44,149.00
+2023-01-20,Lower Manhattan,Coffee,103,304.85
+2023-01-20,Lower Manhattan,Coffee beans,2,36.00
+2023-01-20,Lower Manhattan,Drinking Chocolate,12,47.00
+2023-01-20,Lower Manhattan,Flavours,26,20.80
+2023-01-20,Lower Manhattan,Loose Tea,1,8.95
+2023-01-20,Lower Manhattan,Tea,80,224.95
+2023-01-21,Astoria,Bakery,19,64.75
+2023-01-21,Astoria,Branded,7,165.00
+2023-01-21,Astoria,Coffee,90,285.45
+2023-01-21,Astoria,Coffee beans,5,84.20
+2023-01-21,Astoria,Drinking Chocolate,29,131.50
+2023-01-21,Astoria,Flavours,29,23.20
+2023-01-21,Astoria,Tea,86,238.25
+2023-01-21,Hell's Kitchen,Bakery,39,140.25
+2023-01-21,Hell's Kitchen,Branded,2,42.00
+2023-01-21,Hell's Kitchen,Coffee,121,358.70
+2023-01-21,Hell's Kitchen,Coffee beans,5,113.50
+2023-01-21,Hell's Kitchen,Drinking Chocolate,24,99.00
+2023-01-21,Hell's Kitchen,Flavours,21,16.80
+2023-01-21,Hell's Kitchen,Loose Tea,2,18.20
+2023-01-21,Hell's Kitchen,Tea,104,287.05
+2023-01-21,Lower Manhattan,Bakery,41,139.00
+2023-01-21,Lower Manhattan,Branded,1,28.00
+2023-01-21,Lower Manhattan,Coffee,118,363.00
+2023-01-21,Lower Manhattan,Coffee beans,6,111.00
+2023-01-21,Lower Manhattan,Drinking Chocolate,27,112.00
+2023-01-21,Lower Manhattan,Flavours,26,20.80
+2023-01-21,Lower Manhattan,Loose Tea,4,36.40
+2023-01-21,Lower Manhattan,Tea,72,204.80
+2023-01-22,Astoria,Bakery,20,75.00
+2023-01-22,Astoria,Coffee,100,291.25
+2023-01-22,Astoria,Drinking Chocolate,28,114.00
+2023-01-22,Astoria,Tea,92,262.55
+2023-01-22,Hell's Kitchen,Bakery,26,89.00
+2023-01-22,Hell's Kitchen,Coffee,81,243.05
+2023-01-22,Hell's Kitchen,Coffee beans,2,29.75
+2023-01-22,Hell's Kitchen,Drinking Chocolate,18,73.50
+2023-01-22,Hell's Kitchen,Flavours,5,4.00
+2023-01-22,Hell's Kitchen,Loose Tea,1,8.95
+2023-01-22,Hell's Kitchen,Tea,63,173.20
+2023-01-22,Lower Manhattan,Bakery,25,86.10
+2023-01-22,Lower Manhattan,Branded,3,54.00
+2023-01-22,Lower Manhattan,Coffee,143,430.20
+2023-01-22,Lower Manhattan,Drinking Chocolate,19,79.25
+2023-01-22,Lower Manhattan,Flavours,30,24.00
+2023-01-22,Lower Manhattan,Loose Tea,1,9.25
+2023-01-22,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-01-22,Lower Manhattan,Tea,110,306.95
+2023-01-23,Astoria,Bakery,26,95.50
+2023-01-23,Astoria,Coffee,133,413.15
+2023-01-23,Astoria,Drinking Chocolate,35,142.00
+2023-01-23,Astoria,Tea,98,277.65
+2023-01-23,Hell's Kitchen,Bakery,35,120.75
+2023-01-23,Hell's Kitchen,Coffee,130,388.00
+2023-01-23,Hell's Kitchen,Coffee beans,6,125.50
+2023-01-23,Hell's Kitchen,Drinking Chocolate,20,84.00
+2023-01-23,Hell's Kitchen,Flavours,8,6.40
+2023-01-23,Hell's Kitchen,Loose Tea,1,8.95
+2023-01-23,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-01-23,Hell's Kitchen,Tea,103,286.10
+2023-01-23,Lower Manhattan,Bakery,33,111.40
+2023-01-23,Lower Manhattan,Branded,2,42.00
+2023-01-23,Lower Manhattan,Coffee,141,426.70
+2023-01-23,Lower Manhattan,Coffee beans,1,21.00
+2023-01-23,Lower Manhattan,Drinking Chocolate,13,54.00
+2023-01-23,Lower Manhattan,Flavours,20,16.00
+2023-01-23,Lower Manhattan,Loose Tea,1,8.95
+2023-01-23,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-01-23,Lower Manhattan,Tea,77,211.10
+2023-01-24,Astoria,Bakery,34,122.25
+2023-01-24,Astoria,Coffee,124,385.70
+2023-01-24,Astoria,Drinking Chocolate,30,123.25
+2023-01-24,Astoria,Tea,104,290.85
+2023-01-24,Hell's Kitchen,Bakery,24,82.80
+2023-01-24,Hell's Kitchen,Coffee,95,275.60
+2023-01-24,Hell's Kitchen,Coffee beans,6,111.70
+2023-01-24,Hell's Kitchen,Drinking Chocolate,27,108.00
+2023-01-24,Hell's Kitchen,Flavours,3,2.40
+2023-01-24,Hell's Kitchen,Loose Tea,3,27.15
+2023-01-24,Hell's Kitchen,Tea,84,233.45
+2023-01-24,Lower Manhattan,Bakery,36,123.90
+2023-01-24,Lower Manhattan,Branded,3,70.00
+2023-01-24,Lower Manhattan,Coffee,132,398.45
+2023-01-24,Lower Manhattan,Coffee beans,1,10.00
+2023-01-24,Lower Manhattan,Drinking Chocolate,30,118.50
+2023-01-24,Lower Manhattan,Flavours,27,21.60
+2023-01-24,Lower Manhattan,Loose Tea,3,26.85
+2023-01-24,Lower Manhattan,Tea,117,336.50
+2023-01-25,Astoria,Bakery,26,89.00
+2023-01-25,Astoria,Coffee,152,442.10
+2023-01-25,Astoria,Drinking Chocolate,26,106.25
+2023-01-25,Astoria,Tea,110,304.65
+2023-01-25,Hell's Kitchen,Bakery,35,125.25
+2023-01-25,Hell's Kitchen,Coffee,114,330.00
+2023-01-25,Hell's Kitchen,Coffee beans,1,45.00
+2023-01-25,Hell's Kitchen,Drinking Chocolate,17,69.00
+2023-01-25,Hell's Kitchen,Flavours,3,2.40
+2023-01-25,Hell's Kitchen,Loose Tea,3,26.85
+2023-01-25,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-01-25,Hell's Kitchen,Tea,84,235.80
+2023-01-25,Lower Manhattan,Bakery,30,106.00
+2023-01-25,Lower Manhattan,Coffee,134,393.75
+2023-01-25,Lower Manhattan,Coffee beans,5,87.45
+2023-01-25,Lower Manhattan,Drinking Chocolate,23,96.00
+2023-01-25,Lower Manhattan,Flavours,17,13.60
+2023-01-25,Lower Manhattan,Loose Tea,2,18.20
+2023-01-25,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-01-25,Lower Manhattan,Tea,122,341.25
+2023-01-26,Astoria,Bakery,27,97.25
+2023-01-26,Astoria,Coffee,164,496.45
+2023-01-26,Astoria,Drinking Chocolate,18,69.00
+2023-01-26,Astoria,Tea,99,276.55
+2023-01-26,Hell's Kitchen,Bakery,36,126.00
+2023-01-26,Hell's Kitchen,Coffee,111,335.60
+2023-01-26,Hell's Kitchen,Coffee beans,3,53.20
+2023-01-26,Hell's Kitchen,Drinking Chocolate,17,73.50
+2023-01-26,Hell's Kitchen,Flavours,10,8.00
+2023-01-26,Hell's Kitchen,Loose Tea,4,37.80
+2023-01-26,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-01-26,Hell's Kitchen,Tea,73,209.00
+2023-01-26,Lower Manhattan,Bakery,26,90.65
+2023-01-26,Lower Manhattan,Branded,4,70.00
+2023-01-26,Lower Manhattan,Coffee,128,385.05
+2023-01-26,Lower Manhattan,Coffee beans,3,61.50
+2023-01-26,Lower Manhattan,Drinking Chocolate,25,108.00
+2023-01-26,Lower Manhattan,Flavours,22,17.60
+2023-01-26,Lower Manhattan,Loose Tea,2,19.00
+2023-01-26,Lower Manhattan,Tea,114,315.55
+2023-01-27,Astoria,Bakery,25,89.50
+2023-01-27,Astoria,Coffee,112,321.90
+2023-01-27,Astoria,Drinking Chocolate,31,129.75
+2023-01-27,Astoria,Tea,105,297.40
+2023-01-27,Hell's Kitchen,Bakery,12,41.50
+2023-01-27,Hell's Kitchen,Coffee,119,353.75
+2023-01-27,Hell's Kitchen,Coffee beans,1,15.00
+2023-01-27,Hell's Kitchen,Drinking Chocolate,25,101.50
+2023-01-27,Hell's Kitchen,Flavours,26,20.80
+2023-01-27,Hell's Kitchen,Tea,81,227.50
+2023-01-27,Lower Manhattan,Bakery,33,113.05
+2023-01-27,Lower Manhattan,Branded,4,64.00
+2023-01-27,Lower Manhattan,Coffee,132,389.55
+2023-01-27,Lower Manhattan,Coffee beans,3,57.00
+2023-01-27,Lower Manhattan,Drinking Chocolate,27,110.25
+2023-01-27,Lower Manhattan,Flavours,18,14.40
+2023-01-27,Lower Manhattan,Loose Tea,2,17.90
+2023-01-27,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-01-27,Lower Manhattan,Tea,129,370.95
+2023-01-28,Astoria,Bakery,21,73.50
+2023-01-28,Astoria,Coffee,125,371.15
+2023-01-28,Astoria,Drinking Chocolate,18,69.75
+2023-01-28,Astoria,Tea,80,218.85
+2023-01-28,Hell's Kitchen,Bakery,24,88.50
+2023-01-28,Hell's Kitchen,Coffee,99,299.75
+2023-01-28,Hell's Kitchen,Drinking Chocolate,25,96.50
+2023-01-28,Hell's Kitchen,Tea,79,214.90
+2023-01-28,Lower Manhattan,Bakery,26,87.15
+2023-01-28,Lower Manhattan,Coffee,102,302.35
+2023-01-28,Lower Manhattan,Drinking Chocolate,10,42.50
+2023-01-28,Lower Manhattan,Tea,63,172.20
+2023-01-29,Astoria,Bakery,27,95.75
+2023-01-29,Astoria,Coffee,99,287.25
+2023-01-29,Astoria,Drinking Chocolate,37,158.50
+2023-01-29,Astoria,Tea,98,279.20
+2023-01-29,Hell's Kitchen,Bakery,25,87.75
+2023-01-29,Hell's Kitchen,Coffee,99,299.05
+2023-01-29,Hell's Kitchen,Drinking Chocolate,16,65.50
+2023-01-29,Hell's Kitchen,Tea,55,159.85
+2023-01-29,Lower Manhattan,Bakery,30,103.85
+2023-01-29,Lower Manhattan,Coffee,98,308.65
+2023-01-29,Lower Manhattan,Drinking Chocolate,21,86.00
+2023-01-29,Lower Manhattan,Tea,47,129.40
+2023-01-30,Astoria,Bakery,30,106.75
+2023-01-30,Astoria,Branded,3,54.00
+2023-01-30,Astoria,Coffee,96,303.00
+2023-01-30,Astoria,Coffee beans,5,97.50
+2023-01-30,Astoria,Drinking Chocolate,14,59.00
+2023-01-30,Astoria,Flavours,13,10.40
+2023-01-30,Astoria,Loose Tea,1,8.95
+2023-01-30,Astoria,Tea,80,231.00
+2023-01-30,Hell's Kitchen,Bakery,25,88.25
+2023-01-30,Hell's Kitchen,Coffee,99,292.05
+2023-01-30,Hell's Kitchen,Coffee beans,6,140.75
+2023-01-30,Hell's Kitchen,Drinking Chocolate,33,133.50
+2023-01-30,Hell's Kitchen,Flavours,5,4.00
+2023-01-30,Hell's Kitchen,Loose Tea,1,8.95
+2023-01-30,Hell's Kitchen,Tea,73,200.90
+2023-01-30,Lower Manhattan,Bakery,33,119.78
+2023-01-30,Lower Manhattan,Branded,6,96.00
+2023-01-30,Lower Manhattan,Coffee,72,221.60
+2023-01-30,Lower Manhattan,Coffee beans,1,23.00
+2023-01-30,Lower Manhattan,Drinking Chocolate,15,59.25
+2023-01-30,Lower Manhattan,Flavours,18,14.40
+2023-01-30,Lower Manhattan,Loose Tea,1,8.95
+2023-01-30,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-01-30,Lower Manhattan,Tea,61,173.50
+2023-01-31,Astoria,Bakery,21,76.50
+2023-01-31,Astoria,Branded,1,28.00
+2023-01-31,Astoria,Coffee,99,312.90
+2023-01-31,Astoria,Coffee beans,4,66.20
+2023-01-31,Astoria,Drinking Chocolate,17,66.00
+2023-01-31,Astoria,Flavours,6,4.80
+2023-01-31,Astoria,Loose Tea,7,62.95
+2023-01-31,Astoria,Tea,64,184.15
+2023-01-31,Hell's Kitchen,Bakery,30,107.15
+2023-01-31,Hell's Kitchen,Coffee,84,246.15
+2023-01-31,Hell's Kitchen,Coffee beans,5,118.40
+2023-01-31,Hell's Kitchen,Drinking Chocolate,4,16.50
+2023-01-31,Hell's Kitchen,Flavours,13,10.40
+2023-01-31,Hell's Kitchen,Loose Tea,5,45.30
+2023-01-31,Hell's Kitchen,Tea,77,224.50
+2023-01-31,Lower Manhattan,Bakery,27,94.13
+2023-01-31,Lower Manhattan,Branded,1,28.00
+2023-01-31,Lower Manhattan,Coffee,84,264.45
+2023-01-31,Lower Manhattan,Coffee beans,5,96.50
+2023-01-31,Lower Manhattan,Drinking Chocolate,18,81.00
+2023-01-31,Lower Manhattan,Flavours,7,5.60
+2023-01-31,Lower Manhattan,Loose Tea,1,9.25
+2023-01-31,Lower Manhattan,Tea,65,185.30
+2023-02-01,Astoria,Bakery,30,103.00
+2023-02-01,Astoria,Coffee,108,326.20
+2023-02-01,Astoria,Drinking Chocolate,28,115.50
+2023-02-01,Astoria,Tea,106,289.00
+2023-02-01,Hell's Kitchen,Bakery,20,70.50
+2023-02-01,Hell's Kitchen,Coffee,119,371.30
+2023-02-01,Hell's Kitchen,Drinking Chocolate,31,128.50
+2023-02-01,Hell's Kitchen,Tea,99,279.10
+2023-02-01,Lower Manhattan,Bakery,31,106.75
+2023-02-01,Lower Manhattan,Coffee,122,365.60
+2023-02-01,Lower Manhattan,Drinking Chocolate,20,84.00
+2023-02-01,Lower Manhattan,Tea,82,226.85
+2023-02-02,Astoria,Bakery,31,107.50
+2023-02-02,Astoria,Coffee,123,375.25
+2023-02-02,Astoria,Drinking Chocolate,27,114.00
+2023-02-02,Astoria,Tea,121,348.05
+2023-02-02,Hell's Kitchen,Bakery,22,79.75
+2023-02-02,Hell's Kitchen,Coffee,131,390.65
+2023-02-02,Hell's Kitchen,Drinking Chocolate,29,124.50
+2023-02-02,Hell's Kitchen,Tea,105,289.05
+2023-02-02,Lower Manhattan,Bakery,27,95.75
+2023-02-02,Lower Manhattan,Coffee,92,253.30
+2023-02-02,Lower Manhattan,Drinking Chocolate,18,77.75
+2023-02-02,Lower Manhattan,Tea,88,251.35
+2023-02-03,Astoria,Bakery,31,108.00
+2023-02-03,Astoria,Coffee,128,375.85
+2023-02-03,Astoria,Drinking Chocolate,38,154.25
+2023-02-03,Astoria,Tea,104,302.10
+2023-02-03,Hell's Kitchen,Bakery,27,97.50
+2023-02-03,Hell's Kitchen,Coffee,111,332.10
+2023-02-03,Hell's Kitchen,Drinking Chocolate,25,104.50
+2023-02-03,Hell's Kitchen,Tea,128,361.90
+2023-02-03,Lower Manhattan,Bakery,29,103.50
+2023-02-03,Lower Manhattan,Coffee,117,370.05
+2023-02-03,Lower Manhattan,Drinking Chocolate,12,48.50
+2023-02-03,Lower Manhattan,Tea,84,233.20
+2023-02-04,Astoria,Bakery,27,94.25
+2023-02-04,Astoria,Coffee,130,383.05
+2023-02-04,Astoria,Drinking Chocolate,25,101.25
+2023-02-04,Astoria,Tea,89,247.40
+2023-02-04,Hell's Kitchen,Bakery,22,79.50
+2023-02-04,Hell's Kitchen,Coffee,143,410.90
+2023-02-04,Hell's Kitchen,Drinking Chocolate,28,116.00
+2023-02-04,Hell's Kitchen,Tea,85,238.25
+2023-02-04,Lower Manhattan,Bakery,37,131.50
+2023-02-04,Lower Manhattan,Coffee,120,363.85
+2023-02-04,Lower Manhattan,Drinking Chocolate,19,78.00
+2023-02-04,Lower Manhattan,Tea,109,307.75
+2023-02-05,Astoria,Bakery,35,121.50
+2023-02-05,Astoria,Coffee,134,408.60
+2023-02-05,Astoria,Drinking Chocolate,22,85.50
+2023-02-05,Astoria,Tea,92,255.65
+2023-02-05,Hell's Kitchen,Bakery,16,57.50
+2023-02-05,Hell's Kitchen,Coffee,84,244.30
+2023-02-05,Hell's Kitchen,Drinking Chocolate,22,92.00
+2023-02-05,Hell's Kitchen,Tea,111,315.55
+2023-02-05,Lower Manhattan,Bakery,33,117.50
+2023-02-05,Lower Manhattan,Coffee,94,297.00
+2023-02-05,Lower Manhattan,Drinking Chocolate,14,60.00
+2023-02-05,Lower Manhattan,Tea,91,249.60
+2023-02-06,Astoria,Bakery,25,92.50
+2023-02-06,Astoria,Coffee,84,255.75
+2023-02-06,Astoria,Drinking Chocolate,20,83.25
+2023-02-06,Astoria,Tea,80,223.85
+2023-02-06,Hell's Kitchen,Bakery,22,79.75
+2023-02-06,Hell's Kitchen,Coffee,138,407.45
+2023-02-06,Hell's Kitchen,Drinking Chocolate,16,66.50
+2023-02-06,Hell's Kitchen,Tea,88,242.45
+2023-02-06,Lower Manhattan,Bakery,20,68.00
+2023-02-06,Lower Manhattan,Coffee,103,315.45
+2023-02-06,Lower Manhattan,Drinking Chocolate,31,123.50
+2023-02-06,Lower Manhattan,Tea,85,244.95
+2023-02-07,Astoria,Bakery,27,97.75
+2023-02-07,Astoria,Coffee,106,324.30
+2023-02-07,Astoria,Drinking Chocolate,25,103.25
+2023-02-07,Astoria,Tea,97,279.00
+2023-02-07,Hell's Kitchen,Bakery,29,104.00
+2023-02-07,Hell's Kitchen,Coffee,123,355.05
+2023-02-07,Hell's Kitchen,Coffee beans,3,58.90
+2023-02-07,Hell's Kitchen,Drinking Chocolate,24,96.25
+2023-02-07,Hell's Kitchen,Flavours,21,16.80
+2023-02-07,Hell's Kitchen,Packaged Chocolate,2,12.80
+2023-02-07,Hell's Kitchen,Tea,90,249.45
+2023-02-07,Lower Manhattan,Bakery,24,82.75
+2023-02-07,Lower Manhattan,Coffee,88,268.75
+2023-02-07,Lower Manhattan,Coffee beans,3,70.00
+2023-02-07,Lower Manhattan,Drinking Chocolate,10,43.00
+2023-02-07,Lower Manhattan,Flavours,17,13.60
+2023-02-07,Lower Manhattan,Loose Tea,4,37.80
+2023-02-07,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-02-07,Lower Manhattan,Tea,75,213.50
+2023-02-08,Astoria,Bakery,38,140.25
+2023-02-08,Astoria,Branded,1,28.00
+2023-02-08,Astoria,Coffee,92,288.90
+2023-02-08,Astoria,Coffee beans,3,44.75
+2023-02-08,Astoria,Drinking Chocolate,29,118.50
+2023-02-08,Astoria,Flavours,2,1.60
+2023-02-08,Astoria,Loose Tea,3,29.40
+2023-02-08,Astoria,Packaged Chocolate,1,6.40
+2023-02-08,Astoria,Tea,94,271.00
+2023-02-08,Hell's Kitchen,Bakery,23,84.25
+2023-02-08,Hell's Kitchen,Coffee,144,441.95
+2023-02-08,Hell's Kitchen,Coffee beans,4,68.20
+2023-02-08,Hell's Kitchen,Drinking Chocolate,17,73.25
+2023-02-08,Hell's Kitchen,Flavours,24,19.20
+2023-02-08,Hell's Kitchen,Loose Tea,1,8.95
+2023-02-08,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-02-08,Hell's Kitchen,Tea,84,240.80
+2023-02-08,Lower Manhattan,Bakery,29,102.50
+2023-02-08,Lower Manhattan,Branded,1,14.00
+2023-02-08,Lower Manhattan,Coffee,100,310.75
+2023-02-08,Lower Manhattan,Coffee beans,3,58.50
+2023-02-08,Lower Manhattan,Drinking Chocolate,20,81.25
+2023-02-08,Lower Manhattan,Flavours,33,26.40
+2023-02-08,Lower Manhattan,Loose Tea,3,27.15
+2023-02-08,Lower Manhattan,Tea,94,263.15
+2023-02-09,Astoria,Bakery,23,82.00
+2023-02-09,Astoria,Coffee,100,297.30
+2023-02-09,Astoria,Coffee beans,7,182.45
+2023-02-09,Astoria,Drinking Chocolate,18,74.00
+2023-02-09,Astoria,Loose Tea,1,8.95
+2023-02-09,Astoria,Packaged Chocolate,1,7.60
+2023-02-09,Astoria,Tea,75,214.50
+2023-02-09,Hell's Kitchen,Bakery,37,134.75
+2023-02-09,Hell's Kitchen,Coffee,114,344.40
+2023-02-09,Hell's Kitchen,Drinking Chocolate,24,98.50
+2023-02-09,Hell's Kitchen,Flavours,30,24.00
+2023-02-09,Hell's Kitchen,Loose Tea,1,8.95
+2023-02-09,Hell's Kitchen,Packaged Chocolate,2,14.00
+2023-02-09,Hell's Kitchen,Tea,84,234.65
+2023-02-09,Lower Manhattan,Bakery,24,98.72
+2023-02-09,Lower Manhattan,Branded,3,42.00
+2023-02-09,Lower Manhattan,Coffee,104,327.85
+2023-02-09,Lower Manhattan,Coffee beans,1,20.45
+2023-02-09,Lower Manhattan,Drinking Chocolate,27,114.00
+2023-02-09,Lower Manhattan,Loose Tea,4,36.35
+2023-02-09,Lower Manhattan,Packaged Chocolate,3,34.26
+2023-02-09,Lower Manhattan,Tea,78,210.95
+2023-02-10,Astoria,Bakery,24,85.25
+2023-02-10,Astoria,Branded,2,24.00
+2023-02-10,Astoria,Coffee,103,315.65
+2023-02-10,Astoria,Coffee beans,1,15.00
+2023-02-10,Astoria,Drinking Chocolate,25,99.00
+2023-02-10,Astoria,Flavours,37,29.60
+2023-02-10,Astoria,Loose Tea,1,9.25
+2023-02-10,Astoria,Packaged Chocolate,1,6.40
+2023-02-10,Astoria,Tea,103,283.85
+2023-02-10,Hell's Kitchen,Bakery,43,156.00
+2023-02-10,Hell's Kitchen,Coffee,135,399.60
+2023-02-10,Hell's Kitchen,Coffee beans,6,98.25
+2023-02-10,Hell's Kitchen,Drinking Chocolate,17,68.50
+2023-02-10,Hell's Kitchen,Flavours,12,9.60
+2023-02-10,Hell's Kitchen,Loose Tea,2,17.90
+2023-02-10,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-02-10,Hell's Kitchen,Tea,110,316.05
+2023-02-10,Lower Manhattan,Bakery,35,127.00
+2023-02-10,Lower Manhattan,Branded,1,12.00
+2023-02-10,Lower Manhattan,Coffee,126,383.05
+2023-02-10,Lower Manhattan,Coffee beans,3,81.00
+2023-02-10,Lower Manhattan,Drinking Chocolate,23,92.25
+2023-02-10,Lower Manhattan,Flavours,27,21.60
+2023-02-10,Lower Manhattan,Loose Tea,2,17.90
+2023-02-10,Lower Manhattan,Packaged Chocolate,2,15.20
+2023-02-10,Lower Manhattan,Tea,76,211.30
+2023-02-11,Astoria,Bakery,17,61.75
+2023-02-11,Astoria,Branded,3,42.00
+2023-02-11,Astoria,Coffee,89,262.60
+2023-02-11,Astoria,Drinking Chocolate,21,85.25
+2023-02-11,Astoria,Flavours,14,11.20
+2023-02-11,Astoria,Loose Tea,2,18.45
+2023-02-11,Astoria,Tea,66,188.80
+2023-02-11,Hell's Kitchen,Bakery,39,141.50
+2023-02-11,Hell's Kitchen,Branded,1,28.00
+2023-02-11,Hell's Kitchen,Coffee,116,377.00
+2023-02-11,Hell's Kitchen,Coffee beans,4,74.45
+2023-02-11,Hell's Kitchen,Drinking Chocolate,21,88.25
+2023-02-11,Hell's Kitchen,Flavours,32,25.60
+2023-02-11,Hell's Kitchen,Packaged Chocolate,4,41.86
+2023-02-11,Hell's Kitchen,Tea,90,254.55
+2023-02-11,Lower Manhattan,Bakery,31,110.25
+2023-02-11,Lower Manhattan,Coffee,92,277.25
+2023-02-11,Lower Manhattan,Coffee beans,2,38.45
+2023-02-11,Lower Manhattan,Drinking Chocolate,19,87.50
+2023-02-11,Lower Manhattan,Flavours,26,20.80
+2023-02-11,Lower Manhattan,Loose Tea,2,19.90
+2023-02-11,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-02-11,Lower Manhattan,Tea,92,258.00
+2023-02-12,Astoria,Bakery,29,99.50
+2023-02-12,Astoria,Coffee,82,257.95
+2023-02-12,Astoria,Coffee beans,1,14.75
+2023-02-12,Astoria,Drinking Chocolate,25,97.50
+2023-02-12,Astoria,Flavours,17,13.60
+2023-02-12,Astoria,Loose Tea,7,63.20
+2023-02-12,Astoria,Packaged Chocolate,2,15.20
+2023-02-12,Astoria,Tea,44,118.90
+2023-02-12,Hell's Kitchen,Bakery,33,119.50
+2023-02-12,Hell's Kitchen,Branded,3,40.00
+2023-02-12,Hell's Kitchen,Coffee,112,334.35
+2023-02-12,Hell's Kitchen,Coffee beans,6,162.00
+2023-02-12,Hell's Kitchen,Drinking Chocolate,25,106.75
+2023-02-12,Hell's Kitchen,Flavours,30,24.00
+2023-02-12,Hell's Kitchen,Loose Tea,3,28.85
+2023-02-12,Hell's Kitchen,Tea,114,310.35
+2023-02-12,Lower Manhattan,Bakery,45,162.25
+2023-02-12,Lower Manhattan,Coffee,131,375.50
+2023-02-12,Lower Manhattan,Coffee beans,5,129.25
+2023-02-12,Lower Manhattan,Drinking Chocolate,23,90.00
+2023-02-12,Lower Manhattan,Flavours,35,28.00
+2023-02-12,Lower Manhattan,Loose Tea,2,21.90
+2023-02-12,Lower Manhattan,Packaged Chocolate,2,14.00
+2023-02-12,Lower Manhattan,Tea,96,266.70
+2023-02-13,Astoria,Bakery,20,72.75
+2023-02-13,Astoria,Coffee,85,264.90
+2023-02-13,Astoria,Drinking Chocolate,22,92.00
+2023-02-13,Astoria,Flavours,14,11.20
+2023-02-13,Astoria,Tea,71,201.05
+2023-02-13,Hell's Kitchen,Bakery,34,126.00
+2023-02-13,Hell's Kitchen,Coffee,168,488.70
+2023-02-13,Hell's Kitchen,Coffee beans,7,129.45
+2023-02-13,Hell's Kitchen,Drinking Chocolate,31,128.25
+2023-02-13,Hell's Kitchen,Flavours,25,20.00
+2023-02-13,Hell's Kitchen,Loose Tea,3,28.85
+2023-02-13,Hell's Kitchen,Tea,95,263.90
+2023-02-13,Lower Manhattan,Bakery,45,161.25
+2023-02-13,Lower Manhattan,Coffee,131,399.60
+2023-02-13,Lower Manhattan,Coffee beans,1,21.00
+2023-02-13,Lower Manhattan,Drinking Chocolate,20,84.50
+2023-02-13,Lower Manhattan,Flavours,27,21.60
+2023-02-13,Lower Manhattan,Loose Tea,3,26.85
+2023-02-13,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-02-13,Lower Manhattan,Tea,100,282.70
+2023-02-14,Astoria,Bakery,14,50.00
+2023-02-14,Astoria,Branded,4,75.00
+2023-02-14,Astoria,Coffee,76,230.75
+2023-02-14,Astoria,Coffee beans,4,68.20
+2023-02-14,Astoria,Drinking Chocolate,20,86.25
+2023-02-14,Astoria,Flavours,24,19.20
+2023-02-14,Astoria,Loose Tea,3,26.85
+2023-02-14,Astoria,Packaged Chocolate,1,7.60
+2023-02-14,Astoria,Tea,64,183.20
+2023-02-14,Hell's Kitchen,Bakery,55,196.75
+2023-02-14,Hell's Kitchen,Coffee,136,437.15
+2023-02-14,Hell's Kitchen,Coffee beans,6,108.75
+2023-02-14,Hell's Kitchen,Drinking Chocolate,23,97.75
+2023-02-14,Hell's Kitchen,Flavours,41,32.80
+2023-02-14,Hell's Kitchen,Loose Tea,7,68.65
+2023-02-14,Hell's Kitchen,Tea,81,221.80
+2023-02-14,Lower Manhattan,Bakery,31,108.25
+2023-02-14,Lower Manhattan,Branded,4,52.00
+2023-02-14,Lower Manhattan,Coffee,110,337.05
+2023-02-14,Lower Manhattan,Coffee beans,1,15.00
+2023-02-14,Lower Manhattan,Drinking Chocolate,10,38.00
+2023-02-14,Lower Manhattan,Flavours,30,24.00
+2023-02-14,Lower Manhattan,Loose Tea,4,36.65
+2023-02-14,Lower Manhattan,Packaged Chocolate,2,19.73
+2023-02-14,Lower Manhattan,Tea,45,132.55
+2023-02-15,Astoria,Bakery,38,133.75
+2023-02-15,Astoria,Branded,2,42.00
+2023-02-15,Astoria,Coffee,146,456.50
+2023-02-15,Astoria,Coffee beans,7,114.50
+2023-02-15,Astoria,Drinking Chocolate,34,140.00
+2023-02-15,Astoria,Flavours,35,28.00
+2023-02-15,Astoria,Loose Tea,2,19.90
+2023-02-15,Astoria,Packaged Chocolate,1,7.60
+2023-02-15,Astoria,Tea,110,312.70
+2023-02-15,Hell's Kitchen,Bakery,30,103.25
+2023-02-15,Hell's Kitchen,Branded,1,12.00
+2023-02-15,Hell's Kitchen,Coffee,84,252.75
+2023-02-15,Hell's Kitchen,Coffee beans,3,65.45
+2023-02-15,Hell's Kitchen,Drinking Chocolate,26,111.00
+2023-02-15,Hell's Kitchen,Flavours,14,11.20
+2023-02-15,Hell's Kitchen,Loose Tea,4,37.80
+2023-02-15,Hell's Kitchen,Tea,92,256.80
+2023-02-15,Lower Manhattan,Bakery,19,65.75
+2023-02-15,Lower Manhattan,Branded,4,50.00
+2023-02-15,Lower Manhattan,Coffee,89,275.30
+2023-02-15,Lower Manhattan,Coffee beans,1,22.50
+2023-02-15,Lower Manhattan,Drinking Chocolate,29,122.50
+2023-02-15,Lower Manhattan,Flavours,24,19.20
+2023-02-15,Lower Manhattan,Loose Tea,4,38.10
+2023-02-15,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-02-15,Lower Manhattan,Tea,78,221.90
+2023-02-16,Astoria,Bakery,39,136.25
+2023-02-16,Astoria,Branded,2,42.00
+2023-02-16,Astoria,Coffee,139,421.00
+2023-02-16,Astoria,Coffee beans,5,116.50
+2023-02-16,Astoria,Drinking Chocolate,29,121.00
+2023-02-16,Astoria,Flavours,18,14.40
+2023-02-16,Astoria,Loose Tea,4,36.35
+2023-02-16,Astoria,Tea,105,303.80
+2023-02-16,Hell's Kitchen,Bakery,32,114.75
+2023-02-16,Hell's Kitchen,Branded,2,28.00
+2023-02-16,Hell's Kitchen,Coffee,89,264.30
+2023-02-16,Hell's Kitchen,Coffee beans,5,81.45
+2023-02-16,Hell's Kitchen,Drinking Chocolate,21,91.00
+2023-02-16,Hell's Kitchen,Flavours,16,12.80
+2023-02-16,Hell's Kitchen,Loose Tea,4,36.35
+2023-02-16,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-02-16,Hell's Kitchen,Tea,95,266.25
+2023-02-16,Lower Manhattan,Bakery,29,100.00
+2023-02-16,Lower Manhattan,Branded,3,40.00
+2023-02-16,Lower Manhattan,Coffee,96,295.35
+2023-02-16,Lower Manhattan,Coffee beans,3,74.75
+2023-02-16,Lower Manhattan,Drinking Chocolate,25,106.50
+2023-02-16,Lower Manhattan,Flavours,15,12.00
+2023-02-16,Lower Manhattan,Loose Tea,3,29.15
+2023-02-16,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-02-16,Lower Manhattan,Tea,91,259.65
+2023-02-17,Astoria,Bakery,37,131.50
+2023-02-17,Astoria,Branded,3,56.00
+2023-02-17,Astoria,Coffee,134,398.05
+2023-02-17,Astoria,Coffee beans,2,38.45
+2023-02-17,Astoria,Drinking Chocolate,21,94.00
+2023-02-17,Astoria,Flavours,19,15.20
+2023-02-17,Astoria,Loose Tea,1,10.95
+2023-02-17,Astoria,Tea,81,223.45
+2023-02-17,Hell's Kitchen,Bakery,27,96.25
+2023-02-17,Hell's Kitchen,Coffee,84,246.55
+2023-02-17,Hell's Kitchen,Coffee beans,1,19.75
+2023-02-17,Hell's Kitchen,Drinking Chocolate,15,58.25
+2023-02-17,Hell's Kitchen,Flavours,8,6.40
+2023-02-17,Hell's Kitchen,Packaged Chocolate,2,14.00
+2023-02-17,Hell's Kitchen,Tea,72,196.40
+2023-02-17,Lower Manhattan,Bakery,26,94.50
+2023-02-17,Lower Manhattan,Branded,1,12.00
+2023-02-17,Lower Manhattan,Coffee,88,263.45
+2023-02-17,Lower Manhattan,Drinking Chocolate,22,93.50
+2023-02-17,Lower Manhattan,Flavours,20,16.00
+2023-02-17,Lower Manhattan,Loose Tea,1,10.95
+2023-02-17,Lower Manhattan,Tea,71,205.15
+2023-02-18,Astoria,Bakery,36,126.50
+2023-02-18,Astoria,Branded,4,82.00
+2023-02-18,Astoria,Coffee,104,333.70
+2023-02-18,Astoria,Coffee beans,3,80.20
+2023-02-18,Astoria,Drinking Chocolate,37,153.75
+2023-02-18,Astoria,Flavours,25,20.00
+2023-02-18,Astoria,Loose Tea,2,17.90
+2023-02-18,Astoria,Packaged Chocolate,1,13.33
+2023-02-18,Astoria,Tea,85,242.15
+2023-02-18,Hell's Kitchen,Bakery,28,95.25
+2023-02-18,Hell's Kitchen,Branded,1,14.00
+2023-02-18,Hell's Kitchen,Coffee,121,354.10
+2023-02-18,Hell's Kitchen,Coffee beans,8,162.70
+2023-02-18,Hell's Kitchen,Drinking Chocolate,31,128.50
+2023-02-18,Hell's Kitchen,Flavours,16,12.80
+2023-02-18,Hell's Kitchen,Loose Tea,4,36.35
+2023-02-18,Hell's Kitchen,Tea,88,245.80
+2023-02-18,Lower Manhattan,Bakery,23,78.75
+2023-02-18,Lower Manhattan,Branded,1,14.00
+2023-02-18,Lower Manhattan,Coffee,82,260.55
+2023-02-18,Lower Manhattan,Coffee beans,5,84.00
+2023-02-18,Lower Manhattan,Drinking Chocolate,16,61.50
+2023-02-18,Lower Manhattan,Flavours,34,27.20
+2023-02-18,Lower Manhattan,Loose Tea,2,17.90
+2023-02-18,Lower Manhattan,Packaged Chocolate,2,14.00
+2023-02-18,Lower Manhattan,Tea,68,188.55
+2023-02-19,Astoria,Bakery,36,125.75
+2023-02-19,Astoria,Branded,2,28.00
+2023-02-19,Astoria,Coffee,134,393.10
+2023-02-19,Astoria,Coffee beans,8,137.50
+2023-02-19,Astoria,Drinking Chocolate,27,111.25
+2023-02-19,Astoria,Flavours,14,11.20
+2023-02-19,Astoria,Loose Tea,3,27.15
+2023-02-19,Astoria,Tea,118,330.45
+2023-02-19,Hell's Kitchen,Bakery,48,169.25
+2023-02-19,Hell's Kitchen,Branded,1,12.00
+2023-02-19,Hell's Kitchen,Coffee,137,407.40
+2023-02-19,Hell's Kitchen,Coffee beans,7,166.20
+2023-02-19,Hell's Kitchen,Drinking Chocolate,30,125.50
+2023-02-19,Hell's Kitchen,Flavours,19,15.20
+2023-02-19,Hell's Kitchen,Loose Tea,3,27.45
+2023-02-19,Hell's Kitchen,Tea,86,241.20
+2023-02-19,Lower Manhattan,Bakery,24,86.50
+2023-02-19,Lower Manhattan,Branded,2,40.00
+2023-02-19,Lower Manhattan,Coffee,117,367.90
+2023-02-19,Lower Manhattan,Coffee beans,2,66.00
+2023-02-19,Lower Manhattan,Drinking Chocolate,19,82.25
+2023-02-19,Lower Manhattan,Flavours,33,26.40
+2023-02-19,Lower Manhattan,Tea,78,221.95
+2023-02-20,Astoria,Bakery,56,193.00
+2023-02-20,Astoria,Coffee,63,195.30
+2023-02-20,Astoria,Coffee beans,4,77.45
+2023-02-20,Astoria,Drinking Chocolate,19,76.25
+2023-02-20,Astoria,Flavours,11,8.80
+2023-02-20,Astoria,Loose Tea,6,54.55
+2023-02-20,Astoria,Packaged Chocolate,1,13.33
+2023-02-20,Astoria,Tea,49,141.55
+2023-02-20,Hell's Kitchen,Bakery,29,106.50
+2023-02-20,Hell's Kitchen,Branded,4,84.00
+2023-02-20,Hell's Kitchen,Coffee,115,357.85
+2023-02-20,Hell's Kitchen,Coffee beans,4,82.50
+2023-02-20,Hell's Kitchen,Drinking Chocolate,34,137.50
+2023-02-20,Hell's Kitchen,Flavours,40,32.00
+2023-02-20,Hell's Kitchen,Loose Tea,1,9.25
+2023-02-20,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-02-20,Hell's Kitchen,Tea,88,249.45
+2023-02-20,Lower Manhattan,Bakery,53,181.25
+2023-02-20,Lower Manhattan,Branded,3,38.00
+2023-02-20,Lower Manhattan,Coffee,141,427.65
+2023-02-20,Lower Manhattan,Coffee beans,2,37.25
+2023-02-20,Lower Manhattan,Drinking Chocolate,18,77.00
+2023-02-20,Lower Manhattan,Flavours,24,19.20
+2023-02-20,Lower Manhattan,Loose Tea,1,10.95
+2023-02-20,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-02-20,Lower Manhattan,Tea,93,257.85
+2023-02-21,Astoria,Bakery,19,68.25
+2023-02-21,Astoria,Branded,2,56.00
+2023-02-21,Astoria,Coffee,93,268.00
+2023-02-21,Astoria,Coffee beans,8,144.45
+2023-02-21,Astoria,Drinking Chocolate,17,73.25
+2023-02-21,Astoria,Flavours,26,20.80
+2023-02-21,Astoria,Loose Tea,2,19.90
+2023-02-21,Astoria,Packaged Chocolate,2,20.93
+2023-02-21,Astoria,Tea,69,198.90
+2023-02-21,Hell's Kitchen,Bakery,33,119.50
+2023-02-21,Hell's Kitchen,Branded,1,14.00
+2023-02-21,Hell's Kitchen,Coffee,136,412.90
+2023-02-21,Hell's Kitchen,Coffee beans,2,67.50
+2023-02-21,Hell's Kitchen,Drinking Chocolate,23,95.50
+2023-02-21,Hell's Kitchen,Flavours,33,26.40
+2023-02-21,Hell's Kitchen,Tea,79,222.85
+2023-02-21,Lower Manhattan,Bakery,36,125.30
+2023-02-21,Lower Manhattan,Branded,3,68.00
+2023-02-21,Lower Manhattan,Coffee,97,287.25
+2023-02-21,Lower Manhattan,Coffee beans,4,78.25
+2023-02-21,Lower Manhattan,Drinking Chocolate,22,95.50
+2023-02-21,Lower Manhattan,Flavours,14,11.20
+2023-02-21,Lower Manhattan,Loose Tea,1,8.95
+2023-02-21,Lower Manhattan,Tea,99,279.95
+2023-02-22,Astoria,Bakery,30,109.00
+2023-02-22,Astoria,Coffee,142,425.85
+2023-02-22,Astoria,Drinking Chocolate,35,140.75
+2023-02-22,Astoria,Tea,127,361.90
+2023-02-22,Hell's Kitchen,Bakery,25,88.00
+2023-02-22,Hell's Kitchen,Coffee,116,354.00
+2023-02-22,Hell's Kitchen,Coffee beans,2,37.25
+2023-02-22,Hell's Kitchen,Drinking Chocolate,22,89.25
+2023-02-22,Hell's Kitchen,Flavours,5,4.00
+2023-02-22,Hell's Kitchen,Loose Tea,3,27.40
+2023-02-22,Hell's Kitchen,Tea,81,230.80
+2023-02-22,Lower Manhattan,Bakery,36,121.25
+2023-02-22,Lower Manhattan,Branded,1,12.00
+2023-02-22,Lower Manhattan,Coffee,131,393.05
+2023-02-22,Lower Manhattan,Coffee beans,4,130.50
+2023-02-22,Lower Manhattan,Drinking Chocolate,13,50.75
+2023-02-22,Lower Manhattan,Flavours,22,17.60
+2023-02-22,Lower Manhattan,Loose Tea,2,18.75
+2023-02-22,Lower Manhattan,Tea,114,316.60
+2023-02-23,Astoria,Bakery,31,110.50
+2023-02-23,Astoria,Coffee,115,355.30
+2023-02-23,Astoria,Drinking Chocolate,32,135.50
+2023-02-23,Astoria,Tea,105,303.20
+2023-02-23,Hell's Kitchen,Bakery,34,118.50
+2023-02-23,Hell's Kitchen,Coffee,102,314.75
+2023-02-23,Hell's Kitchen,Coffee beans,6,152.50
+2023-02-23,Hell's Kitchen,Drinking Chocolate,13,52.50
+2023-02-23,Hell's Kitchen,Flavours,1,0.80
+2023-02-23,Hell's Kitchen,Packaged Chocolate,2,19.73
+2023-02-23,Hell's Kitchen,Tea,82,230.20
+2023-02-23,Lower Manhattan,Bakery,28,91.05
+2023-02-23,Lower Manhattan,Branded,1,14.00
+2023-02-23,Lower Manhattan,Coffee,121,365.30
+2023-02-23,Lower Manhattan,Coffee beans,1,18.00
+2023-02-23,Lower Manhattan,Drinking Chocolate,30,119.75
+2023-02-23,Lower Manhattan,Flavours,26,20.80
+2023-02-23,Lower Manhattan,Loose Tea,3,27.70
+2023-02-23,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-02-23,Lower Manhattan,Tea,100,282.80
+2023-02-24,Astoria,Bakery,33,116.25
+2023-02-24,Astoria,Coffee,153,480.40
+2023-02-24,Astoria,Drinking Chocolate,37,161.25
+2023-02-24,Astoria,Tea,80,229.00
+2023-02-24,Hell's Kitchen,Bakery,28,94.35
+2023-02-24,Hell's Kitchen,Coffee,104,300.80
+2023-02-24,Hell's Kitchen,Coffee beans,2,40.20
+2023-02-24,Hell's Kitchen,Drinking Chocolate,19,79.00
+2023-02-24,Hell's Kitchen,Flavours,2,1.60
+2023-02-24,Hell's Kitchen,Loose Tea,3,26.85
+2023-02-24,Hell's Kitchen,Tea,98,272.30
+2023-02-24,Lower Manhattan,Bakery,40,130.65
+2023-02-24,Lower Manhattan,Coffee,131,384.75
+2023-02-24,Lower Manhattan,Coffee beans,3,46.00
+2023-02-24,Lower Manhattan,Drinking Chocolate,25,100.25
+2023-02-24,Lower Manhattan,Flavours,26,20.80
+2023-02-24,Lower Manhattan,Loose Tea,5,45.05
+2023-02-24,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-02-24,Lower Manhattan,Tea,142,403.60
+2023-02-25,Astoria,Bakery,25,84.50
+2023-02-25,Astoria,Coffee,128,383.40
+2023-02-25,Astoria,Drinking Chocolate,18,77.25
+2023-02-25,Astoria,Tea,95,268.40
+2023-02-25,Hell's Kitchen,Bakery,31,109.25
+2023-02-25,Hell's Kitchen,Coffee,104,311.95
+2023-02-25,Hell's Kitchen,Coffee beans,2,35.75
+2023-02-25,Hell's Kitchen,Drinking Chocolate,20,82.50
+2023-02-25,Hell's Kitchen,Flavours,3,2.40
+2023-02-25,Hell's Kitchen,Loose Tea,7,64.95
+2023-02-25,Hell's Kitchen,Tea,88,246.55
+2023-02-25,Lower Manhattan,Bakery,35,122.90
+2023-02-25,Lower Manhattan,Coffee,151,426.50
+2023-02-25,Lower Manhattan,Coffee beans,5,91.40
+2023-02-25,Lower Manhattan,Drinking Chocolate,27,112.50
+2023-02-25,Lower Manhattan,Flavours,19,15.20
+2023-02-25,Lower Manhattan,Loose Tea,2,18.20
+2023-02-25,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-02-25,Lower Manhattan,Tea,127,362.35
+2023-02-26,Astoria,Bakery,26,90.50
+2023-02-26,Astoria,Coffee,165,505.40
+2023-02-26,Astoria,Drinking Chocolate,23,90.75
+2023-02-26,Astoria,Tea,123,344.25
+2023-02-26,Hell's Kitchen,Bakery,36,127.25
+2023-02-26,Hell's Kitchen,Coffee,122,361.35
+2023-02-26,Hell's Kitchen,Coffee beans,4,97.75
+2023-02-26,Hell's Kitchen,Drinking Chocolate,14,58.25
+2023-02-26,Hell's Kitchen,Flavours,4,3.20
+2023-02-26,Hell's Kitchen,Loose Tea,4,38.10
+2023-02-26,Hell's Kitchen,Tea,85,242.55
+2023-02-26,Lower Manhattan,Bakery,21,72.50
+2023-02-26,Lower Manhattan,Branded,3,56.00
+2023-02-26,Lower Manhattan,Coffee,120,369.25
+2023-02-26,Lower Manhattan,Coffee beans,5,88.50
+2023-02-26,Lower Manhattan,Drinking Chocolate,30,122.75
+2023-02-26,Lower Manhattan,Flavours,26,20.80
+2023-02-26,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-02-26,Lower Manhattan,Tea,93,260.00
+2023-02-27,Astoria,Bakery,30,104.50
+2023-02-27,Astoria,Coffee,110,333.45
+2023-02-27,Astoria,Drinking Chocolate,33,138.25
+2023-02-27,Astoria,Tea,128,355.65
+2023-02-27,Hell's Kitchen,Bakery,13,44.00
+2023-02-27,Hell's Kitchen,Coffee,119,342.25
+2023-02-27,Hell's Kitchen,Drinking Chocolate,23,94.25
+2023-02-27,Hell's Kitchen,Flavours,24,19.20
+2023-02-27,Hell's Kitchen,Tea,93,259.20
+2023-02-27,Lower Manhattan,Bakery,53,178.65
+2023-02-27,Lower Manhattan,Branded,4,64.00
+2023-02-27,Lower Manhattan,Coffee,166,482.85
+2023-02-27,Lower Manhattan,Coffee beans,6,163.50
+2023-02-27,Lower Manhattan,Drinking Chocolate,32,124.00
+2023-02-27,Lower Manhattan,Flavours,29,23.20
+2023-02-27,Lower Manhattan,Loose Tea,2,18.20
+2023-02-27,Lower Manhattan,Packaged Chocolate,2,12.80
+2023-02-27,Lower Manhattan,Tea,140,402.05
+2023-02-28,Astoria,Bakery,22,79.25
+2023-02-28,Astoria,Coffee,136,409.25
+2023-02-28,Astoria,Drinking Chocolate,17,73.00
+2023-02-28,Astoria,Tea,100,281.40
+2023-02-28,Hell's Kitchen,Bakery,23,85.25
+2023-02-28,Hell's Kitchen,Coffee,106,328.50
+2023-02-28,Hell's Kitchen,Drinking Chocolate,24,100.25
+2023-02-28,Hell's Kitchen,Tea,84,235.20
+2023-02-28,Lower Manhattan,Bakery,27,89.70
+2023-02-28,Lower Manhattan,Coffee,114,354.65
+2023-02-28,Lower Manhattan,Drinking Chocolate,18,72.75
+2023-02-28,Lower Manhattan,Tea,73,201.90
+2023-03-01,Astoria,Bakery,32,114.25
+2023-03-01,Astoria,Coffee,122,372.90
+2023-03-01,Astoria,Drinking Chocolate,29,116.00
+2023-03-01,Astoria,Tea,145,417.95
+2023-03-01,Hell's Kitchen,Bakery,22,80.00
+2023-03-01,Hell's Kitchen,Coffee,152,486.30
+2023-03-01,Hell's Kitchen,Drinking Chocolate,28,117.00
+2023-03-01,Hell's Kitchen,Tea,128,357.15
+2023-03-01,Lower Manhattan,Bakery,40,142.50
+2023-03-01,Lower Manhattan,Coffee,160,493.65
+2023-03-01,Lower Manhattan,Drinking Chocolate,21,90.25
+2023-03-01,Lower Manhattan,Tea,89,252.30
+2023-03-02,Astoria,Bakery,36,127.25
+2023-03-02,Astoria,Coffee,150,453.60
+2023-03-02,Astoria,Drinking Chocolate,29,119.50
+2023-03-02,Astoria,Tea,137,388.05
+2023-03-02,Hell's Kitchen,Bakery,28,96.00
+2023-03-02,Hell's Kitchen,Coffee,159,478.95
+2023-03-02,Hell's Kitchen,Drinking Chocolate,27,118.00
+2023-03-02,Hell's Kitchen,Tea,117,327.80
+2023-03-02,Lower Manhattan,Bakery,33,115.75
+2023-03-02,Lower Manhattan,Coffee,121,363.60
+2023-03-02,Lower Manhattan,Drinking Chocolate,33,138.25
+2023-03-02,Lower Manhattan,Tea,93,269.30
+2023-03-03,Astoria,Bakery,32,109.75
+2023-03-03,Astoria,Coffee,175,540.10
+2023-03-03,Astoria,Drinking Chocolate,34,136.00
+2023-03-03,Astoria,Tea,130,374.50
+2023-03-03,Hell's Kitchen,Bakery,26,93.75
+2023-03-03,Hell's Kitchen,Coffee,126,392.05
+2023-03-03,Hell's Kitchen,Drinking Chocolate,38,163.75
+2023-03-03,Hell's Kitchen,Tea,138,388.00
+2023-03-03,Lower Manhattan,Bakery,40,141.50
+2023-03-03,Lower Manhattan,Coffee,136,401.85
+2023-03-03,Lower Manhattan,Drinking Chocolate,22,94.25
+2023-03-03,Lower Manhattan,Tea,113,319.65
+2023-03-04,Astoria,Bakery,34,117.50
+2023-03-04,Astoria,Coffee,133,405.30
+2023-03-04,Astoria,Drinking Chocolate,28,116.75
+2023-03-04,Astoria,Tea,133,369.20
+2023-03-04,Hell's Kitchen,Bakery,20,71.75
+2023-03-04,Hell's Kitchen,Coffee,132,403.60
+2023-03-04,Hell's Kitchen,Drinking Chocolate,25,100.75
+2023-03-04,Hell's Kitchen,Tea,104,292.30
+2023-03-04,Lower Manhattan,Bakery,32,113.75
+2023-03-04,Lower Manhattan,Coffee,125,374.25
+2023-03-04,Lower Manhattan,Drinking Chocolate,32,133.00
+2023-03-04,Lower Manhattan,Tea,99,283.75
+2023-03-05,Astoria,Bakery,36,126.50
+2023-03-05,Astoria,Coffee,152,459.10
+2023-03-05,Astoria,Drinking Chocolate,44,171.75
+2023-03-05,Astoria,Tea,123,339.80
+2023-03-05,Hell's Kitchen,Bakery,19,68.50
+2023-03-05,Hell's Kitchen,Coffee,138,406.35
+2023-03-05,Hell's Kitchen,Drinking Chocolate,22,91.25
+2023-03-05,Hell's Kitchen,Tea,120,337.90
+2023-03-05,Lower Manhattan,Bakery,45,156.00
+2023-03-05,Lower Manhattan,Coffee,122,373.50
+2023-03-05,Lower Manhattan,Drinking Chocolate,30,126.25
+2023-03-05,Lower Manhattan,Tea,101,288.40
+2023-03-06,Astoria,Bakery,35,123.50
+2023-03-06,Astoria,Coffee,90,264.15
+2023-03-06,Astoria,Drinking Chocolate,28,120.25
+2023-03-06,Astoria,Tea,78,224.85
+2023-03-06,Hell's Kitchen,Bakery,23,80.50
+2023-03-06,Hell's Kitchen,Coffee,143,420.75
+2023-03-06,Hell's Kitchen,Drinking Chocolate,30,128.00
+2023-03-06,Hell's Kitchen,Tea,110,305.70
+2023-03-06,Lower Manhattan,Bakery,35,120.25
+2023-03-06,Lower Manhattan,Coffee,124,391.00
+2023-03-06,Lower Manhattan,Drinking Chocolate,40,159.75
+2023-03-06,Lower Manhattan,Tea,100,279.35
+2023-03-07,Astoria,Bakery,33,114.50
+2023-03-07,Astoria,Coffee,136,423.50
+2023-03-07,Astoria,Drinking Chocolate,22,89.00
+2023-03-07,Astoria,Tea,102,294.30
+2023-03-07,Hell's Kitchen,Bakery,40,144.25
+2023-03-07,Hell's Kitchen,Coffee,180,547.60
+2023-03-07,Hell's Kitchen,Coffee beans,2,38.45
+2023-03-07,Hell's Kitchen,Drinking Chocolate,18,74.75
+2023-03-07,Hell's Kitchen,Flavours,26,20.80
+2023-03-07,Hell's Kitchen,Loose Tea,1,8.95
+2023-03-07,Hell's Kitchen,Tea,107,301.25
+2023-03-07,Lower Manhattan,Bakery,19,65.00
+2023-03-07,Lower Manhattan,Coffee,88,269.35
+2023-03-07,Lower Manhattan,Coffee beans,5,128.00
+2023-03-07,Lower Manhattan,Drinking Chocolate,9,36.75
+2023-03-07,Lower Manhattan,Flavours,22,17.60
+2023-03-07,Lower Manhattan,Loose Tea,2,17.90
+2023-03-07,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-03-07,Lower Manhattan,Tea,70,203.95
+2023-03-08,Astoria,Bakery,70,255.00
+2023-03-08,Astoria,Branded,2,26.00
+2023-03-08,Astoria,Coffee,123,389.05
+2023-03-08,Astoria,Coffee beans,4,94.50
+2023-03-08,Astoria,Drinking Chocolate,25,100.75
+2023-03-08,Astoria,Loose Tea,4,36.65
+2023-03-08,Astoria,Packaged Chocolate,1,13.33
+2023-03-08,Astoria,Tea,103,293.80
+2023-03-08,Hell's Kitchen,Bakery,45,165.25
+2023-03-08,Hell's Kitchen,Coffee,153,458.65
+2023-03-08,Hell's Kitchen,Coffee beans,5,91.95
+2023-03-08,Hell's Kitchen,Drinking Chocolate,26,107.50
+2023-03-08,Hell's Kitchen,Flavours,22,17.60
+2023-03-08,Hell's Kitchen,Loose Tea,4,36.90
+2023-03-08,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-03-08,Hell's Kitchen,Tea,100,285.30
+2023-03-08,Lower Manhattan,Bakery,26,91.50
+2023-03-08,Lower Manhattan,Branded,1,14.00
+2023-03-08,Lower Manhattan,Coffee,121,388.45
+2023-03-08,Lower Manhattan,Coffee beans,7,122.75
+2023-03-08,Lower Manhattan,Drinking Chocolate,28,115.75
+2023-03-08,Lower Manhattan,Flavours,45,36.00
+2023-03-08,Lower Manhattan,Loose Tea,2,18.45
+2023-03-08,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-03-08,Lower Manhattan,Tea,119,335.60
+2023-03-09,Astoria,Bakery,32,114.50
+2023-03-09,Astoria,Coffee,106,321.35
+2023-03-09,Astoria,Coffee beans,5,91.75
+2023-03-09,Astoria,Drinking Chocolate,26,110.75
+2023-03-09,Astoria,Loose Tea,3,29.40
+2023-03-09,Astoria,Packaged Chocolate,3,28.53
+2023-03-09,Astoria,Tea,74,212.55
+2023-03-09,Hell's Kitchen,Bakery,40,146.00
+2023-03-09,Hell's Kitchen,Coffee,159,476.25
+2023-03-09,Hell's Kitchen,Coffee beans,6,106.00
+2023-03-09,Hell's Kitchen,Drinking Chocolate,28,116.50
+2023-03-09,Hell's Kitchen,Flavours,35,28.00
+2023-03-09,Hell's Kitchen,Loose Tea,1,8.95
+2023-03-09,Hell's Kitchen,Packaged Chocolate,3,20.40
+2023-03-09,Hell's Kitchen,Tea,127,366.60
+2023-03-09,Lower Manhattan,Bakery,31,130.16
+2023-03-09,Lower Manhattan,Branded,12,152.00
+2023-03-09,Lower Manhattan,Coffee,144,436.30
+2023-03-09,Lower Manhattan,Coffee beans,4,71.20
+2023-03-09,Lower Manhattan,Drinking Chocolate,24,104.75
+2023-03-09,Lower Manhattan,Flavours,5,4.00
+2023-03-09,Lower Manhattan,Loose Tea,7,67.20
+2023-03-09,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-03-09,Lower Manhattan,Tea,106,295.90
+2023-03-10,Astoria,Bakery,30,109.25
+2023-03-10,Astoria,Branded,2,24.00
+2023-03-10,Astoria,Coffee,114,356.45
+2023-03-10,Astoria,Coffee beans,5,112.75
+2023-03-10,Astoria,Drinking Chocolate,23,91.00
+2023-03-10,Astoria,Flavours,32,25.60
+2023-03-10,Astoria,Loose Tea,3,28.85
+2023-03-10,Astoria,Tea,118,333.30
+2023-03-10,Hell's Kitchen,Bakery,47,169.00
+2023-03-10,Hell's Kitchen,Branded,1,12.00
+2023-03-10,Hell's Kitchen,Coffee,145,445.90
+2023-03-10,Hell's Kitchen,Coffee beans,5,72.50
+2023-03-10,Hell's Kitchen,Drinking Chocolate,20,86.50
+2023-03-10,Hell's Kitchen,Flavours,21,16.80
+2023-03-10,Hell's Kitchen,Loose Tea,2,18.45
+2023-03-10,Hell's Kitchen,Packaged Chocolate,4,33.73
+2023-03-10,Hell's Kitchen,Tea,139,397.30
+2023-03-10,Lower Manhattan,Bakery,30,112.25
+2023-03-10,Lower Manhattan,Branded,2,40.00
+2023-03-10,Lower Manhattan,Coffee,125,381.05
+2023-03-10,Lower Manhattan,Coffee beans,3,82.75
+2023-03-10,Lower Manhattan,Drinking Chocolate,30,120.50
+2023-03-10,Lower Manhattan,Flavours,34,27.20
+2023-03-10,Lower Manhattan,Loose Tea,3,27.15
+2023-03-10,Lower Manhattan,Tea,113,317.30
+2023-03-11,Astoria,Bakery,24,87.25
+2023-03-11,Astoria,Branded,5,82.00
+2023-03-11,Astoria,Coffee,113,346.60
+2023-03-11,Astoria,Coffee beans,3,85.50
+2023-03-11,Astoria,Drinking Chocolate,20,80.00
+2023-03-11,Astoria,Flavours,28,22.40
+2023-03-11,Astoria,Packaged Chocolate,1,7.60
+2023-03-11,Astoria,Tea,101,283.90
+2023-03-11,Hell's Kitchen,Bakery,38,135.00
+2023-03-11,Hell's Kitchen,Branded,2,56.00
+2023-03-11,Hell's Kitchen,Coffee,150,458.85
+2023-03-11,Hell's Kitchen,Coffee beans,2,38.45
+2023-03-11,Hell's Kitchen,Drinking Chocolate,25,99.75
+2023-03-11,Hell's Kitchen,Flavours,39,31.20
+2023-03-11,Hell's Kitchen,Loose Tea,3,27.40
+2023-03-11,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-03-11,Hell's Kitchen,Tea,103,287.75
+2023-03-11,Lower Manhattan,Bakery,37,132.25
+2023-03-11,Lower Manhattan,Coffee,124,390.95
+2023-03-11,Lower Manhattan,Coffee beans,3,73.00
+2023-03-11,Lower Manhattan,Drinking Chocolate,28,119.50
+2023-03-11,Lower Manhattan,Flavours,49,39.20
+2023-03-11,Lower Manhattan,Loose Tea,5,45.60
+2023-03-11,Lower Manhattan,Tea,98,275.10
+2023-03-12,Astoria,Bakery,31,107.25
+2023-03-12,Astoria,Coffee,94,277.15
+2023-03-12,Astoria,Coffee beans,3,47.50
+2023-03-12,Astoria,Drinking Chocolate,15,61.00
+2023-03-12,Astoria,Flavours,12,9.60
+2023-03-12,Astoria,Loose Tea,3,28.00
+2023-03-12,Astoria,Packaged Chocolate,2,20.93
+2023-03-12,Astoria,Tea,42,112.70
+2023-03-12,Hell's Kitchen,Bakery,37,130.75
+2023-03-12,Hell's Kitchen,Branded,2,26.00
+2023-03-12,Hell's Kitchen,Coffee,150,449.15
+2023-03-12,Hell's Kitchen,Coffee beans,8,200.20
+2023-03-12,Hell's Kitchen,Drinking Chocolate,29,121.00
+2023-03-12,Hell's Kitchen,Flavours,35,28.00
+2023-03-12,Hell's Kitchen,Loose Tea,4,37.80
+2023-03-12,Hell's Kitchen,Tea,105,285.15
+2023-03-12,Lower Manhattan,Bakery,47,170.25
+2023-03-12,Lower Manhattan,Coffee,143,438.90
+2023-03-12,Lower Manhattan,Coffee beans,3,76.00
+2023-03-12,Lower Manhattan,Drinking Chocolate,28,111.75
+2023-03-12,Lower Manhattan,Flavours,45,36.00
+2023-03-12,Lower Manhattan,Loose Tea,1,9.25
+2023-03-12,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-03-12,Lower Manhattan,Tea,107,297.60
+2023-03-13,Astoria,Bakery,30,104.75
+2023-03-13,Astoria,Coffee,111,339.90
+2023-03-13,Astoria,Drinking Chocolate,23,98.75
+2023-03-13,Astoria,Flavours,19,15.20
+2023-03-13,Astoria,Tea,99,287.50
+2023-03-13,Hell's Kitchen,Bakery,36,132.50
+2023-03-13,Hell's Kitchen,Coffee,205,608.40
+2023-03-13,Hell's Kitchen,Coffee beans,9,192.00
+2023-03-13,Hell's Kitchen,Drinking Chocolate,22,91.75
+2023-03-13,Hell's Kitchen,Flavours,27,21.60
+2023-03-13,Hell's Kitchen,Loose Tea,6,54.80
+2023-03-13,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-03-13,Hell's Kitchen,Tea,117,332.25
+2023-03-13,Lower Manhattan,Bakery,50,182.00
+2023-03-13,Lower Manhattan,Branded,1,14.00
+2023-03-13,Lower Manhattan,Coffee,138,443.00
+2023-03-13,Lower Manhattan,Coffee beans,5,122.45
+2023-03-13,Lower Manhattan,Drinking Chocolate,45,178.00
+2023-03-13,Lower Manhattan,Flavours,40,32.00
+2023-03-13,Lower Manhattan,Loose Tea,2,18.20
+2023-03-13,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-03-13,Lower Manhattan,Tea,123,343.40
+2023-03-14,Astoria,Bakery,18,64.75
+2023-03-14,Astoria,Branded,7,165.00
+2023-03-14,Astoria,Coffee,95,285.90
+2023-03-14,Astoria,Coffee beans,6,112.50
+2023-03-14,Astoria,Drinking Chocolate,13,58.00
+2023-03-14,Astoria,Flavours,26,20.80
+2023-03-14,Astoria,Tea,92,259.60
+2023-03-14,Hell's Kitchen,Bakery,62,219.75
+2023-03-14,Hell's Kitchen,Coffee,142,447.50
+2023-03-14,Hell's Kitchen,Coffee beans,9,228.00
+2023-03-14,Hell's Kitchen,Drinking Chocolate,11,43.50
+2023-03-14,Hell's Kitchen,Flavours,33,26.40
+2023-03-14,Hell's Kitchen,Loose Tea,9,81.10
+2023-03-14,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-03-14,Hell's Kitchen,Tea,113,320.25
+2023-03-14,Lower Manhattan,Bakery,46,164.00
+2023-03-14,Lower Manhattan,Branded,6,106.00
+2023-03-14,Lower Manhattan,Coffee,114,359.10
+2023-03-14,Lower Manhattan,Coffee beans,2,29.75
+2023-03-14,Lower Manhattan,Drinking Chocolate,17,67.75
+2023-03-14,Lower Manhattan,Flavours,31,24.80
+2023-03-14,Lower Manhattan,Loose Tea,1,9.25
+2023-03-14,Lower Manhattan,Packaged Chocolate,3,27.33
+2023-03-14,Lower Manhattan,Tea,61,178.30
+2023-03-15,Astoria,Bakery,42,148.25
+2023-03-15,Astoria,Branded,5,84.00
+2023-03-15,Astoria,Coffee,165,499.25
+2023-03-15,Astoria,Coffee beans,10,168.65
+2023-03-15,Astoria,Drinking Chocolate,29,118.00
+2023-03-15,Astoria,Flavours,27,21.60
+2023-03-15,Astoria,Loose Tea,5,47.05
+2023-03-15,Astoria,Tea,115,330.65
+2023-03-15,Hell's Kitchen,Bakery,39,137.00
+2023-03-15,Hell's Kitchen,Branded,1,12.00
+2023-03-15,Hell's Kitchen,Coffee,112,343.05
+2023-03-15,Hell's Kitchen,Drinking Chocolate,40,168.50
+2023-03-15,Hell's Kitchen,Flavours,29,23.20
+2023-03-15,Hell's Kitchen,Loose Tea,5,44.75
+2023-03-15,Hell's Kitchen,Packaged Chocolate,3,27.33
+2023-03-15,Hell's Kitchen,Tea,88,249.45
+2023-03-15,Lower Manhattan,Bakery,27,93.75
+2023-03-15,Lower Manhattan,Branded,3,36.00
+2023-03-15,Lower Manhattan,Coffee,110,324.80
+2023-03-15,Lower Manhattan,Drinking Chocolate,31,130.00
+2023-03-15,Lower Manhattan,Flavours,19,15.20
+2023-03-15,Lower Manhattan,Loose Tea,5,47.60
+2023-03-15,Lower Manhattan,Packaged Chocolate,3,22.80
+2023-03-15,Lower Manhattan,Tea,87,245.15
+2023-03-16,Astoria,Bakery,37,131.25
+2023-03-16,Astoria,Branded,1,28.00
+2023-03-16,Astoria,Coffee,150,427.00
+2023-03-16,Astoria,Coffee beans,3,51.00
+2023-03-16,Astoria,Drinking Chocolate,31,125.75
+2023-03-16,Astoria,Flavours,15,12.00
+2023-03-16,Astoria,Loose Tea,3,27.40
+2023-03-16,Astoria,Packaged Chocolate,1,13.33
+2023-03-16,Astoria,Tea,118,333.40
+2023-03-16,Hell's Kitchen,Bakery,41,143.00
+2023-03-16,Hell's Kitchen,Branded,1,14.00
+2023-03-16,Hell's Kitchen,Coffee,147,443.75
+2023-03-16,Hell's Kitchen,Coffee beans,3,86.45
+2023-03-16,Hell's Kitchen,Drinking Chocolate,27,111.50
+2023-03-16,Hell's Kitchen,Flavours,24,19.20
+2023-03-16,Hell's Kitchen,Loose Tea,1,9.50
+2023-03-16,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-03-16,Hell's Kitchen,Tea,104,294.10
+2023-03-16,Lower Manhattan,Bakery,36,127.00
+2023-03-16,Lower Manhattan,Branded,2,26.00
+2023-03-16,Lower Manhattan,Coffee,116,349.00
+2023-03-16,Lower Manhattan,Coffee beans,6,88.75
+2023-03-16,Lower Manhattan,Drinking Chocolate,21,89.25
+2023-03-16,Lower Manhattan,Flavours,18,14.40
+2023-03-16,Lower Manhattan,Loose Tea,4,38.10
+2023-03-16,Lower Manhattan,Tea,125,362.05
+2023-03-17,Astoria,Bakery,42,149.00
+2023-03-17,Astoria,Branded,9,146.00
+2023-03-17,Astoria,Coffee,161,490.40
+2023-03-17,Astoria,Coffee beans,5,113.50
+2023-03-17,Astoria,Drinking Chocolate,21,88.75
+2023-03-17,Astoria,Flavours,29,23.20
+2023-03-17,Astoria,Loose Tea,6,57.10
+2023-03-17,Astoria,Tea,135,372.50
+2023-03-17,Hell's Kitchen,Bakery,27,96.50
+2023-03-17,Hell's Kitchen,Coffee,102,316.35
+2023-03-17,Hell's Kitchen,Coffee beans,6,121.50
+2023-03-17,Hell's Kitchen,Drinking Chocolate,12,45.75
+2023-03-17,Hell's Kitchen,Flavours,22,17.60
+2023-03-17,Hell's Kitchen,Packaged Chocolate,2,14.00
+2023-03-17,Hell's Kitchen,Tea,65,176.75
+2023-03-17,Lower Manhattan,Bakery,36,131.00
+2023-03-17,Lower Manhattan,Branded,3,54.00
+2023-03-17,Lower Manhattan,Coffee,122,368.30
+2023-03-17,Lower Manhattan,Coffee beans,1,18.00
+2023-03-17,Lower Manhattan,Drinking Chocolate,21,89.25
+2023-03-17,Lower Manhattan,Flavours,20,16.00
+2023-03-17,Lower Manhattan,Loose Tea,1,10.95
+2023-03-17,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-03-17,Lower Manhattan,Tea,93,258.95
+2023-03-18,Astoria,Bakery,37,129.75
+2023-03-18,Astoria,Branded,3,68.00
+2023-03-18,Astoria,Coffee,133,404.15
+2023-03-18,Astoria,Coffee beans,5,91.95
+2023-03-18,Astoria,Drinking Chocolate,31,130.00
+2023-03-18,Astoria,Flavours,29,23.20
+2023-03-18,Astoria,Loose Tea,4,36.35
+2023-03-18,Astoria,Packaged Chocolate,1,13.33
+2023-03-18,Astoria,Tea,110,310.85
+2023-03-18,Hell's Kitchen,Bakery,39,142.50
+2023-03-18,Hell's Kitchen,Branded,1,14.00
+2023-03-18,Hell's Kitchen,Coffee,129,388.00
+2023-03-18,Hell's Kitchen,Coffee beans,7,121.65
+2023-03-18,Hell's Kitchen,Drinking Chocolate,31,127.50
+2023-03-18,Hell's Kitchen,Flavours,16,12.80
+2023-03-18,Hell's Kitchen,Loose Tea,4,35.80
+2023-03-18,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-03-18,Hell's Kitchen,Tea,109,314.60
+2023-03-18,Lower Manhattan,Bakery,37,131.50
+2023-03-18,Lower Manhattan,Branded,3,42.00
+2023-03-18,Lower Manhattan,Coffee,119,369.70
+2023-03-18,Lower Manhattan,Coffee beans,3,75.00
+2023-03-18,Lower Manhattan,Drinking Chocolate,22,93.75
+2023-03-18,Lower Manhattan,Flavours,38,30.40
+2023-03-18,Lower Manhattan,Loose Tea,4,36.35
+2023-03-18,Lower Manhattan,Packaged Chocolate,3,27.33
+2023-03-18,Lower Manhattan,Tea,82,231.50
+2023-03-19,Astoria,Bakery,35,121.25
+2023-03-19,Astoria,Branded,4,84.00
+2023-03-19,Astoria,Coffee,144,435.75
+2023-03-19,Astoria,Coffee beans,12,278.90
+2023-03-19,Astoria,Drinking Chocolate,38,150.50
+2023-03-19,Astoria,Flavours,21,16.80
+2023-03-19,Astoria,Loose Tea,2,17.90
+2023-03-19,Astoria,Packaged Chocolate,1,7.60
+2023-03-19,Astoria,Tea,135,375.80
+2023-03-19,Hell's Kitchen,Bakery,48,171.25
+2023-03-19,Hell's Kitchen,Coffee,131,392.35
+2023-03-19,Hell's Kitchen,Coffee beans,4,49.75
+2023-03-19,Hell's Kitchen,Drinking Chocolate,24,101.25
+2023-03-19,Hell's Kitchen,Flavours,20,16.00
+2023-03-19,Hell's Kitchen,Loose Tea,3,27.15
+2023-03-19,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-03-19,Hell's Kitchen,Tea,109,314.10
+2023-03-19,Lower Manhattan,Bakery,22,78.25
+2023-03-19,Lower Manhattan,Coffee,109,334.30
+2023-03-19,Lower Manhattan,Coffee beans,2,39.00
+2023-03-19,Lower Manhattan,Drinking Chocolate,17,71.00
+2023-03-19,Lower Manhattan,Flavours,28,22.40
+2023-03-19,Lower Manhattan,Tea,78,221.40
+2023-03-20,Astoria,Bakery,71,251.00
+2023-03-20,Astoria,Coffee,82,245.65
+2023-03-20,Astoria,Coffee beans,9,178.20
+2023-03-20,Astoria,Drinking Chocolate,23,95.25
+2023-03-20,Astoria,Flavours,14,11.20
+2023-03-20,Astoria,Loose Tea,10,90.95
+2023-03-20,Astoria,Packaged Chocolate,3,27.33
+2023-03-20,Astoria,Tea,73,213.50
+2023-03-20,Hell's Kitchen,Bakery,33,117.50
+2023-03-20,Hell's Kitchen,Branded,2,42.00
+2023-03-20,Hell's Kitchen,Coffee,135,417.75
+2023-03-20,Hell's Kitchen,Coffee beans,1,22.50
+2023-03-20,Hell's Kitchen,Drinking Chocolate,34,144.50
+2023-03-20,Hell's Kitchen,Flavours,37,29.60
+2023-03-20,Hell's Kitchen,Loose Tea,4,38.10
+2023-03-20,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-03-20,Hell's Kitchen,Tea,104,294.55
+2023-03-20,Lower Manhattan,Bakery,44,150.30
+2023-03-20,Lower Manhattan,Branded,2,24.00
+2023-03-20,Lower Manhattan,Coffee,146,436.70
+2023-03-20,Lower Manhattan,Drinking Chocolate,21,83.25
+2023-03-20,Lower Manhattan,Flavours,27,21.60
+2023-03-20,Lower Manhattan,Loose Tea,1,10.95
+2023-03-20,Lower Manhattan,Tea,111,308.30
+2023-03-21,Astoria,Bakery,25,88.00
+2023-03-21,Astoria,Branded,2,40.00
+2023-03-21,Astoria,Coffee,77,234.15
+2023-03-21,Astoria,Coffee beans,6,108.70
+2023-03-21,Astoria,Drinking Chocolate,27,120.75
+2023-03-21,Astoria,Flavours,23,18.40
+2023-03-21,Astoria,Loose Tea,2,19.90
+2023-03-21,Astoria,Tea,74,205.95
+2023-03-21,Hell's Kitchen,Bakery,49,172.75
+2023-03-21,Hell's Kitchen,Branded,2,42.00
+2023-03-21,Hell's Kitchen,Coffee,146,446.10
+2023-03-21,Hell's Kitchen,Coffee beans,4,129.00
+2023-03-21,Hell's Kitchen,Drinking Chocolate,29,125.75
+2023-03-21,Hell's Kitchen,Flavours,37,29.60
+2023-03-21,Hell's Kitchen,Loose Tea,2,18.20
+2023-03-21,Hell's Kitchen,Packaged Chocolate,2,12.80
+2023-03-21,Hell's Kitchen,Tea,123,340.50
+2023-03-21,Lower Manhattan,Bakery,40,138.00
+2023-03-21,Lower Manhattan,Branded,2,40.00
+2023-03-21,Lower Manhattan,Coffee,126,387.50
+2023-03-21,Lower Manhattan,Coffee beans,5,94.25
+2023-03-21,Lower Manhattan,Drinking Chocolate,25,105.25
+2023-03-21,Lower Manhattan,Flavours,26,20.80
+2023-03-21,Lower Manhattan,Loose Tea,2,18.20
+2023-03-21,Lower Manhattan,Tea,93,253.25
+2023-03-22,Astoria,Bakery,33,121.00
+2023-03-22,Astoria,Coffee,160,483.30
+2023-03-22,Astoria,Drinking Chocolate,29,120.00
+2023-03-22,Astoria,Tea,145,400.25
+2023-03-22,Hell's Kitchen,Bakery,42,143.75
+2023-03-22,Hell's Kitchen,Coffee,112,333.25
+2023-03-22,Hell's Kitchen,Coffee beans,4,65.65
+2023-03-22,Hell's Kitchen,Drinking Chocolate,32,134.25
+2023-03-22,Hell's Kitchen,Flavours,6,4.80
+2023-03-22,Hell's Kitchen,Loose Tea,1,8.95
+2023-03-22,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-03-22,Hell's Kitchen,Tea,79,225.65
+2023-03-22,Lower Manhattan,Bakery,34,115.40
+2023-03-22,Lower Manhattan,Branded,4,82.00
+2023-03-22,Lower Manhattan,Coffee,148,442.35
+2023-03-22,Lower Manhattan,Coffee beans,3,85.50
+2023-03-22,Lower Manhattan,Drinking Chocolate,28,108.25
+2023-03-22,Lower Manhattan,Flavours,24,19.20
+2023-03-22,Lower Manhattan,Loose Tea,1,10.95
+2023-03-22,Lower Manhattan,Packaged Chocolate,3,33.06
+2023-03-22,Lower Manhattan,Tea,125,338.95
+2023-03-23,Astoria,Bakery,34,121.00
+2023-03-23,Astoria,Coffee,138,440.50
+2023-03-23,Astoria,Drinking Chocolate,46,184.25
+2023-03-23,Astoria,Tea,110,314.80
+2023-03-23,Hell's Kitchen,Bakery,40,138.75
+2023-03-23,Hell's Kitchen,Coffee,135,404.60
+2023-03-23,Hell's Kitchen,Coffee beans,6,151.00
+2023-03-23,Hell's Kitchen,Drinking Chocolate,25,99.25
+2023-03-23,Hell's Kitchen,Flavours,5,4.00
+2023-03-23,Hell's Kitchen,Loose Tea,2,17.90
+2023-03-23,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-03-23,Hell's Kitchen,Tea,111,313.50
+2023-03-23,Lower Manhattan,Bakery,35,117.05
+2023-03-23,Lower Manhattan,Coffee,154,490.95
+2023-03-23,Lower Manhattan,Coffee beans,1,21.00
+2023-03-23,Lower Manhattan,Drinking Chocolate,27,108.00
+2023-03-23,Lower Manhattan,Flavours,40,32.00
+2023-03-23,Lower Manhattan,Loose Tea,4,36.95
+2023-03-23,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-03-23,Lower Manhattan,Tea,125,344.70
+2023-03-24,Astoria,Bakery,33,118.75
+2023-03-24,Astoria,Coffee,187,590.65
+2023-03-24,Astoria,Drinking Chocolate,22,95.75
+2023-03-24,Astoria,Tea,113,318.05
+2023-03-24,Hell's Kitchen,Bakery,41,137.30
+2023-03-24,Hell's Kitchen,Coffee,126,368.80
+2023-03-24,Hell's Kitchen,Coffee beans,5,91.75
+2023-03-24,Hell's Kitchen,Drinking Chocolate,28,116.25
+2023-03-24,Hell's Kitchen,Flavours,1,0.80
+2023-03-24,Hell's Kitchen,Loose Tea,3,26.85
+2023-03-24,Hell's Kitchen,Tea,96,274.15
+2023-03-24,Lower Manhattan,Bakery,50,171.75
+2023-03-24,Lower Manhattan,Branded,2,28.00
+2023-03-24,Lower Manhattan,Coffee,169,508.80
+2023-03-24,Lower Manhattan,Coffee beans,4,68.25
+2023-03-24,Lower Manhattan,Drinking Chocolate,44,186.25
+2023-03-24,Lower Manhattan,Flavours,32,25.60
+2023-03-24,Lower Manhattan,Loose Tea,3,26.85
+2023-03-24,Lower Manhattan,Tea,152,431.60
+2023-03-25,Astoria,Bakery,26,90.50
+2023-03-25,Astoria,Coffee,162,480.75
+2023-03-25,Astoria,Drinking Chocolate,28,118.25
+2023-03-25,Astoria,Tea,121,336.25
+2023-03-25,Hell's Kitchen,Bakery,34,120.75
+2023-03-25,Hell's Kitchen,Coffee,141,426.30
+2023-03-25,Hell's Kitchen,Coffee beans,3,79.75
+2023-03-25,Hell's Kitchen,Drinking Chocolate,22,92.50
+2023-03-25,Hell's Kitchen,Flavours,7,5.60
+2023-03-25,Hell's Kitchen,Loose Tea,4,35.80
+2023-03-25,Hell's Kitchen,Tea,86,245.60
+2023-03-25,Lower Manhattan,Bakery,35,121.15
+2023-03-25,Lower Manhattan,Branded,3,84.00
+2023-03-25,Lower Manhattan,Coffee,175,508.85
+2023-03-25,Lower Manhattan,Coffee beans,3,53.50
+2023-03-25,Lower Manhattan,Drinking Chocolate,41,172.25
+2023-03-25,Lower Manhattan,Flavours,26,20.80
+2023-03-25,Lower Manhattan,Loose Tea,2,18.20
+2023-03-25,Lower Manhattan,Tea,131,370.15
+2023-03-26,Astoria,Bakery,41,143.50
+2023-03-26,Astoria,Coffee,188,571.75
+2023-03-26,Astoria,Drinking Chocolate,28,115.25
+2023-03-26,Astoria,Tea,134,378.15
+2023-03-26,Hell's Kitchen,Bakery,40,139.25
+2023-03-26,Hell's Kitchen,Coffee,118,365.70
+2023-03-26,Hell's Kitchen,Coffee beans,5,80.65
+2023-03-26,Hell's Kitchen,Drinking Chocolate,17,69.50
+2023-03-26,Hell's Kitchen,Flavours,14,11.20
+2023-03-26,Hell's Kitchen,Loose Tea,5,47.05
+2023-03-26,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-03-26,Hell's Kitchen,Tea,87,244.95
+2023-03-26,Lower Manhattan,Bakery,30,108.00
+2023-03-26,Lower Manhattan,Branded,1,14.00
+2023-03-26,Lower Manhattan,Coffee,124,393.95
+2023-03-26,Lower Manhattan,Coffee beans,2,42.25
+2023-03-26,Lower Manhattan,Drinking Chocolate,24,102.75
+2023-03-26,Lower Manhattan,Flavours,21,16.80
+2023-03-26,Lower Manhattan,Loose Tea,2,20.45
+2023-03-26,Lower Manhattan,Tea,156,432.35
+2023-03-27,Astoria,Bakery,37,132.50
+2023-03-27,Astoria,Coffee,161,479.90
+2023-03-27,Astoria,Drinking Chocolate,37,158.00
+2023-03-27,Astoria,Tea,125,353.60
+2023-03-27,Hell's Kitchen,Bakery,30,103.50
+2023-03-27,Hell's Kitchen,Coffee,161,454.20
+2023-03-27,Hell's Kitchen,Drinking Chocolate,29,119.75
+2023-03-27,Hell's Kitchen,Flavours,31,24.80
+2023-03-27,Hell's Kitchen,Tea,129,358.35
+2023-03-27,Lower Manhattan,Bakery,45,152.65
+2023-03-27,Lower Manhattan,Branded,2,40.00
+2023-03-27,Lower Manhattan,Coffee,177,515.25
+2023-03-27,Lower Manhattan,Coffee beans,7,182.75
+2023-03-27,Lower Manhattan,Drinking Chocolate,42,169.00
+2023-03-27,Lower Manhattan,Flavours,14,11.20
+2023-03-27,Lower Manhattan,Tea,150,418.90
+2023-03-28,Astoria,Bakery,20,71.25
+2023-03-28,Astoria,Coffee,145,439.45
+2023-03-28,Astoria,Drinking Chocolate,25,104.25
+2023-03-28,Astoria,Tea,122,339.80
+2023-03-28,Hell's Kitchen,Bakery,36,133.25
+2023-03-28,Hell's Kitchen,Coffee,137,424.20
+2023-03-28,Hell's Kitchen,Drinking Chocolate,26,106.00
+2023-03-28,Hell's Kitchen,Tea,81,229.10
+2023-03-28,Lower Manhattan,Bakery,41,142.15
+2023-03-28,Lower Manhattan,Coffee,162,490.70
+2023-03-28,Lower Manhattan,Drinking Chocolate,21,85.00
+2023-03-28,Lower Manhattan,Tea,81,227.40
+2023-03-29,Astoria,Bakery,39,138.50
+2023-03-29,Astoria,Coffee,136,402.45
+2023-03-29,Astoria,Drinking Chocolate,37,152.25
+2023-03-29,Astoria,Tea,105,285.60
+2023-03-29,Hell's Kitchen,Bakery,21,74.75
+2023-03-29,Hell's Kitchen,Coffee,117,346.90
+2023-03-29,Hell's Kitchen,Drinking Chocolate,16,68.00
+2023-03-29,Hell's Kitchen,Tea,67,183.25
+2023-03-29,Lower Manhattan,Bakery,43,147.65
+2023-03-29,Lower Manhattan,Coffee,124,362.10
+2023-03-29,Lower Manhattan,Drinking Chocolate,24,98.75
+2023-03-29,Lower Manhattan,Tea,83,231.80
+2023-03-30,Astoria,Bakery,31,106.75
+2023-03-30,Astoria,Branded,1,12.00
+2023-03-30,Astoria,Coffee,122,388.30
+2023-03-30,Astoria,Drinking Chocolate,21,83.00
+2023-03-30,Astoria,Flavours,15,12.00
+2023-03-30,Astoria,Loose Tea,5,45.90
+2023-03-30,Astoria,Tea,112,319.10
+2023-03-30,Hell's Kitchen,Bakery,41,152.15
+2023-03-30,Hell's Kitchen,Branded,1,14.00
+2023-03-30,Hell's Kitchen,Coffee,133,416.15
+2023-03-30,Hell's Kitchen,Coffee beans,3,80.75
+2023-03-30,Hell's Kitchen,Drinking Chocolate,18,78.50
+2023-03-30,Hell's Kitchen,Flavours,16,12.80
+2023-03-30,Hell's Kitchen,Loose Tea,2,18.45
+2023-03-30,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-03-30,Hell's Kitchen,Tea,76,212.85
+2023-03-30,Lower Manhattan,Bakery,44,159.59
+2023-03-30,Lower Manhattan,Coffee,138,409.40
+2023-03-30,Lower Manhattan,Drinking Chocolate,20,85.50
+2023-03-30,Lower Manhattan,Flavours,20,16.00
+2023-03-30,Lower Manhattan,Loose Tea,3,27.15
+2023-03-30,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-03-30,Lower Manhattan,Tea,93,261.55
+2023-03-31,Astoria,Bakery,34,123.50
+2023-03-31,Astoria,Coffee,132,400.55
+2023-03-31,Astoria,Coffee beans,2,36.00
+2023-03-31,Astoria,Drinking Chocolate,19,76.00
+2023-03-31,Astoria,Flavours,13,10.40
+2023-03-31,Astoria,Loose Tea,1,8.95
+2023-03-31,Astoria,Tea,91,259.75
+2023-03-31,Hell's Kitchen,Bakery,37,130.50
+2023-03-31,Hell's Kitchen,Coffee,114,347.40
+2023-03-31,Hell's Kitchen,Coffee beans,1,45.00
+2023-03-31,Hell's Kitchen,Drinking Chocolate,18,74.25
+2023-03-31,Hell's Kitchen,Flavours,18,14.40
+2023-03-31,Hell's Kitchen,Loose Tea,3,26.85
+2023-03-31,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-03-31,Hell's Kitchen,Tea,98,277.40
+2023-03-31,Lower Manhattan,Bakery,37,131.03
+2023-03-31,Lower Manhattan,Branded,1,14.00
+2023-03-31,Lower Manhattan,Coffee,113,341.85
+2023-03-31,Lower Manhattan,Coffee beans,6,117.70
+2023-03-31,Lower Manhattan,Drinking Chocolate,31,131.00
+2023-03-31,Lower Manhattan,Flavours,17,13.60
+2023-03-31,Lower Manhattan,Loose Tea,3,27.15
+2023-03-31,Lower Manhattan,Packaged Chocolate,2,14.00
+2023-03-31,Lower Manhattan,Tea,94,259.20
+2023-04-01,Astoria,Bakery,38,135.75
+2023-04-01,Astoria,Coffee,201,594.90
+2023-04-01,Astoria,Drinking Chocolate,35,144.00
+2023-04-01,Astoria,Tea,159,441.85
+2023-04-01,Hell's Kitchen,Bakery,31,112.75
+2023-04-01,Hell's Kitchen,Coffee,193,591.25
+2023-04-01,Hell's Kitchen,Drinking Chocolate,33,135.25
+2023-04-01,Hell's Kitchen,Tea,133,376.10
+2023-04-01,Lower Manhattan,Bakery,47,166.25
+2023-04-01,Lower Manhattan,Coffee,176,542.05
+2023-04-01,Lower Manhattan,Drinking Chocolate,27,113.75
+2023-04-01,Lower Manhattan,Tea,125,346.00
+2023-04-02,Astoria,Bakery,49,172.50
+2023-04-02,Astoria,Coffee,181,560.00
+2023-04-02,Astoria,Drinking Chocolate,41,172.25
+2023-04-02,Astoria,Tea,159,446.60
+2023-04-02,Hell's Kitchen,Bakery,30,106.00
+2023-04-02,Hell's Kitchen,Coffee,197,589.60
+2023-04-02,Hell's Kitchen,Drinking Chocolate,32,134.25
+2023-04-02,Hell's Kitchen,Tea,140,392.45
+2023-04-02,Lower Manhattan,Bakery,38,133.50
+2023-04-02,Lower Manhattan,Coffee,145,424.60
+2023-04-02,Lower Manhattan,Drinking Chocolate,25,105.00
+2023-04-02,Lower Manhattan,Tea,119,339.10
+2023-04-03,Astoria,Bakery,38,134.00
+2023-04-03,Astoria,Coffee,200,590.35
+2023-04-03,Astoria,Drinking Chocolate,51,215.00
+2023-04-03,Astoria,Tea,140,394.05
+2023-04-03,Hell's Kitchen,Bakery,31,112.00
+2023-04-03,Hell's Kitchen,Coffee,154,458.30
+2023-04-03,Hell's Kitchen,Drinking Chocolate,42,179.00
+2023-04-03,Hell's Kitchen,Tea,140,394.70
+2023-04-03,Lower Manhattan,Bakery,48,172.75
+2023-04-03,Lower Manhattan,Coffee,160,477.15
+2023-04-03,Lower Manhattan,Drinking Chocolate,27,113.25
+2023-04-03,Lower Manhattan,Tea,131,364.40
+2023-04-04,Astoria,Bakery,27,95.00
+2023-04-04,Astoria,Coffee,151,456.35
+2023-04-04,Astoria,Drinking Chocolate,41,168.75
+2023-04-04,Astoria,Tea,152,430.65
+2023-04-04,Hell's Kitchen,Bakery,27,96.25
+2023-04-04,Hell's Kitchen,Coffee,163,490.50
+2023-04-04,Hell's Kitchen,Drinking Chocolate,38,149.75
+2023-04-04,Hell's Kitchen,Tea,127,348.05
+2023-04-04,Lower Manhattan,Bakery,31,109.00
+2023-04-04,Lower Manhattan,Coffee,162,482.60
+2023-04-04,Lower Manhattan,Drinking Chocolate,31,125.75
+2023-04-04,Lower Manhattan,Tea,136,374.65
+2023-04-05,Astoria,Bakery,45,155.25
+2023-04-05,Astoria,Coffee,176,531.60
+2023-04-05,Astoria,Drinking Chocolate,47,185.75
+2023-04-05,Astoria,Tea,132,369.55
+2023-04-05,Hell's Kitchen,Bakery,33,116.75
+2023-04-05,Hell's Kitchen,Coffee,140,416.95
+2023-04-05,Hell's Kitchen,Drinking Chocolate,40,170.25
+2023-04-05,Hell's Kitchen,Tea,143,404.35
+2023-04-05,Lower Manhattan,Bakery,56,199.25
+2023-04-05,Lower Manhattan,Coffee,157,495.65
+2023-04-05,Lower Manhattan,Drinking Chocolate,21,91.50
+2023-04-05,Lower Manhattan,Tea,146,415.85
+2023-04-06,Astoria,Bakery,38,136.50
+2023-04-06,Astoria,Coffee,121,369.20
+2023-04-06,Astoria,Drinking Chocolate,32,137.25
+2023-04-06,Astoria,Tea,127,360.00
+2023-04-06,Hell's Kitchen,Bakery,28,97.50
+2023-04-06,Hell's Kitchen,Coffee,182,531.05
+2023-04-06,Hell's Kitchen,Drinking Chocolate,30,128.00
+2023-04-06,Hell's Kitchen,Tea,149,410.45
+2023-04-06,Lower Manhattan,Bakery,34,115.50
+2023-04-06,Lower Manhattan,Coffee,152,468.75
+2023-04-06,Lower Manhattan,Drinking Chocolate,36,144.25
+2023-04-06,Lower Manhattan,Tea,124,351.75
+2023-04-07,Astoria,Bakery,43,153.50
+2023-04-07,Astoria,Coffee,164,520.40
+2023-04-07,Astoria,Drinking Chocolate,25,103.25
+2023-04-07,Astoria,Tea,131,361.45
+2023-04-07,Hell's Kitchen,Bakery,55,196.75
+2023-04-07,Hell's Kitchen,Coffee,217,657.30
+2023-04-07,Hell's Kitchen,Coffee beans,4,76.90
+2023-04-07,Hell's Kitchen,Drinking Chocolate,38,162.00
+2023-04-07,Hell's Kitchen,Flavours,35,28.00
+2023-04-07,Hell's Kitchen,Loose Tea,2,20.45
+2023-04-07,Hell's Kitchen,Tea,139,388.05
+2023-04-07,Lower Manhattan,Bakery,36,127.25
+2023-04-07,Lower Manhattan,Coffee,93,278.10
+2023-04-07,Lower Manhattan,Coffee beans,10,217.75
+2023-04-07,Lower Manhattan,Drinking Chocolate,9,39.75
+2023-04-07,Lower Manhattan,Flavours,24,19.20
+2023-04-07,Lower Manhattan,Loose Tea,3,26.85
+2023-04-07,Lower Manhattan,Tea,105,305.85
+2023-04-08,Astoria,Bakery,86,311.75
+2023-04-08,Astoria,Branded,3,54.00
+2023-04-08,Astoria,Coffee,153,480.60
+2023-04-08,Astoria,Coffee beans,8,128.50
+2023-04-08,Astoria,Drinking Chocolate,38,149.75
+2023-04-08,Astoria,Loose Tea,6,55.70
+2023-04-08,Astoria,Packaged Chocolate,2,19.73
+2023-04-08,Astoria,Tea,148,431.90
+2023-04-08,Hell's Kitchen,Bakery,50,186.75
+2023-04-08,Hell's Kitchen,Coffee,199,604.35
+2023-04-08,Hell's Kitchen,Coffee beans,4,90.75
+2023-04-08,Hell's Kitchen,Drinking Chocolate,21,91.25
+2023-04-08,Hell's Kitchen,Flavours,35,28.00
+2023-04-08,Hell's Kitchen,Loose Tea,5,47.30
+2023-04-08,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-04-08,Hell's Kitchen,Tea,127,358.45
+2023-04-08,Lower Manhattan,Bakery,38,135.50
+2023-04-08,Lower Manhattan,Branded,2,28.00
+2023-04-08,Lower Manhattan,Coffee,162,516.00
+2023-04-08,Lower Manhattan,Coffee beans,12,220.50
+2023-04-08,Lower Manhattan,Drinking Chocolate,34,145.25
+2023-04-08,Lower Manhattan,Flavours,45,36.00
+2023-04-08,Lower Manhattan,Loose Tea,2,18.45
+2023-04-08,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-04-08,Lower Manhattan,Tea,144,406.05
+2023-04-09,Astoria,Bakery,38,138.50
+2023-04-09,Astoria,Coffee,129,401.55
+2023-04-09,Astoria,Coffee beans,7,157.20
+2023-04-09,Astoria,Drinking Chocolate,27,112.75
+2023-04-09,Astoria,Flavours,4,3.20
+2023-04-09,Astoria,Loose Tea,6,56.25
+2023-04-09,Astoria,Packaged Chocolate,2,20.93
+2023-04-09,Astoria,Tea,107,301.80
+2023-04-09,Hell's Kitchen,Bakery,45,165.00
+2023-04-09,Hell's Kitchen,Coffee,195,587.15
+2023-04-09,Hell's Kitchen,Coffee beans,4,69.75
+2023-04-09,Hell's Kitchen,Drinking Chocolate,38,159.00
+2023-04-09,Hell's Kitchen,Flavours,43,34.40
+2023-04-09,Hell's Kitchen,Loose Tea,3,26.85
+2023-04-09,Hell's Kitchen,Packaged Chocolate,3,20.40
+2023-04-09,Hell's Kitchen,Tea,129,368.85
+2023-04-09,Lower Manhattan,Bakery,28,122.92
+2023-04-09,Lower Manhattan,Branded,12,178.00
+2023-04-09,Lower Manhattan,Coffee,169,531.05
+2023-04-09,Lower Manhattan,Coffee beans,5,75.20
+2023-04-09,Lower Manhattan,Drinking Chocolate,31,134.00
+2023-04-09,Lower Manhattan,Flavours,6,4.80
+2023-04-09,Lower Manhattan,Loose Tea,9,81.10
+2023-04-09,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-04-09,Lower Manhattan,Tea,116,324.90
+2023-04-10,Astoria,Bakery,40,141.25
+2023-04-10,Astoria,Branded,3,38.00
+2023-04-10,Astoria,Coffee,163,501.35
+2023-04-10,Astoria,Coffee beans,5,122.45
+2023-04-10,Astoria,Drinking Chocolate,31,126.25
+2023-04-10,Astoria,Flavours,40,32.00
+2023-04-10,Astoria,Loose Tea,2,20.45
+2023-04-10,Astoria,Packaged Chocolate,2,14.00
+2023-04-10,Astoria,Tea,130,359.70
+2023-04-10,Hell's Kitchen,Bakery,54,193.50
+2023-04-10,Hell's Kitchen,Branded,1,12.00
+2023-04-10,Hell's Kitchen,Coffee,169,526.25
+2023-04-10,Hell's Kitchen,Coffee beans,5,92.75
+2023-04-10,Hell's Kitchen,Drinking Chocolate,25,101.00
+2023-04-10,Hell's Kitchen,Flavours,31,24.80
+2023-04-10,Hell's Kitchen,Loose Tea,8,73.55
+2023-04-10,Hell's Kitchen,Packaged Chocolate,2,12.80
+2023-04-10,Hell's Kitchen,Tea,130,374.40
+2023-04-10,Lower Manhattan,Bakery,53,190.25
+2023-04-10,Lower Manhattan,Branded,3,54.00
+2023-04-10,Lower Manhattan,Coffee,148,445.00
+2023-04-10,Lower Manhattan,Coffee beans,5,121.50
+2023-04-10,Lower Manhattan,Drinking Chocolate,32,130.00
+2023-04-10,Lower Manhattan,Flavours,31,24.80
+2023-04-10,Lower Manhattan,Loose Tea,1,8.95
+2023-04-10,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-04-10,Lower Manhattan,Tea,171,471.70
+2023-04-11,Astoria,Bakery,38,138.25
+2023-04-11,Astoria,Branded,4,54.00
+2023-04-11,Astoria,Coffee,152,461.90
+2023-04-11,Astoria,Coffee beans,1,21.00
+2023-04-11,Astoria,Drinking Chocolate,38,155.00
+2023-04-11,Astoria,Flavours,31,24.80
+2023-04-11,Astoria,Loose Tea,3,31.40
+2023-04-11,Astoria,Packaged Chocolate,1,7.60
+2023-04-11,Astoria,Tea,143,401.05
+2023-04-11,Hell's Kitchen,Bakery,48,168.25
+2023-04-11,Hell's Kitchen,Branded,4,66.00
+2023-04-11,Hell's Kitchen,Coffee,179,539.75
+2023-04-11,Hell's Kitchen,Coffee beans,4,76.20
+2023-04-11,Hell's Kitchen,Drinking Chocolate,30,122.25
+2023-04-11,Hell's Kitchen,Flavours,35,28.00
+2023-04-11,Hell's Kitchen,Loose Tea,1,8.95
+2023-04-11,Hell's Kitchen,Packaged Chocolate,3,28.53
+2023-04-11,Hell's Kitchen,Tea,116,324.10
+2023-04-11,Lower Manhattan,Bakery,48,172.50
+2023-04-11,Lower Manhattan,Coffee,145,438.75
+2023-04-11,Lower Manhattan,Coffee beans,2,28.00
+2023-04-11,Lower Manhattan,Drinking Chocolate,24,97.50
+2023-04-11,Lower Manhattan,Flavours,46,36.80
+2023-04-11,Lower Manhattan,Loose Tea,2,18.45
+2023-04-11,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-04-11,Lower Manhattan,Tea,138,390.50
+2023-04-12,Astoria,Bakery,44,150.75
+2023-04-12,Astoria,Coffee,121,362.10
+2023-04-12,Astoria,Coffee beans,4,72.25
+2023-04-12,Astoria,Drinking Chocolate,26,105.00
+2023-04-12,Astoria,Flavours,19,15.20
+2023-04-12,Astoria,Loose Tea,7,63.50
+2023-04-12,Astoria,Packaged Chocolate,1,13.33
+2023-04-12,Astoria,Tea,65,176.50
+2023-04-12,Hell's Kitchen,Bakery,43,154.75
+2023-04-12,Hell's Kitchen,Branded,3,54.00
+2023-04-12,Hell's Kitchen,Coffee,187,566.90
+2023-04-12,Hell's Kitchen,Coffee beans,6,142.75
+2023-04-12,Hell's Kitchen,Drinking Chocolate,38,155.25
+2023-04-12,Hell's Kitchen,Flavours,52,41.60
+2023-04-12,Hell's Kitchen,Loose Tea,6,56.25
+2023-04-12,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-04-12,Hell's Kitchen,Tea,140,391.10
+2023-04-12,Lower Manhattan,Bakery,63,226.75
+2023-04-12,Lower Manhattan,Coffee,168,503.55
+2023-04-12,Lower Manhattan,Coffee beans,5,153.25
+2023-04-12,Lower Manhattan,Drinking Chocolate,34,136.00
+2023-04-12,Lower Manhattan,Flavours,59,47.20
+2023-04-12,Lower Manhattan,Loose Tea,3,29.15
+2023-04-12,Lower Manhattan,Packaged Chocolate,3,20.40
+2023-04-12,Lower Manhattan,Tea,141,396.25
+2023-04-13,Astoria,Bakery,41,149.25
+2023-04-13,Astoria,Coffee,144,446.20
+2023-04-13,Astoria,Drinking Chocolate,31,132.25
+2023-04-13,Astoria,Flavours,24,19.20
+2023-04-13,Astoria,Tea,113,322.80
+2023-04-13,Hell's Kitchen,Bakery,56,205.75
+2023-04-13,Hell's Kitchen,Coffee,224,673.75
+2023-04-13,Hell's Kitchen,Coffee beans,7,162.00
+2023-04-13,Hell's Kitchen,Drinking Chocolate,50,211.25
+2023-04-13,Hell's Kitchen,Flavours,45,36.00
+2023-04-13,Hell's Kitchen,Loose Tea,5,45.30
+2023-04-13,Hell's Kitchen,Packaged Chocolate,3,21.60
+2023-04-13,Hell's Kitchen,Tea,157,441.75
+2023-04-13,Lower Manhattan,Bakery,45,163.75
+2023-04-13,Lower Manhattan,Branded,2,42.00
+2023-04-13,Lower Manhattan,Coffee,146,434.05
+2023-04-13,Lower Manhattan,Coffee beans,3,57.00
+2023-04-13,Lower Manhattan,Drinking Chocolate,28,110.50
+2023-04-13,Lower Manhattan,Flavours,32,25.60
+2023-04-13,Lower Manhattan,Loose Tea,2,17.90
+2023-04-13,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-04-13,Lower Manhattan,Tea,134,375.70
+2023-04-14,Astoria,Bakery,23,80.25
+2023-04-14,Astoria,Branded,7,170.00
+2023-04-14,Astoria,Coffee,117,346.10
+2023-04-14,Astoria,Coffee beans,6,107.70
+2023-04-14,Astoria,Drinking Chocolate,28,126.75
+2023-04-14,Astoria,Flavours,29,23.20
+2023-04-14,Astoria,Loose Tea,2,19.90
+2023-04-14,Astoria,Packaged Chocolate,1,13.33
+2023-04-14,Astoria,Tea,109,308.60
+2023-04-14,Hell's Kitchen,Bakery,72,258.25
+2023-04-14,Hell's Kitchen,Coffee,182,561.10
+2023-04-14,Hell's Kitchen,Coffee beans,15,343.20
+2023-04-14,Hell's Kitchen,Drinking Chocolate,27,113.00
+2023-04-14,Hell's Kitchen,Flavours,41,32.80
+2023-04-14,Hell's Kitchen,Loose Tea,12,110.50
+2023-04-14,Hell's Kitchen,Packaged Chocolate,3,34.26
+2023-04-14,Hell's Kitchen,Tea,131,365.35
+2023-04-14,Lower Manhattan,Bakery,52,183.75
+2023-04-14,Lower Manhattan,Branded,10,174.00
+2023-04-14,Lower Manhattan,Coffee,127,385.10
+2023-04-14,Lower Manhattan,Coffee beans,2,37.25
+2023-04-14,Lower Manhattan,Drinking Chocolate,21,85.25
+2023-04-14,Lower Manhattan,Flavours,34,27.20
+2023-04-14,Lower Manhattan,Loose Tea,2,18.20
+2023-04-14,Lower Manhattan,Packaged Chocolate,3,33.06
+2023-04-14,Lower Manhattan,Tea,58,173.15
+2023-04-15,Astoria,Bakery,39,135.00
+2023-04-15,Astoria,Branded,6,112.00
+2023-04-15,Astoria,Coffee,193,583.45
+2023-04-15,Astoria,Coffee beans,7,125.75
+2023-04-15,Astoria,Drinking Chocolate,41,171.75
+2023-04-15,Astoria,Flavours,30,24.00
+2023-04-15,Astoria,Loose Tea,2,18.20
+2023-04-15,Astoria,Packaged Chocolate,3,34.26
+2023-04-15,Astoria,Tea,149,418.25
+2023-04-15,Hell's Kitchen,Bakery,50,173.50
+2023-04-15,Hell's Kitchen,Branded,2,26.00
+2023-04-15,Hell's Kitchen,Coffee,133,402.45
+2023-04-15,Hell's Kitchen,Coffee beans,2,42.95
+2023-04-15,Hell's Kitchen,Drinking Chocolate,44,189.25
+2023-04-15,Hell's Kitchen,Flavours,16,12.80
+2023-04-15,Hell's Kitchen,Loose Tea,1,8.95
+2023-04-15,Hell's Kitchen,Packaged Chocolate,3,27.33
+2023-04-15,Hell's Kitchen,Tea,121,345.85
+2023-04-15,Lower Manhattan,Bakery,38,132.75
+2023-04-15,Lower Manhattan,Branded,3,38.00
+2023-04-15,Lower Manhattan,Coffee,167,527.40
+2023-04-15,Lower Manhattan,Coffee beans,1,20.45
+2023-04-15,Lower Manhattan,Drinking Chocolate,42,186.00
+2023-04-15,Lower Manhattan,Flavours,45,36.00
+2023-04-15,Lower Manhattan,Loose Tea,3,26.85
+2023-04-15,Lower Manhattan,Packaged Chocolate,2,15.20
+2023-04-15,Lower Manhattan,Tea,102,287.40
+2023-04-16,Astoria,Bakery,42,148.75
+2023-04-16,Astoria,Branded,2,28.00
+2023-04-16,Astoria,Coffee,196,590.85
+2023-04-16,Astoria,Coffee beans,3,78.00
+2023-04-16,Astoria,Drinking Chocolate,37,150.50
+2023-04-16,Astoria,Flavours,31,24.80
+2023-04-16,Astoria,Loose Tea,6,54.80
+2023-04-16,Astoria,Packaged Chocolate,2,20.93
+2023-04-16,Astoria,Tea,132,385.45
+2023-04-16,Hell's Kitchen,Bakery,57,206.75
+2023-04-16,Hell's Kitchen,Branded,3,42.00
+2023-04-16,Hell's Kitchen,Coffee,182,555.90
+2023-04-16,Hell's Kitchen,Coffee beans,5,125.45
+2023-04-16,Hell's Kitchen,Drinking Chocolate,36,142.25
+2023-04-16,Hell's Kitchen,Flavours,25,20.00
+2023-04-16,Hell's Kitchen,Loose Tea,4,36.35
+2023-04-16,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-04-16,Hell's Kitchen,Tea,147,405.80
+2023-04-16,Lower Manhattan,Bakery,49,176.00
+2023-04-16,Lower Manhattan,Branded,5,82.00
+2023-04-16,Lower Manhattan,Coffee,165,509.20
+2023-04-16,Lower Manhattan,Coffee beans,6,124.00
+2023-04-16,Lower Manhattan,Drinking Chocolate,30,127.00
+2023-04-16,Lower Manhattan,Flavours,33,26.40
+2023-04-16,Lower Manhattan,Loose Tea,2,19.90
+2023-04-16,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-04-16,Lower Manhattan,Tea,134,377.45
+2023-04-17,Astoria,Bakery,42,152.00
+2023-04-17,Astoria,Branded,9,150.00
+2023-04-17,Astoria,Coffee,195,587.25
+2023-04-17,Astoria,Coffee beans,4,76.25
+2023-04-17,Astoria,Drinking Chocolate,26,111.00
+2023-04-17,Astoria,Flavours,28,22.40
+2023-04-17,Astoria,Loose Tea,2,18.45
+2023-04-17,Astoria,Tea,151,426.25
+2023-04-17,Hell's Kitchen,Bakery,39,137.75
+2023-04-17,Hell's Kitchen,Branded,1,14.00
+2023-04-17,Hell's Kitchen,Coffee,111,336.05
+2023-04-17,Hell's Kitchen,Coffee beans,20,802.75
+2023-04-17,Hell's Kitchen,Drinking Chocolate,14,60.75
+2023-04-17,Hell's Kitchen,Flavours,12,9.60
+2023-04-17,Hell's Kitchen,Loose Tea,1,9.50
+2023-04-17,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-04-17,Hell's Kitchen,Tea,92,260.45
+2023-04-17,Lower Manhattan,Bakery,47,169.75
+2023-04-17,Lower Manhattan,Branded,3,40.00
+2023-04-17,Lower Manhattan,Coffee,147,457.40
+2023-04-17,Lower Manhattan,Coffee beans,2,43.50
+2023-04-17,Lower Manhattan,Drinking Chocolate,26,110.25
+2023-04-17,Lower Manhattan,Flavours,45,36.00
+2023-04-17,Lower Manhattan,Loose Tea,1,8.95
+2023-04-17,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-04-17,Lower Manhattan,Tea,97,277.80
+2023-04-18,Astoria,Bakery,46,160.25
+2023-04-18,Astoria,Branded,5,78.00
+2023-04-18,Astoria,Coffee,173,523.80
+2023-04-18,Astoria,Coffee beans,7,156.45
+2023-04-18,Astoria,Drinking Chocolate,34,142.50
+2023-04-18,Astoria,Flavours,30,24.00
+2023-04-18,Astoria,Loose Tea,7,62.65
+2023-04-18,Astoria,Packaged Chocolate,4,47.59
+2023-04-18,Astoria,Tea,147,413.55
+2023-04-18,Hell's Kitchen,Bakery,46,163.75
+2023-04-18,Hell's Kitchen,Branded,3,42.00
+2023-04-18,Hell's Kitchen,Coffee,195,587.05
+2023-04-18,Hell's Kitchen,Coffee beans,6,126.20
+2023-04-18,Hell's Kitchen,Drinking Chocolate,49,200.25
+2023-04-18,Hell's Kitchen,Flavours,29,23.20
+2023-04-18,Hell's Kitchen,Loose Tea,4,36.35
+2023-04-18,Hell's Kitchen,Packaged Chocolate,3,21.60
+2023-04-18,Hell's Kitchen,Tea,135,380.20
+2023-04-18,Lower Manhattan,Bakery,39,139.25
+2023-04-18,Lower Manhattan,Branded,3,40.00
+2023-04-18,Lower Manhattan,Coffee,130,398.20
+2023-04-18,Lower Manhattan,Coffee beans,6,103.75
+2023-04-18,Lower Manhattan,Drinking Chocolate,13,54.50
+2023-04-18,Lower Manhattan,Flavours,37,29.60
+2023-04-18,Lower Manhattan,Loose Tea,4,38.35
+2023-04-18,Lower Manhattan,Packaged Chocolate,3,28.53
+2023-04-18,Lower Manhattan,Tea,117,332.50
+2023-04-19,Astoria,Bakery,48,168.50
+2023-04-19,Astoria,Branded,6,112.00
+2023-04-19,Astoria,Coffee,203,604.75
+2023-04-19,Astoria,Coffee beans,12,214.45
+2023-04-19,Astoria,Drinking Chocolate,31,128.75
+2023-04-19,Astoria,Flavours,27,21.60
+2023-04-19,Astoria,Loose Tea,3,29.15
+2023-04-19,Astoria,Packaged Chocolate,2,20.93
+2023-04-19,Astoria,Tea,156,438.80
+2023-04-19,Hell's Kitchen,Bakery,55,195.00
+2023-04-19,Hell's Kitchen,Branded,1,14.00
+2023-04-19,Hell's Kitchen,Coffee,170,502.00
+2023-04-19,Hell's Kitchen,Coffee beans,10,191.45
+2023-04-19,Hell's Kitchen,Drinking Chocolate,31,132.00
+2023-04-19,Hell's Kitchen,Flavours,23,18.40
+2023-04-19,Hell's Kitchen,Loose Tea,3,27.45
+2023-04-19,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-04-19,Hell's Kitchen,Tea,123,347.95
+2023-04-19,Lower Manhattan,Bakery,36,129.00
+2023-04-19,Lower Manhattan,Branded,2,28.00
+2023-04-19,Lower Manhattan,Coffee,149,463.00
+2023-04-19,Lower Manhattan,Coffee beans,2,63.00
+2023-04-19,Lower Manhattan,Drinking Chocolate,23,94.75
+2023-04-19,Lower Manhattan,Flavours,40,32.00
+2023-04-19,Lower Manhattan,Tea,112,320.45
+2023-04-20,Astoria,Bakery,70,248.00
+2023-04-20,Astoria,Coffee,92,266.80
+2023-04-20,Astoria,Coffee beans,9,251.45
+2023-04-20,Astoria,Drinking Chocolate,27,108.50
+2023-04-20,Astoria,Flavours,17,13.60
+2023-04-20,Astoria,Loose Tea,8,72.75
+2023-04-20,Astoria,Packaged Chocolate,1,6.40
+2023-04-20,Astoria,Tea,70,196.45
+2023-04-20,Hell's Kitchen,Bakery,32,117.00
+2023-04-20,Hell's Kitchen,Branded,4,56.00
+2023-04-20,Hell's Kitchen,Coffee,163,494.15
+2023-04-20,Hell's Kitchen,Coffee beans,2,45.00
+2023-04-20,Hell's Kitchen,Drinking Chocolate,32,135.50
+2023-04-20,Hell's Kitchen,Flavours,41,32.80
+2023-04-20,Hell's Kitchen,Loose Tea,2,18.50
+2023-04-20,Hell's Kitchen,Packaged Chocolate,2,15.20
+2023-04-20,Hell's Kitchen,Tea,144,403.25
+2023-04-20,Lower Manhattan,Bakery,69,235.70
+2023-04-20,Lower Manhattan,Branded,2,24.00
+2023-04-20,Lower Manhattan,Coffee,169,516.35
+2023-04-20,Lower Manhattan,Coffee beans,4,78.25
+2023-04-20,Lower Manhattan,Drinking Chocolate,26,107.50
+2023-04-20,Lower Manhattan,Flavours,37,29.60
+2023-04-20,Lower Manhattan,Loose Tea,2,19.90
+2023-04-20,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-04-20,Lower Manhattan,Tea,150,411.20
+2023-04-21,Astoria,Bakery,21,72.50
+2023-04-21,Astoria,Branded,6,147.00
+2023-04-21,Astoria,Coffee,106,318.45
+2023-04-21,Astoria,Coffee beans,5,83.75
+2023-04-21,Astoria,Drinking Chocolate,25,109.50
+2023-04-21,Astoria,Flavours,34,27.20
+2023-04-21,Astoria,Loose Tea,3,28.85
+2023-04-21,Astoria,Packaged Chocolate,3,28.53
+2023-04-21,Astoria,Tea,102,286.10
+2023-04-21,Hell's Kitchen,Bakery,54,191.75
+2023-04-21,Hell's Kitchen,Branded,2,28.00
+2023-04-21,Hell's Kitchen,Coffee,182,539.75
+2023-04-21,Hell's Kitchen,Coffee beans,6,136.75
+2023-04-21,Hell's Kitchen,Drinking Chocolate,30,128.75
+2023-04-21,Hell's Kitchen,Flavours,34,27.20
+2023-04-21,Hell's Kitchen,Loose Tea,2,18.20
+2023-04-21,Hell's Kitchen,Tea,156,451.45
+2023-04-21,Lower Manhattan,Bakery,63,214.75
+2023-04-21,Lower Manhattan,Branded,1,12.00
+2023-04-21,Lower Manhattan,Coffee,178,536.10
+2023-04-21,Lower Manhattan,Coffee beans,4,75.00
+2023-04-21,Lower Manhattan,Drinking Chocolate,31,135.50
+2023-04-21,Lower Manhattan,Flavours,26,20.80
+2023-04-21,Lower Manhattan,Loose Tea,2,18.75
+2023-04-21,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-04-21,Lower Manhattan,Tea,129,361.15
+2023-04-22,Astoria,Bakery,35,128.50
+2023-04-22,Astoria,Coffee,195,599.90
+2023-04-22,Astoria,Drinking Chocolate,40,161.50
+2023-04-22,Astoria,Tea,144,402.05
+2023-04-22,Hell's Kitchen,Bakery,37,129.50
+2023-04-22,Hell's Kitchen,Coffee,130,396.40
+2023-04-22,Hell's Kitchen,Coffee beans,4,68.20
+2023-04-22,Hell's Kitchen,Drinking Chocolate,27,111.75
+2023-04-22,Hell's Kitchen,Flavours,10,8.00
+2023-04-22,Hell's Kitchen,Loose Tea,3,27.40
+2023-04-22,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-04-22,Hell's Kitchen,Tea,103,286.60
+2023-04-22,Lower Manhattan,Bakery,43,148.35
+2023-04-22,Lower Manhattan,Branded,2,26.00
+2023-04-22,Lower Manhattan,Coffee,221,652.55
+2023-04-22,Lower Manhattan,Coffee beans,7,146.25
+2023-04-22,Lower Manhattan,Drinking Chocolate,36,144.25
+2023-04-22,Lower Manhattan,Flavours,37,29.60
+2023-04-22,Lower Manhattan,Loose Tea,3,29.70
+2023-04-22,Lower Manhattan,Packaged Chocolate,2,19.73
+2023-04-22,Lower Manhattan,Tea,158,437.75
+2023-04-23,Astoria,Bakery,46,167.50
+2023-04-23,Astoria,Coffee,191,606.85
+2023-04-23,Astoria,Drinking Chocolate,50,203.75
+2023-04-23,Astoria,Tea,141,405.95
+2023-04-23,Hell's Kitchen,Bakery,42,147.00
+2023-04-23,Hell's Kitchen,Coffee,161,476.45
+2023-04-23,Hell's Kitchen,Coffee beans,8,217.50
+2023-04-23,Hell's Kitchen,Drinking Chocolate,26,102.75
+2023-04-23,Hell's Kitchen,Flavours,4,3.20
+2023-04-23,Hell's Kitchen,Loose Tea,2,17.90
+2023-04-23,Hell's Kitchen,Packaged Chocolate,2,19.73
+2023-04-23,Hell's Kitchen,Tea,151,429.95
+2023-04-23,Lower Manhattan,Bakery,39,129.20
+2023-04-23,Lower Manhattan,Branded,2,28.00
+2023-04-23,Lower Manhattan,Coffee,236,715.70
+2023-04-23,Lower Manhattan,Coffee beans,2,37.75
+2023-04-23,Lower Manhattan,Drinking Chocolate,40,165.50
+2023-04-23,Lower Manhattan,Flavours,39,31.20
+2023-04-23,Lower Manhattan,Loose Tea,6,56.85
+2023-04-23,Lower Manhattan,Packaged Chocolate,3,34.26
+2023-04-23,Lower Manhattan,Tea,115,324.30
+2023-04-24,Astoria,Bakery,55,196.00
+2023-04-24,Astoria,Coffee,231,710.05
+2023-04-24,Astoria,Drinking Chocolate,47,196.50
+2023-04-24,Astoria,Tea,157,437.25
+2023-04-24,Hell's Kitchen,Bakery,43,147.95
+2023-04-24,Hell's Kitchen,Coffee,142,422.70
+2023-04-24,Hell's Kitchen,Coffee beans,6,98.50
+2023-04-24,Hell's Kitchen,Drinking Chocolate,33,133.25
+2023-04-24,Hell's Kitchen,Flavours,4,3.20
+2023-04-24,Hell's Kitchen,Loose Tea,3,27.45
+2023-04-24,Hell's Kitchen,Tea,117,333.70
+2023-04-24,Lower Manhattan,Bakery,55,186.50
+2023-04-24,Lower Manhattan,Branded,2,42.00
+2023-04-24,Lower Manhattan,Coffee,205,633.95
+2023-04-24,Lower Manhattan,Coffee beans,1,21.00
+2023-04-24,Lower Manhattan,Drinking Chocolate,41,172.00
+2023-04-24,Lower Manhattan,Flavours,46,36.80
+2023-04-24,Lower Manhattan,Loose Tea,4,36.10
+2023-04-24,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-04-24,Lower Manhattan,Tea,149,422.95
+2023-04-25,Astoria,Bakery,35,120.25
+2023-04-25,Astoria,Coffee,209,607.55
+2023-04-25,Astoria,Drinking Chocolate,41,169.00
+2023-04-25,Astoria,Tea,145,409.30
+2023-04-25,Hell's Kitchen,Bakery,49,176.50
+2023-04-25,Hell's Kitchen,Coffee,160,487.65
+2023-04-25,Hell's Kitchen,Coffee beans,5,98.00
+2023-04-25,Hell's Kitchen,Drinking Chocolate,32,133.25
+2023-04-25,Hell's Kitchen,Flavours,9,7.20
+2023-04-25,Hell's Kitchen,Loose Tea,6,54.00
+2023-04-25,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-04-25,Hell's Kitchen,Tea,114,321.55
+2023-04-25,Lower Manhattan,Bakery,46,155.60
+2023-04-25,Lower Manhattan,Branded,3,70.00
+2023-04-25,Lower Manhattan,Coffee,208,603.70
+2023-04-25,Lower Manhattan,Coffee beans,5,93.15
+2023-04-25,Lower Manhattan,Drinking Chocolate,42,168.75
+2023-04-25,Lower Manhattan,Flavours,38,30.40
+2023-04-25,Lower Manhattan,Loose Tea,2,18.20
+2023-04-25,Lower Manhattan,Packaged Chocolate,2,14.00
+2023-04-25,Lower Manhattan,Tea,183,510.55
+2023-04-26,Astoria,Bakery,39,142.00
+2023-04-26,Astoria,Coffee,228,703.25
+2023-04-26,Astoria,Drinking Chocolate,45,185.75
+2023-04-26,Astoria,Tea,149,416.50
+2023-04-26,Hell's Kitchen,Bakery,56,196.00
+2023-04-26,Hell's Kitchen,Coffee,186,565.10
+2023-04-26,Hell's Kitchen,Coffee beans,8,160.95
+2023-04-26,Hell's Kitchen,Drinking Chocolate,21,90.00
+2023-04-26,Hell's Kitchen,Flavours,18,14.40
+2023-04-26,Hell's Kitchen,Loose Tea,4,40.10
+2023-04-26,Hell's Kitchen,Tea,124,360.95
+2023-04-26,Lower Manhattan,Bakery,48,160.90
+2023-04-26,Lower Manhattan,Branded,4,70.00
+2023-04-26,Lower Manhattan,Coffee,213,641.55
+2023-04-26,Lower Manhattan,Coffee beans,7,134.00
+2023-04-26,Lower Manhattan,Drinking Chocolate,49,196.75
+2023-04-26,Lower Manhattan,Flavours,42,33.60
+2023-04-26,Lower Manhattan,Loose Tea,2,19.00
+2023-04-26,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-04-26,Lower Manhattan,Tea,152,421.05
+2023-04-27,Astoria,Bakery,45,161.00
+2023-04-27,Astoria,Coffee,171,507.75
+2023-04-27,Astoria,Drinking Chocolate,55,232.25
+2023-04-27,Astoria,Tea,190,538.55
+2023-04-27,Hell's Kitchen,Bakery,28,97.50
+2023-04-27,Hell's Kitchen,Coffee,199,588.95
+2023-04-27,Hell's Kitchen,Coffee beans,1,15.00
+2023-04-27,Hell's Kitchen,Drinking Chocolate,37,148.50
+2023-04-27,Hell's Kitchen,Flavours,50,40.00
+2023-04-27,Hell's Kitchen,Tea,147,411.50
+2023-04-27,Lower Manhattan,Bakery,51,179.45
+2023-04-27,Lower Manhattan,Branded,4,80.00
+2023-04-27,Lower Manhattan,Coffee,238,691.30
+2023-04-27,Lower Manhattan,Coffee beans,1,21.00
+2023-04-27,Lower Manhattan,Drinking Chocolate,29,122.75
+2023-04-27,Lower Manhattan,Flavours,38,30.40
+2023-04-27,Lower Manhattan,Loose Tea,2,18.20
+2023-04-27,Lower Manhattan,Packaged Chocolate,2,12.80
+2023-04-27,Lower Manhattan,Tea,189,530.20
+2023-04-28,Astoria,Bakery,32,115.25
+2023-04-28,Astoria,Coffee,190,574.45
+2023-04-28,Astoria,Drinking Chocolate,26,103.50
+2023-04-28,Astoria,Tea,138,379.50
+2023-04-28,Hell's Kitchen,Bakery,31,112.25
+2023-04-28,Hell's Kitchen,Coffee,170,510.85
+2023-04-28,Hell's Kitchen,Drinking Chocolate,43,175.75
+2023-04-28,Hell's Kitchen,Tea,100,291.10
+2023-04-28,Lower Manhattan,Bakery,47,157.85
+2023-04-28,Lower Manhattan,Coffee,180,522.10
+2023-04-28,Lower Manhattan,Drinking Chocolate,21,90.25
+2023-04-28,Lower Manhattan,Tea,121,340.95
+2023-04-29,Astoria,Bakery,31,110.50
+2023-04-29,Astoria,Coffee,147,437.70
+2023-04-29,Astoria,Drinking Chocolate,51,216.50
+2023-04-29,Astoria,Tea,126,359.35
+2023-04-29,Hell's Kitchen,Bakery,33,114.00
+2023-04-29,Hell's Kitchen,Coffee,155,460.40
+2023-04-29,Hell's Kitchen,Drinking Chocolate,16,69.00
+2023-04-29,Hell's Kitchen,Tea,86,249.15
+2023-04-29,Lower Manhattan,Bakery,57,198.00
+2023-04-29,Lower Manhattan,Coffee,141,400.25
+2023-04-29,Lower Manhattan,Drinking Chocolate,20,82.00
+2023-04-29,Lower Manhattan,Tea,91,256.65
+2023-04-30,Astoria,Bakery,42,146.50
+2023-04-30,Astoria,Branded,1,14.00
+2023-04-30,Astoria,Coffee,145,435.10
+2023-04-30,Astoria,Coffee beans,4,98.45
+2023-04-30,Astoria,Drinking Chocolate,37,159.50
+2023-04-30,Astoria,Flavours,16,12.80
+2023-04-30,Astoria,Loose Tea,3,27.15
+2023-04-30,Astoria,Tea,138,382.10
+2023-04-30,Hell's Kitchen,Bakery,54,194.00
+2023-04-30,Hell's Kitchen,Coffee,130,391.55
+2023-04-30,Hell's Kitchen,Coffee beans,2,40.75
+2023-04-30,Hell's Kitchen,Drinking Chocolate,22,91.75
+2023-04-30,Hell's Kitchen,Flavours,13,10.40
+2023-04-30,Hell's Kitchen,Loose Tea,2,17.90
+2023-04-30,Hell's Kitchen,Packaged Chocolate,3,21.60
+2023-04-30,Hell's Kitchen,Tea,120,343.45
+2023-04-30,Lower Manhattan,Bakery,42,154.28
+2023-04-30,Lower Manhattan,Branded,1,12.00
+2023-04-30,Lower Manhattan,Coffee,165,487.90
+2023-04-30,Lower Manhattan,Coffee beans,2,35.75
+2023-04-30,Lower Manhattan,Drinking Chocolate,24,96.25
+2023-04-30,Lower Manhattan,Flavours,28,22.40
+2023-04-30,Lower Manhattan,Loose Tea,1,10.95
+2023-04-30,Lower Manhattan,Tea,121,345.80
+2023-05-01,Astoria,Bakery,51,181.00
+2023-05-01,Astoria,Coffee,233,703.15
+2023-05-01,Astoria,Drinking Chocolate,54,220.00
+2023-05-01,Astoria,Tea,195,553.50
+2023-05-01,Hell's Kitchen,Bakery,47,168.75
+2023-05-01,Hell's Kitchen,Coffee,226,695.85
+2023-05-01,Hell's Kitchen,Drinking Chocolate,47,192.50
+2023-05-01,Hell's Kitchen,Tea,192,541.30
+2023-05-01,Lower Manhattan,Bakery,56,195.25
+2023-05-01,Lower Manhattan,Coffee,219,669.40
+2023-05-01,Lower Manhattan,Drinking Chocolate,43,185.00
+2023-05-01,Lower Manhattan,Tea,152,425.75
+2023-05-02,Astoria,Bakery,69,244.00
+2023-05-02,Astoria,Coffee,233,699.80
+2023-05-02,Astoria,Drinking Chocolate,49,210.75
+2023-05-02,Astoria,Tea,213,603.90
+2023-05-02,Hell's Kitchen,Bakery,36,126.75
+2023-05-02,Hell's Kitchen,Coffee,234,702.55
+2023-05-02,Hell's Kitchen,Drinking Chocolate,43,184.50
+2023-05-02,Hell's Kitchen,Tea,204,576.75
+2023-05-02,Lower Manhattan,Bakery,45,159.00
+2023-05-02,Lower Manhattan,Coffee,177,513.50
+2023-05-02,Lower Manhattan,Drinking Chocolate,41,169.75
+2023-05-02,Lower Manhattan,Tea,151,434.25
+2023-05-03,Astoria,Bakery,56,199.25
+2023-05-03,Astoria,Coffee,270,798.90
+2023-05-03,Astoria,Drinking Chocolate,60,245.50
+2023-05-03,Astoria,Tea,181,516.80
+2023-05-03,Hell's Kitchen,Bakery,38,135.25
+2023-05-03,Hell's Kitchen,Coffee,217,653.05
+2023-05-03,Hell's Kitchen,Drinking Chocolate,44,193.75
+2023-05-03,Hell's Kitchen,Tea,204,570.45
+2023-05-03,Lower Manhattan,Bakery,58,206.00
+2023-05-03,Lower Manhattan,Coffee,204,614.60
+2023-05-03,Lower Manhattan,Drinking Chocolate,32,133.75
+2023-05-03,Lower Manhattan,Tea,159,447.30
+2023-05-04,Astoria,Bakery,63,221.50
+2023-05-04,Astoria,Coffee,240,727.60
+2023-05-04,Astoria,Drinking Chocolate,53,216.25
+2023-05-04,Astoria,Tea,191,544.50
+2023-05-04,Hell's Kitchen,Bakery,38,136.50
+2023-05-04,Hell's Kitchen,Coffee,221,675.40
+2023-05-04,Hell's Kitchen,Drinking Chocolate,46,187.25
+2023-05-04,Hell's Kitchen,Tea,162,449.40
+2023-05-04,Lower Manhattan,Bakery,52,187.50
+2023-05-04,Lower Manhattan,Coffee,189,549.20
+2023-05-04,Lower Manhattan,Drinking Chocolate,40,167.50
+2023-05-04,Lower Manhattan,Tea,188,527.10
+2023-05-05,Astoria,Bakery,54,186.00
+2023-05-05,Astoria,Coffee,252,776.45
+2023-05-05,Astoria,Drinking Chocolate,57,230.50
+2023-05-05,Astoria,Tea,191,533.70
+2023-05-05,Hell's Kitchen,Bakery,33,117.00
+2023-05-05,Hell's Kitchen,Coffee,203,607.05
+2023-05-05,Hell's Kitchen,Drinking Chocolate,55,233.75
+2023-05-05,Hell's Kitchen,Tea,172,487.90
+2023-05-05,Lower Manhattan,Bakery,67,235.25
+2023-05-05,Lower Manhattan,Coffee,211,648.65
+2023-05-05,Lower Manhattan,Drinking Chocolate,34,143.00
+2023-05-05,Lower Manhattan,Tea,178,501.75
+2023-05-06,Astoria,Bakery,54,189.75
+2023-05-06,Astoria,Coffee,171,516.50
+2023-05-06,Astoria,Drinking Chocolate,38,156.00
+2023-05-06,Astoria,Tea,151,430.80
+2023-05-06,Hell's Kitchen,Bakery,40,139.50
+2023-05-06,Hell's Kitchen,Coffee,230,679.55
+2023-05-06,Hell's Kitchen,Drinking Chocolate,28,121.50
+2023-05-06,Hell's Kitchen,Tea,180,492.55
+2023-05-06,Lower Manhattan,Bakery,57,197.75
+2023-05-06,Lower Manhattan,Coffee,204,616.90
+2023-05-06,Lower Manhattan,Drinking Chocolate,59,235.25
+2023-05-06,Lower Manhattan,Tea,152,429.10
+2023-05-07,Astoria,Bakery,54,198.50
+2023-05-07,Astoria,Coffee,166,504.10
+2023-05-07,Astoria,Drinking Chocolate,43,184.00
+2023-05-07,Astoria,Tea,189,530.00
+2023-05-07,Hell's Kitchen,Bakery,68,246.75
+2023-05-07,Hell's Kitchen,Coffee,268,820.85
+2023-05-07,Hell's Kitchen,Coffee beans,4,76.90
+2023-05-07,Hell's Kitchen,Drinking Chocolate,49,211.00
+2023-05-07,Hell's Kitchen,Flavours,50,40.00
+2023-05-07,Hell's Kitchen,Packaged Chocolate,2,12.80
+2023-05-07,Hell's Kitchen,Tea,194,549.25
+2023-05-07,Lower Manhattan,Bakery,41,144.00
+2023-05-07,Lower Manhattan,Coffee,142,423.05
+2023-05-07,Lower Manhattan,Coffee beans,6,145.00
+2023-05-07,Lower Manhattan,Drinking Chocolate,14,58.75
+2023-05-07,Lower Manhattan,Flavours,32,25.60
+2023-05-07,Lower Manhattan,Loose Tea,2,17.90
+2023-05-07,Lower Manhattan,Packaged Chocolate,3,21.60
+2023-05-07,Lower Manhattan,Tea,117,332.65
+2023-05-08,Astoria,Bakery,92,337.25
+2023-05-08,Astoria,Branded,2,28.00
+2023-05-08,Astoria,Coffee,202,622.35
+2023-05-08,Astoria,Coffee beans,9,178.25
+2023-05-08,Astoria,Drinking Chocolate,49,200.75
+2023-05-08,Astoria,Flavours,3,2.40
+2023-05-08,Astoria,Loose Tea,6,56.00
+2023-05-08,Astoria,Packaged Chocolate,3,26.13
+2023-05-08,Astoria,Tea,180,516.55
+2023-05-08,Hell's Kitchen,Bakery,62,226.75
+2023-05-08,Hell's Kitchen,Coffee,245,736.90
+2023-05-08,Hell's Kitchen,Coffee beans,4,91.00
+2023-05-08,Hell's Kitchen,Drinking Chocolate,31,131.25
+2023-05-08,Hell's Kitchen,Flavours,41,32.80
+2023-05-08,Hell's Kitchen,Loose Tea,6,54.80
+2023-05-08,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-05-08,Hell's Kitchen,Tea,170,480.55
+2023-05-08,Lower Manhattan,Bakery,56,199.25
+2023-05-08,Lower Manhattan,Branded,2,28.00
+2023-05-08,Lower Manhattan,Coffee,225,703.85
+2023-05-08,Lower Manhattan,Coffee beans,10,182.75
+2023-05-08,Lower Manhattan,Drinking Chocolate,36,153.25
+2023-05-08,Lower Manhattan,Flavours,74,59.20
+2023-05-08,Lower Manhattan,Loose Tea,4,37.80
+2023-05-08,Lower Manhattan,Tea,181,505.05
+2023-05-09,Astoria,Bakery,47,171.00
+2023-05-09,Astoria,Coffee,165,495.40
+2023-05-09,Astoria,Coffee beans,6,135.00
+2023-05-09,Astoria,Drinking Chocolate,29,120.75
+2023-05-09,Astoria,Flavours,9,7.20
+2023-05-09,Astoria,Loose Tea,6,54.25
+2023-05-09,Astoria,Packaged Chocolate,2,26.66
+2023-05-09,Astoria,Tea,123,351.85
+2023-05-09,Hell's Kitchen,Bakery,59,215.00
+2023-05-09,Hell's Kitchen,Coffee,250,765.75
+2023-05-09,Hell's Kitchen,Coffee beans,7,128.50
+2023-05-09,Hell's Kitchen,Drinking Chocolate,51,211.25
+2023-05-09,Hell's Kitchen,Flavours,56,44.80
+2023-05-09,Hell's Kitchen,Loose Tea,2,17.90
+2023-05-09,Hell's Kitchen,Packaged Chocolate,4,28.00
+2023-05-09,Hell's Kitchen,Tea,179,505.00
+2023-05-09,Lower Manhattan,Bakery,48,201.17
+2023-05-09,Lower Manhattan,Branded,12,200.00
+2023-05-09,Lower Manhattan,Coffee,215,662.85
+2023-05-09,Lower Manhattan,Coffee beans,4,69.45
+2023-05-09,Lower Manhattan,Drinking Chocolate,42,179.50
+2023-05-09,Lower Manhattan,Flavours,5,4.00
+2023-05-09,Lower Manhattan,Loose Tea,6,58.25
+2023-05-09,Lower Manhattan,Packaged Chocolate,4,47.59
+2023-05-09,Lower Manhattan,Tea,144,399.85
+2023-05-10,Astoria,Bakery,51,181.25
+2023-05-10,Astoria,Branded,1,14.00
+2023-05-10,Astoria,Coffee,210,642.35
+2023-05-10,Astoria,Coffee beans,6,103.75
+2023-05-10,Astoria,Drinking Chocolate,43,171.75
+2023-05-10,Astoria,Flavours,52,41.60
+2023-05-10,Astoria,Loose Tea,4,38.65
+2023-05-10,Astoria,Packaged Chocolate,2,14.00
+2023-05-10,Astoria,Tea,181,509.55
+2023-05-10,Hell's Kitchen,Bakery,71,254.25
+2023-05-10,Hell's Kitchen,Branded,2,24.00
+2023-05-10,Hell's Kitchen,Coffee,221,672.15
+2023-05-10,Hell's Kitchen,Coffee beans,8,136.00
+2023-05-10,Hell's Kitchen,Drinking Chocolate,28,116.75
+2023-05-10,Hell's Kitchen,Flavours,36,28.80
+2023-05-10,Hell's Kitchen,Loose Tea,9,81.95
+2023-05-10,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-05-10,Hell's Kitchen,Tea,209,607.80
+2023-05-10,Lower Manhattan,Bakery,58,208.00
+2023-05-10,Lower Manhattan,Branded,2,40.00
+2023-05-10,Lower Manhattan,Coffee,185,562.30
+2023-05-10,Lower Manhattan,Coffee beans,3,81.00
+2023-05-10,Lower Manhattan,Drinking Chocolate,46,180.00
+2023-05-10,Lower Manhattan,Flavours,39,31.20
+2023-05-10,Lower Manhattan,Loose Tea,2,18.20
+2023-05-10,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-05-10,Lower Manhattan,Tea,171,468.50
+2023-05-11,Astoria,Bakery,46,166.50
+2023-05-11,Astoria,Branded,4,82.00
+2023-05-11,Astoria,Coffee,165,486.85
+2023-05-11,Astoria,Coffee beans,1,22.50
+2023-05-11,Astoria,Drinking Chocolate,24,96.00
+2023-05-11,Astoria,Flavours,34,27.20
+2023-05-11,Astoria,Loose Tea,4,40.35
+2023-05-11,Astoria,Packaged Chocolate,1,7.60
+2023-05-11,Astoria,Tea,164,466.00
+2023-05-11,Hell's Kitchen,Bakery,65,232.50
+2023-05-11,Hell's Kitchen,Branded,5,96.00
+2023-05-11,Hell's Kitchen,Coffee,227,682.90
+2023-05-11,Hell's Kitchen,Coffee beans,7,149.20
+2023-05-11,Hell's Kitchen,Drinking Chocolate,39,157.75
+2023-05-11,Hell's Kitchen,Flavours,40,32.00
+2023-05-11,Hell's Kitchen,Loose Tea,3,27.40
+2023-05-11,Hell's Kitchen,Packaged Chocolate,5,49.46
+2023-05-11,Hell's Kitchen,Tea,171,478.10
+2023-05-11,Lower Manhattan,Bakery,51,183.50
+2023-05-11,Lower Manhattan,Coffee,180,544.40
+2023-05-11,Lower Manhattan,Coffee beans,4,79.90
+2023-05-11,Lower Manhattan,Drinking Chocolate,48,200.50
+2023-05-11,Lower Manhattan,Flavours,55,44.00
+2023-05-11,Lower Manhattan,Loose Tea,4,36.95
+2023-05-11,Lower Manhattan,Tea,165,460.50
+2023-05-12,Astoria,Bakery,46,157.00
+2023-05-12,Astoria,Coffee,155,467.85
+2023-05-12,Astoria,Coffee beans,5,87.70
+2023-05-12,Astoria,Drinking Chocolate,37,150.50
+2023-05-12,Astoria,Flavours,31,24.80
+2023-05-12,Astoria,Loose Tea,6,54.30
+2023-05-12,Astoria,Packaged Chocolate,1,13.33
+2023-05-12,Astoria,Tea,81,219.60
+2023-05-12,Hell's Kitchen,Bakery,52,186.00
+2023-05-12,Hell's Kitchen,Branded,2,42.00
+2023-05-12,Hell's Kitchen,Coffee,219,656.05
+2023-05-12,Hell's Kitchen,Coffee beans,8,177.95
+2023-05-12,Hell's Kitchen,Drinking Chocolate,47,197.75
+2023-05-12,Hell's Kitchen,Flavours,57,45.60
+2023-05-12,Hell's Kitchen,Loose Tea,7,65.20
+2023-05-12,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-05-12,Hell's Kitchen,Tea,190,519.45
+2023-05-12,Lower Manhattan,Bakery,74,264.75
+2023-05-12,Lower Manhattan,Coffee,210,625.80
+2023-05-12,Lower Manhattan,Coffee beans,4,78.00
+2023-05-12,Lower Manhattan,Drinking Chocolate,28,109.75
+2023-05-12,Lower Manhattan,Flavours,69,55.20
+2023-05-12,Lower Manhattan,Loose Tea,1,9.25
+2023-05-12,Lower Manhattan,Packaged Chocolate,3,20.40
+2023-05-12,Lower Manhattan,Tea,159,446.50
+2023-05-13,Astoria,Bakery,48,173.50
+2023-05-13,Astoria,Coffee,168,498.70
+2023-05-13,Astoria,Drinking Chocolate,38,160.50
+2023-05-13,Astoria,Flavours,28,22.40
+2023-05-13,Astoria,Tea,157,444.75
+2023-05-13,Hell's Kitchen,Bakery,76,279.50
+2023-05-13,Hell's Kitchen,Coffee,282,843.50
+2023-05-13,Hell's Kitchen,Coffee beans,13,269.45
+2023-05-13,Hell's Kitchen,Drinking Chocolate,53,220.00
+2023-05-13,Hell's Kitchen,Flavours,48,38.40
+2023-05-13,Hell's Kitchen,Loose Tea,8,75.25
+2023-05-13,Hell's Kitchen,Packaged Chocolate,4,28.00
+2023-05-13,Hell's Kitchen,Tea,200,558.50
+2023-05-13,Lower Manhattan,Bakery,74,263.25
+2023-05-13,Lower Manhattan,Branded,2,28.00
+2023-05-13,Lower Manhattan,Coffee,226,707.45
+2023-05-13,Lower Manhattan,Coffee beans,5,116.75
+2023-05-13,Lower Manhattan,Drinking Chocolate,40,161.50
+2023-05-13,Lower Manhattan,Flavours,60,48.00
+2023-05-13,Lower Manhattan,Loose Tea,6,54.00
+2023-05-13,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-05-13,Lower Manhattan,Tea,179,499.20
+2023-05-14,Astoria,Bakery,32,111.00
+2023-05-14,Astoria,Branded,7,165.00
+2023-05-14,Astoria,Coffee,133,406.10
+2023-05-14,Astoria,Coffee beans,6,110.00
+2023-05-14,Astoria,Drinking Chocolate,44,191.75
+2023-05-14,Astoria,Flavours,43,34.40
+2023-05-14,Astoria,Loose Tea,4,37.80
+2023-05-14,Astoria,Packaged Chocolate,2,15.20
+2023-05-14,Astoria,Tea,146,410.75
+2023-05-14,Hell's Kitchen,Bakery,86,308.50
+2023-05-14,Hell's Kitchen,Coffee,227,718.25
+2023-05-14,Hell's Kitchen,Coffee beans,12,267.50
+2023-05-14,Hell's Kitchen,Drinking Chocolate,22,90.00
+2023-05-14,Hell's Kitchen,Flavours,52,41.60
+2023-05-14,Hell's Kitchen,Loose Tea,11,101.00
+2023-05-14,Hell's Kitchen,Packaged Chocolate,4,41.86
+2023-05-14,Hell's Kitchen,Tea,147,411.00
+2023-05-14,Lower Manhattan,Bakery,79,281.50
+2023-05-14,Lower Manhattan,Branded,10,158.00
+2023-05-14,Lower Manhattan,Coffee,184,571.00
+2023-05-14,Lower Manhattan,Coffee beans,3,58.50
+2023-05-14,Lower Manhattan,Drinking Chocolate,33,133.75
+2023-05-14,Lower Manhattan,Flavours,51,40.80
+2023-05-14,Lower Manhattan,Loose Tea,4,36.35
+2023-05-14,Lower Manhattan,Packaged Chocolate,4,47.59
+2023-05-14,Lower Manhattan,Tea,93,263.45
+2023-05-15,Astoria,Bakery,55,194.25
+2023-05-15,Astoria,Branded,5,98.00
+2023-05-15,Astoria,Coffee,264,793.75
+2023-05-15,Astoria,Coffee beans,12,240.20
+2023-05-15,Astoria,Drinking Chocolate,49,205.25
+2023-05-15,Astoria,Flavours,38,30.40
+2023-05-15,Astoria,Loose Tea,4,35.80
+2023-05-15,Astoria,Packaged Chocolate,2,20.93
+2023-05-15,Astoria,Tea,201,562.30
+2023-05-15,Hell's Kitchen,Bakery,55,194.25
+2023-05-15,Hell's Kitchen,Branded,2,42.00
+2023-05-15,Hell's Kitchen,Coffee,157,474.20
+2023-05-15,Hell's Kitchen,Coffee beans,4,78.15
+2023-05-15,Hell's Kitchen,Drinking Chocolate,55,234.00
+2023-05-15,Hell's Kitchen,Flavours,27,21.60
+2023-05-15,Hell's Kitchen,Loose Tea,5,46.75
+2023-05-15,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-05-15,Hell's Kitchen,Tea,174,494.10
+2023-05-15,Lower Manhattan,Bakery,48,168.75
+2023-05-15,Lower Manhattan,Branded,3,36.00
+2023-05-15,Lower Manhattan,Coffee,211,651.15
+2023-05-15,Lower Manhattan,Coffee beans,2,38.45
+2023-05-15,Lower Manhattan,Drinking Chocolate,50,220.00
+2023-05-15,Lower Manhattan,Flavours,42,33.60
+2023-05-15,Lower Manhattan,Loose Tea,7,63.50
+2023-05-15,Lower Manhattan,Packaged Chocolate,3,22.80
+2023-05-15,Lower Manhattan,Tea,134,377.20
+2023-05-16,Astoria,Bakery,64,228.75
+2023-05-16,Astoria,Branded,1,14.00
+2023-05-16,Astoria,Coffee,257,763.65
+2023-05-16,Astoria,Coffee beans,9,182.50
+2023-05-16,Astoria,Drinking Chocolate,51,215.00
+2023-05-16,Astoria,Flavours,43,34.40
+2023-05-16,Astoria,Loose Tea,7,63.75
+2023-05-16,Astoria,Tea,191,540.10
+2023-05-16,Hell's Kitchen,Bakery,66,239.75
+2023-05-16,Hell's Kitchen,Branded,1,14.00
+2023-05-16,Hell's Kitchen,Coffee,212,643.85
+2023-05-16,Hell's Kitchen,Coffee beans,9,183.45
+2023-05-16,Hell's Kitchen,Drinking Chocolate,42,173.00
+2023-05-16,Hell's Kitchen,Flavours,34,27.20
+2023-05-16,Hell's Kitchen,Loose Tea,5,45.30
+2023-05-16,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-05-16,Hell's Kitchen,Tea,171,475.90
+2023-05-16,Lower Manhattan,Bakery,53,191.00
+2023-05-16,Lower Manhattan,Branded,4,52.00
+2023-05-16,Lower Manhattan,Coffee,198,609.00
+2023-05-16,Lower Manhattan,Coffee beans,7,169.25
+2023-05-16,Lower Manhattan,Drinking Chocolate,40,164.75
+2023-05-16,Lower Manhattan,Flavours,36,28.80
+2023-05-16,Lower Manhattan,Loose Tea,3,27.40
+2023-05-16,Lower Manhattan,Packaged Chocolate,2,14.00
+2023-05-16,Lower Manhattan,Tea,150,428.00
+2023-05-17,Astoria,Bakery,63,228.50
+2023-05-17,Astoria,Branded,8,152.00
+2023-05-17,Astoria,Coffee,220,663.60
+2023-05-17,Astoria,Coffee beans,4,94.95
+2023-05-17,Astoria,Drinking Chocolate,45,194.25
+2023-05-17,Astoria,Flavours,37,29.60
+2023-05-17,Astoria,Loose Tea,5,48.15
+2023-05-17,Astoria,Packaged Chocolate,1,7.60
+2023-05-17,Astoria,Tea,183,523.85
+2023-05-17,Hell's Kitchen,Bakery,43,153.25
+2023-05-17,Hell's Kitchen,Coffee,138,420.80
+2023-05-17,Hell's Kitchen,Coffee beans,18,760.50
+2023-05-17,Hell's Kitchen,Drinking Chocolate,25,105.00
+2023-05-17,Hell's Kitchen,Flavours,21,16.80
+2023-05-17,Hell's Kitchen,Loose Tea,2,18.45
+2023-05-17,Hell's Kitchen,Tea,112,316.55
+2023-05-17,Lower Manhattan,Bakery,60,215.75
+2023-05-17,Lower Manhattan,Branded,6,108.00
+2023-05-17,Lower Manhattan,Coffee,200,630.80
+2023-05-17,Lower Manhattan,Coffee beans,5,89.50
+2023-05-17,Lower Manhattan,Drinking Chocolate,37,153.50
+2023-05-17,Lower Manhattan,Flavours,52,41.60
+2023-05-17,Lower Manhattan,Loose Tea,2,21.90
+2023-05-17,Lower Manhattan,Tea,148,423.10
+2023-05-18,Astoria,Bakery,56,197.50
+2023-05-18,Astoria,Branded,5,110.00
+2023-05-18,Astoria,Coffee,218,666.15
+2023-05-18,Astoria,Coffee beans,8,146.50
+2023-05-18,Astoria,Drinking Chocolate,53,221.50
+2023-05-18,Astoria,Flavours,45,36.00
+2023-05-18,Astoria,Loose Tea,6,54.55
+2023-05-18,Astoria,Packaged Chocolate,4,47.59
+2023-05-18,Astoria,Tea,171,486.15
+2023-05-18,Hell's Kitchen,Bakery,65,227.00
+2023-05-18,Hell's Kitchen,Branded,3,42.00
+2023-05-18,Hell's Kitchen,Coffee,232,709.75
+2023-05-18,Hell's Kitchen,Coffee beans,7,107.25
+2023-05-18,Hell's Kitchen,Drinking Chocolate,72,294.50
+2023-05-18,Hell's Kitchen,Flavours,39,31.20
+2023-05-18,Hell's Kitchen,Loose Tea,10,90.05
+2023-05-18,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-05-18,Hell's Kitchen,Tea,154,434.25
+2023-05-18,Lower Manhattan,Bakery,61,213.75
+2023-05-18,Lower Manhattan,Branded,5,64.00
+2023-05-18,Lower Manhattan,Coffee,185,563.75
+2023-05-18,Lower Manhattan,Coffee beans,8,142.20
+2023-05-18,Lower Manhattan,Drinking Chocolate,38,152.25
+2023-05-18,Lower Manhattan,Flavours,52,41.60
+2023-05-18,Lower Manhattan,Loose Tea,3,27.40
+2023-05-18,Lower Manhattan,Packaged Chocolate,4,29.20
+2023-05-18,Lower Manhattan,Tea,154,434.05
+2023-05-19,Astoria,Bakery,64,227.50
+2023-05-19,Astoria,Branded,3,70.00
+2023-05-19,Astoria,Coffee,255,777.35
+2023-05-19,Astoria,Coffee beans,13,231.90
+2023-05-19,Astoria,Drinking Chocolate,52,213.50
+2023-05-19,Astoria,Flavours,46,36.80
+2023-05-19,Astoria,Loose Tea,4,38.10
+2023-05-19,Astoria,Packaged Chocolate,1,7.60
+2023-05-19,Astoria,Tea,206,581.95
+2023-05-19,Hell's Kitchen,Bakery,75,269.50
+2023-05-19,Hell's Kitchen,Branded,2,26.00
+2023-05-19,Hell's Kitchen,Coffee,218,667.30
+2023-05-19,Hell's Kitchen,Coffee beans,9,214.15
+2023-05-19,Hell's Kitchen,Drinking Chocolate,39,160.50
+2023-05-19,Hell's Kitchen,Flavours,42,33.60
+2023-05-19,Hell's Kitchen,Loose Tea,4,37.50
+2023-05-19,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-05-19,Hell's Kitchen,Tea,170,479.35
+2023-05-19,Lower Manhattan,Bakery,40,145.75
+2023-05-19,Lower Manhattan,Branded,5,82.00
+2023-05-19,Lower Manhattan,Coffee,213,649.80
+2023-05-19,Lower Manhattan,Coffee beans,2,65.45
+2023-05-19,Lower Manhattan,Drinking Chocolate,33,136.00
+2023-05-19,Lower Manhattan,Flavours,52,41.60
+2023-05-19,Lower Manhattan,Loose Tea,1,8.95
+2023-05-19,Lower Manhattan,Tea,151,434.80
+2023-05-20,Astoria,Bakery,106,375.50
+2023-05-20,Astoria,Coffee,128,386.20
+2023-05-20,Astoria,Coffee beans,18,453.65
+2023-05-20,Astoria,Drinking Chocolate,31,130.25
+2023-05-20,Astoria,Flavours,23,18.40
+2023-05-20,Astoria,Loose Tea,13,118.90
+2023-05-20,Astoria,Packaged Chocolate,3,27.33
+2023-05-20,Astoria,Tea,101,288.50
+2023-05-20,Hell's Kitchen,Bakery,48,175.75
+2023-05-20,Hell's Kitchen,Branded,5,98.00
+2023-05-20,Hell's Kitchen,Coffee,226,692.20
+2023-05-20,Hell's Kitchen,Coffee beans,5,121.25
+2023-05-20,Hell's Kitchen,Drinking Chocolate,43,177.50
+2023-05-20,Hell's Kitchen,Flavours,54,43.20
+2023-05-20,Hell's Kitchen,Loose Tea,6,56.30
+2023-05-20,Hell's Kitchen,Packaged Chocolate,2,15.20
+2023-05-20,Hell's Kitchen,Tea,179,503.75
+2023-05-20,Lower Manhattan,Bakery,80,274.60
+2023-05-20,Lower Manhattan,Branded,4,50.00
+2023-05-20,Lower Manhattan,Coffee,233,721.55
+2023-05-20,Lower Manhattan,Coffee beans,3,52.50
+2023-05-20,Lower Manhattan,Drinking Chocolate,30,123.50
+2023-05-20,Lower Manhattan,Flavours,57,45.60
+2023-05-20,Lower Manhattan,Loose Tea,2,21.90
+2023-05-20,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-05-20,Lower Manhattan,Tea,192,540.15
+2023-05-21,Astoria,Bakery,34,120.75
+2023-05-21,Astoria,Branded,9,226.00
+2023-05-21,Astoria,Coffee,148,444.55
+2023-05-21,Astoria,Coffee beans,9,158.20
+2023-05-21,Astoria,Drinking Chocolate,37,157.50
+2023-05-21,Astoria,Flavours,39,31.20
+2023-05-21,Astoria,Loose Tea,2,19.90
+2023-05-21,Astoria,Packaged Chocolate,3,28.53
+2023-05-21,Astoria,Tea,137,382.15
+2023-05-21,Hell's Kitchen,Bakery,65,229.75
+2023-05-21,Hell's Kitchen,Branded,4,68.00
+2023-05-21,Hell's Kitchen,Coffee,235,702.60
+2023-05-21,Hell's Kitchen,Coffee beans,9,245.75
+2023-05-21,Hell's Kitchen,Drinking Chocolate,49,207.75
+2023-05-21,Hell's Kitchen,Flavours,49,39.20
+2023-05-21,Hell's Kitchen,Loose Tea,3,26.85
+2023-05-21,Hell's Kitchen,Packaged Chocolate,2,19.73
+2023-05-21,Hell's Kitchen,Tea,189,545.45
+2023-05-21,Lower Manhattan,Bakery,65,224.90
+2023-05-21,Lower Manhattan,Branded,3,52.00
+2023-05-21,Lower Manhattan,Coffee,232,693.60
+2023-05-21,Lower Manhattan,Coffee beans,4,70.25
+2023-05-21,Lower Manhattan,Drinking Chocolate,38,164.75
+2023-05-21,Lower Manhattan,Flavours,40,32.00
+2023-05-21,Lower Manhattan,Loose Tea,3,27.15
+2023-05-21,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-05-21,Lower Manhattan,Tea,158,444.70
+2023-05-22,Astoria,Bakery,50,182.00
+2023-05-22,Astoria,Coffee,248,737.40
+2023-05-22,Astoria,Drinking Chocolate,44,182.00
+2023-05-22,Astoria,Tea,240,671.75
+2023-05-22,Hell's Kitchen,Bakery,58,199.75
+2023-05-22,Hell's Kitchen,Coffee,197,600.65
+2023-05-22,Hell's Kitchen,Coffee beans,8,149.20
+2023-05-22,Hell's Kitchen,Drinking Chocolate,37,154.75
+2023-05-22,Hell's Kitchen,Flavours,9,7.20
+2023-05-22,Hell's Kitchen,Loose Tea,3,27.40
+2023-05-22,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-05-22,Hell's Kitchen,Tea,129,364.40
+2023-05-22,Lower Manhattan,Bakery,67,228.05
+2023-05-22,Lower Manhattan,Branded,1,14.00
+2023-05-22,Lower Manhattan,Coffee,294,892.05
+2023-05-22,Lower Manhattan,Coffee beans,9,209.25
+2023-05-22,Lower Manhattan,Drinking Chocolate,42,168.00
+2023-05-22,Lower Manhattan,Flavours,56,44.80
+2023-05-22,Lower Manhattan,Loose Tea,3,29.45
+2023-05-22,Lower Manhattan,Packaged Chocolate,3,33.06
+2023-05-22,Lower Manhattan,Tea,230,638.40
+2023-05-23,Astoria,Bakery,45,161.25
+2023-05-23,Astoria,Coffee,241,735.35
+2023-05-23,Astoria,Drinking Chocolate,58,238.00
+2023-05-23,Astoria,Tea,181,518.50
+2023-05-23,Hell's Kitchen,Bakery,71,245.75
+2023-05-23,Hell's Kitchen,Coffee,235,700.50
+2023-05-23,Hell's Kitchen,Coffee beans,10,191.50
+2023-05-23,Hell's Kitchen,Drinking Chocolate,33,131.50
+2023-05-23,Hell's Kitchen,Flavours,8,6.40
+2023-05-23,Hell's Kitchen,Loose Tea,3,26.85
+2023-05-23,Hell's Kitchen,Packaged Chocolate,1,13.33
+2023-05-23,Hell's Kitchen,Tea,183,520.10
+2023-05-23,Lower Manhattan,Bakery,41,140.15
+2023-05-23,Lower Manhattan,Branded,2,42.00
+2023-05-23,Lower Manhattan,Coffee,250,767.05
+2023-05-23,Lower Manhattan,Coffee beans,2,33.00
+2023-05-23,Lower Manhattan,Drinking Chocolate,51,206.25
+2023-05-23,Lower Manhattan,Flavours,53,42.40
+2023-05-23,Lower Manhattan,Loose Tea,4,36.65
+2023-05-23,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-05-23,Lower Manhattan,Tea,168,473.05
+2023-05-24,Astoria,Bakery,59,208.00
+2023-05-24,Astoria,Coffee,302,928.85
+2023-05-24,Astoria,Drinking Chocolate,54,227.25
+2023-05-24,Astoria,Tea,190,525.55
+2023-05-24,Hell's Kitchen,Bakery,56,192.50
+2023-05-24,Hell's Kitchen,Coffee,188,548.00
+2023-05-24,Hell's Kitchen,Coffee beans,11,212.15
+2023-05-24,Hell's Kitchen,Drinking Chocolate,37,151.00
+2023-05-24,Hell's Kitchen,Flavours,4,3.20
+2023-05-24,Hell's Kitchen,Loose Tea,1,8.95
+2023-05-24,Hell's Kitchen,Tea,147,417.40
+2023-05-24,Lower Manhattan,Bakery,61,201.00
+2023-05-24,Lower Manhattan,Branded,3,70.00
+2023-05-24,Lower Manhattan,Coffee,229,672.30
+2023-05-24,Lower Manhattan,Coffee beans,4,68.50
+2023-05-24,Lower Manhattan,Drinking Chocolate,57,242.50
+2023-05-24,Lower Manhattan,Flavours,50,40.00
+2023-05-24,Lower Manhattan,Loose Tea,3,26.85
+2023-05-24,Lower Manhattan,Packaged Chocolate,2,15.20
+2023-05-24,Lower Manhattan,Tea,224,632.25
+2023-05-25,Astoria,Bakery,47,162.75
+2023-05-25,Astoria,Coffee,236,708.25
+2023-05-25,Astoria,Drinking Chocolate,62,255.25
+2023-05-25,Astoria,Tea,183,501.90
+2023-05-25,Hell's Kitchen,Bakery,63,223.50
+2023-05-25,Hell's Kitchen,Coffee,180,526.80
+2023-05-25,Hell's Kitchen,Coffee beans,8,185.00
+2023-05-25,Hell's Kitchen,Drinking Chocolate,39,164.25
+2023-05-25,Hell's Kitchen,Flavours,7,5.60
+2023-05-25,Hell's Kitchen,Loose Tea,6,54.00
+2023-05-25,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-05-25,Hell's Kitchen,Tea,152,431.85
+2023-05-25,Lower Manhattan,Bakery,46,161.85
+2023-05-25,Lower Manhattan,Branded,4,98.00
+2023-05-25,Lower Manhattan,Coffee,248,728.40
+2023-05-25,Lower Manhattan,Coffee beans,6,90.95
+2023-05-25,Lower Manhattan,Drinking Chocolate,42,172.00
+2023-05-25,Lower Manhattan,Flavours,32,25.60
+2023-05-25,Lower Manhattan,Loose Tea,2,18.20
+2023-05-25,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-05-25,Lower Manhattan,Tea,248,703.90
+2023-05-26,Astoria,Bakery,49,174.25
+2023-05-26,Astoria,Coffee,301,914.45
+2023-05-26,Astoria,Drinking Chocolate,41,173.25
+2023-05-26,Astoria,Tea,200,564.70
+2023-05-26,Hell's Kitchen,Bakery,66,235.50
+2023-05-26,Hell's Kitchen,Coffee,199,606.00
+2023-05-26,Hell's Kitchen,Coffee beans,6,103.65
+2023-05-26,Hell's Kitchen,Drinking Chocolate,26,108.25
+2023-05-26,Hell's Kitchen,Flavours,14,11.20
+2023-05-26,Hell's Kitchen,Loose Tea,6,54.30
+2023-05-26,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-05-26,Hell's Kitchen,Tea,133,380.80
+2023-05-26,Lower Manhattan,Bakery,52,180.75
+2023-05-26,Lower Manhattan,Branded,3,56.00
+2023-05-26,Lower Manhattan,Coffee,242,726.55
+2023-05-26,Lower Manhattan,Coffee beans,5,101.00
+2023-05-26,Lower Manhattan,Drinking Chocolate,60,255.75
+2023-05-26,Lower Manhattan,Flavours,44,35.20
+2023-05-26,Lower Manhattan,Loose Tea,2,20.45
+2023-05-26,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-05-26,Lower Manhattan,Tea,210,583.70
+2023-05-27,Astoria,Bakery,47,169.25
+2023-05-27,Astoria,Coffee,223,657.65
+2023-05-27,Astoria,Drinking Chocolate,52,218.00
+2023-05-27,Astoria,Tea,218,616.15
+2023-05-27,Hell's Kitchen,Bakery,38,132.75
+2023-05-27,Hell's Kitchen,Coffee,237,713.10
+2023-05-27,Hell's Kitchen,Coffee beans,1,15.00
+2023-05-27,Hell's Kitchen,Drinking Chocolate,57,227.25
+2023-05-27,Hell's Kitchen,Flavours,65,52.00
+2023-05-27,Hell's Kitchen,Tea,184,515.15
+2023-05-27,Lower Manhattan,Bakery,71,243.05
+2023-05-27,Lower Manhattan,Branded,3,54.00
+2023-05-27,Lower Manhattan,Coffee,279,810.55
+2023-05-27,Lower Manhattan,Coffee beans,7,184.50
+2023-05-27,Lower Manhattan,Drinking Chocolate,52,212.00
+2023-05-27,Lower Manhattan,Flavours,43,34.40
+2023-05-27,Lower Manhattan,Loose Tea,4,36.40
+2023-05-27,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-05-27,Lower Manhattan,Tea,233,661.55
+2023-05-28,Astoria,Bakery,42,146.00
+2023-05-28,Astoria,Coffee,262,780.20
+2023-05-28,Astoria,Drinking Chocolate,40,160.75
+2023-05-28,Astoria,Tea,187,525.90
+2023-05-28,Hell's Kitchen,Bakery,46,166.75
+2023-05-28,Hell's Kitchen,Coffee,193,597.55
+2023-05-28,Hell's Kitchen,Drinking Chocolate,33,133.50
+2023-05-28,Hell's Kitchen,Tea,132,366.95
+2023-05-28,Lower Manhattan,Bakery,54,188.05
+2023-05-28,Lower Manhattan,Coffee,234,722.15
+2023-05-28,Lower Manhattan,Drinking Chocolate,39,163.25
+2023-05-28,Lower Manhattan,Tea,140,387.60
+2023-05-29,Astoria,Bakery,50,175.75
+2023-05-29,Astoria,Coffee,215,659.50
+2023-05-29,Astoria,Drinking Chocolate,69,295.50
+2023-05-29,Astoria,Tea,182,506.35
+2023-05-29,Hell's Kitchen,Bakery,39,140.75
+2023-05-29,Hell's Kitchen,Coffee,173,524.60
+2023-05-29,Hell's Kitchen,Drinking Chocolate,23,98.75
+2023-05-29,Hell's Kitchen,Tea,128,361.05
+2023-05-29,Lower Manhattan,Bakery,77,270.00
+2023-05-29,Lower Manhattan,Coffee,162,467.40
+2023-05-29,Lower Manhattan,Drinking Chocolate,27,110.00
+2023-05-29,Lower Manhattan,Tea,125,349.85
+2023-05-30,Astoria,Bakery,60,211.75
+2023-05-30,Astoria,Branded,2,40.00
+2023-05-30,Astoria,Coffee,223,657.75
+2023-05-30,Astoria,Coffee beans,1,14.75
+2023-05-30,Astoria,Drinking Chocolate,43,177.75
+2023-05-30,Astoria,Flavours,17,13.60
+2023-05-30,Astoria,Loose Tea,1,9.50
+2023-05-30,Astoria,Packaged Chocolate,1,7.60
+2023-05-30,Astoria,Tea,191,538.25
+2023-05-30,Hell's Kitchen,Bakery,51,182.00
+2023-05-30,Hell's Kitchen,Branded,1,14.00
+2023-05-30,Hell's Kitchen,Coffee,179,562.90
+2023-05-30,Hell's Kitchen,Coffee beans,7,151.50
+2023-05-30,Hell's Kitchen,Drinking Chocolate,32,131.50
+2023-05-30,Hell's Kitchen,Flavours,33,26.40
+2023-05-30,Hell's Kitchen,Loose Tea,2,17.90
+2023-05-30,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-05-30,Hell's Kitchen,Tea,120,338.70
+2023-05-30,Lower Manhattan,Bakery,48,168.43
+2023-05-30,Lower Manhattan,Branded,5,78.00
+2023-05-30,Lower Manhattan,Coffee,200,633.40
+2023-05-30,Lower Manhattan,Coffee beans,7,174.75
+2023-05-30,Lower Manhattan,Drinking Chocolate,43,166.50
+2023-05-30,Lower Manhattan,Flavours,37,29.60
+2023-05-30,Lower Manhattan,Loose Tea,5,45.05
+2023-05-30,Lower Manhattan,Packaged Chocolate,1,6.40
+2023-05-30,Lower Manhattan,Tea,154,429.90
+2023-05-31,Astoria,Bakery,46,165.00
+2023-05-31,Astoria,Branded,3,38.00
+2023-05-31,Astoria,Coffee,229,661.35
+2023-05-31,Astoria,Coffee beans,7,119.75
+2023-05-31,Astoria,Drinking Chocolate,36,151.25
+2023-05-31,Astoria,Flavours,17,13.60
+2023-05-31,Astoria,Loose Tea,2,19.90
+2023-05-31,Astoria,Packaged Chocolate,2,26.66
+2023-05-31,Astoria,Tea,170,475.60
+2023-05-31,Hell's Kitchen,Bakery,50,185.75
+2023-05-31,Hell's Kitchen,Branded,3,52.00
+2023-05-31,Hell's Kitchen,Coffee,172,522.70
+2023-05-31,Hell's Kitchen,Coffee beans,4,69.00
+2023-05-31,Hell's Kitchen,Drinking Chocolate,23,91.50
+2023-05-31,Hell's Kitchen,Flavours,27,21.60
+2023-05-31,Hell's Kitchen,Loose Tea,6,54.00
+2023-05-31,Hell's Kitchen,Packaged Chocolate,2,14.00
+2023-05-31,Hell's Kitchen,Tea,129,353.20
+2023-05-31,Lower Manhattan,Bakery,59,210.02
+2023-05-31,Lower Manhattan,Branded,2,24.00
+2023-05-31,Lower Manhattan,Coffee,193,605.00
+2023-05-31,Lower Manhattan,Coffee beans,4,104.45
+2023-05-31,Lower Manhattan,Drinking Chocolate,32,132.75
+2023-05-31,Lower Manhattan,Flavours,33,26.40
+2023-05-31,Lower Manhattan,Loose Tea,4,37.20
+2023-05-31,Lower Manhattan,Packaged Chocolate,3,21.60
+2023-05-31,Lower Manhattan,Tea,170,487.85
+2023-06-01,Astoria,Bakery,55,194.75
+2023-06-01,Astoria,Coffee,264,792.15
+2023-06-01,Astoria,Drinking Chocolate,54,220.75
+2023-06-01,Astoria,Tea,210,587.20
+2023-06-01,Hell's Kitchen,Bakery,51,184.75
+2023-06-01,Hell's Kitchen,Coffee,275,849.65
+2023-06-01,Hell's Kitchen,Drinking Chocolate,50,206.00
+2023-06-01,Hell's Kitchen,Tea,206,588.80
+2023-06-01,Lower Manhattan,Bakery,55,192.00
+2023-06-01,Lower Manhattan,Coffee,246,749.25
+2023-06-01,Lower Manhattan,Drinking Chocolate,49,211.25
+2023-06-01,Lower Manhattan,Tea,161,450.45
+2023-06-02,Astoria,Bakery,67,237.25
+2023-06-02,Astoria,Coffee,256,751.00
+2023-06-02,Astoria,Drinking Chocolate,58,246.25
+2023-06-02,Astoria,Tea,241,680.95
+2023-06-02,Hell's Kitchen,Bakery,39,137.00
+2023-06-02,Hell's Kitchen,Coffee,254,757.60
+2023-06-02,Hell's Kitchen,Drinking Chocolate,45,189.50
+2023-06-02,Hell's Kitchen,Tea,217,617.50
+2023-06-02,Lower Manhattan,Bakery,48,169.50
+2023-06-02,Lower Manhattan,Coffee,203,600.45
+2023-06-02,Lower Manhattan,Drinking Chocolate,48,199.25
+2023-06-02,Lower Manhattan,Tea,166,470.25
+2023-06-03,Astoria,Bakery,55,194.75
+2023-06-03,Astoria,Coffee,287,872.85
+2023-06-03,Astoria,Drinking Chocolate,72,297.50
+2023-06-03,Astoria,Tea,202,588.40
+2023-06-03,Hell's Kitchen,Bakery,37,133.75
+2023-06-03,Hell's Kitchen,Coffee,216,644.05
+2023-06-03,Hell's Kitchen,Drinking Chocolate,58,244.00
+2023-06-03,Hell's Kitchen,Tea,211,591.00
+2023-06-03,Lower Manhattan,Bakery,66,234.00
+2023-06-03,Lower Manhattan,Coffee,228,685.90
+2023-06-03,Lower Manhattan,Drinking Chocolate,37,158.75
+2023-06-03,Lower Manhattan,Tea,185,521.70
+2023-06-04,Astoria,Bakery,59,206.00
+2023-06-04,Astoria,Coffee,251,756.75
+2023-06-04,Astoria,Drinking Chocolate,50,208.50
+2023-06-04,Astoria,Tea,212,589.65
+2023-06-04,Hell's Kitchen,Bakery,40,143.50
+2023-06-04,Hell's Kitchen,Coffee,272,829.80
+2023-06-04,Hell's Kitchen,Drinking Chocolate,44,176.00
+2023-06-04,Hell's Kitchen,Tea,173,479.60
+2023-06-04,Lower Manhattan,Bakery,59,211.00
+2023-06-04,Lower Manhattan,Coffee,212,634.25
+2023-06-04,Lower Manhattan,Drinking Chocolate,41,171.00
+2023-06-04,Lower Manhattan,Tea,206,579.10
+2023-06-05,Astoria,Bakery,64,220.75
+2023-06-05,Astoria,Coffee,283,849.00
+2023-06-05,Astoria,Drinking Chocolate,59,243.00
+2023-06-05,Astoria,Tea,189,529.70
+2023-06-05,Hell's Kitchen,Bakery,41,148.00
+2023-06-05,Hell's Kitchen,Coffee,214,638.45
+2023-06-05,Hell's Kitchen,Drinking Chocolate,49,206.75
+2023-06-05,Hell's Kitchen,Tea,191,538.50
+2023-06-05,Lower Manhattan,Bakery,65,229.75
+2023-06-05,Lower Manhattan,Coffee,212,671.70
+2023-06-05,Lower Manhattan,Drinking Chocolate,33,139.25
+2023-06-05,Lower Manhattan,Tea,177,496.30
+2023-06-06,Astoria,Bakery,62,222.25
+2023-06-06,Astoria,Coffee,183,544.70
+2023-06-06,Astoria,Drinking Chocolate,47,191.25
+2023-06-06,Astoria,Tea,154,438.90
+2023-06-06,Hell's Kitchen,Bakery,37,130.50
+2023-06-06,Hell's Kitchen,Coffee,263,768.80
+2023-06-06,Hell's Kitchen,Drinking Chocolate,44,182.25
+2023-06-06,Hell's Kitchen,Tea,189,529.85
+2023-06-06,Lower Manhattan,Bakery,56,191.75
+2023-06-06,Lower Manhattan,Coffee,239,722.05
+2023-06-06,Lower Manhattan,Drinking Chocolate,46,185.25
+2023-06-06,Lower Manhattan,Tea,174,491.35
+2023-06-07,Astoria,Bakery,59,212.00
+2023-06-07,Astoria,Coffee,202,623.50
+2023-06-07,Astoria,Drinking Chocolate,45,191.25
+2023-06-07,Astoria,Tea,188,528.80
+2023-06-07,Hell's Kitchen,Bakery,74,269.75
+2023-06-07,Hell's Kitchen,Coffee,296,901.15
+2023-06-07,Hell's Kitchen,Coffee beans,5,97.35
+2023-06-07,Hell's Kitchen,Drinking Chocolate,43,179.25
+2023-06-07,Hell's Kitchen,Flavours,48,38.40
+2023-06-07,Hell's Kitchen,Loose Tea,3,29.40
+2023-06-07,Hell's Kitchen,Packaged Chocolate,2,12.80
+2023-06-07,Hell's Kitchen,Tea,181,517.40
+2023-06-07,Lower Manhattan,Bakery,42,148.50
+2023-06-07,Lower Manhattan,Coffee,148,445.50
+2023-06-07,Lower Manhattan,Coffee beans,7,153.00
+2023-06-07,Lower Manhattan,Drinking Chocolate,14,56.75
+2023-06-07,Lower Manhattan,Flavours,35,28.00
+2023-06-07,Lower Manhattan,Loose Tea,5,46.75
+2023-06-07,Lower Manhattan,Packaged Chocolate,2,14.00
+2023-06-07,Lower Manhattan,Tea,137,389.55
+2023-06-08,Astoria,Bakery,97,349.50
+2023-06-08,Astoria,Branded,3,54.00
+2023-06-08,Astoria,Coffee,217,679.50
+2023-06-08,Astoria,Coffee beans,11,241.25
+2023-06-08,Astoria,Drinking Chocolate,44,184.50
+2023-06-08,Astoria,Flavours,3,2.40
+2023-06-08,Astoria,Loose Tea,10,92.35
+2023-06-08,Astoria,Packaged Chocolate,2,19.73
+2023-06-08,Astoria,Tea,187,545.45
+2023-06-08,Hell's Kitchen,Bakery,69,256.75
+2023-06-08,Hell's Kitchen,Coffee,268,797.50
+2023-06-08,Hell's Kitchen,Coffee beans,8,156.25
+2023-06-08,Hell's Kitchen,Drinking Chocolate,42,175.50
+2023-06-08,Hell's Kitchen,Flavours,46,36.80
+2023-06-08,Hell's Kitchen,Loose Tea,7,63.20
+2023-06-08,Hell's Kitchen,Packaged Chocolate,3,34.26
+2023-06-08,Hell's Kitchen,Tea,180,507.85
+2023-06-08,Lower Manhattan,Bakery,56,199.50
+2023-06-08,Lower Manhattan,Branded,1,14.00
+2023-06-08,Lower Manhattan,Coffee,226,689.40
+2023-06-08,Lower Manhattan,Coffee beans,12,228.00
+2023-06-08,Lower Manhattan,Drinking Chocolate,38,162.50
+2023-06-08,Lower Manhattan,Flavours,50,40.00
+2023-06-08,Lower Manhattan,Loose Tea,5,47.60
+2023-06-08,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-06-08,Lower Manhattan,Tea,202,566.20
+2023-06-09,Astoria,Bakery,45,165.25
+2023-06-09,Astoria,Coffee,195,579.55
+2023-06-09,Astoria,Coffee beans,7,163.20
+2023-06-09,Astoria,Drinking Chocolate,35,143.25
+2023-06-09,Astoria,Flavours,7,5.60
+2023-06-09,Astoria,Loose Tea,7,65.20
+2023-06-09,Astoria,Packaged Chocolate,2,20.93
+2023-06-09,Astoria,Tea,135,375.50
+2023-06-09,Hell's Kitchen,Bakery,70,253.75
+2023-06-09,Hell's Kitchen,Coffee,275,845.50
+2023-06-09,Hell's Kitchen,Coffee beans,7,125.25
+2023-06-09,Hell's Kitchen,Drinking Chocolate,64,265.50
+2023-06-09,Hell's Kitchen,Flavours,69,55.20
+2023-06-09,Hell's Kitchen,Loose Tea,5,44.75
+2023-06-09,Hell's Kitchen,Packaged Chocolate,3,21.60
+2023-06-09,Hell's Kitchen,Tea,200,578.05
+2023-06-09,Lower Manhattan,Bakery,51,214.94
+2023-06-09,Lower Manhattan,Branded,23,328.00
+2023-06-09,Lower Manhattan,Coffee,258,772.20
+2023-06-09,Lower Manhattan,Coffee beans,5,80.65
+2023-06-09,Lower Manhattan,Drinking Chocolate,55,232.50
+2023-06-09,Lower Manhattan,Flavours,8,6.40
+2023-06-09,Lower Manhattan,Loose Tea,8,75.25
+2023-06-09,Lower Manhattan,Packaged Chocolate,4,47.59
+2023-06-09,Lower Manhattan,Tea,144,401.55
+2023-06-10,Astoria,Bakery,53,191.75
+2023-06-10,Astoria,Branded,3,38.00
+2023-06-10,Astoria,Coffee,201,622.55
+2023-06-10,Astoria,Coffee beans,7,150.00
+2023-06-10,Astoria,Drinking Chocolate,36,148.25
+2023-06-10,Astoria,Flavours,54,43.20
+2023-06-10,Astoria,Loose Tea,4,38.35
+2023-06-10,Astoria,Packaged Chocolate,1,6.40
+2023-06-10,Astoria,Tea,179,510.95
+2023-06-10,Hell's Kitchen,Bakery,65,232.50
+2023-06-10,Hell's Kitchen,Branded,2,26.00
+2023-06-10,Hell's Kitchen,Coffee,244,739.15
+2023-06-10,Hell's Kitchen,Coffee beans,7,125.75
+2023-06-10,Hell's Kitchen,Drinking Chocolate,35,144.25
+2023-06-10,Hell's Kitchen,Flavours,46,36.80
+2023-06-10,Hell's Kitchen,Loose Tea,9,82.50
+2023-06-10,Hell's Kitchen,Packaged Chocolate,3,20.40
+2023-06-10,Hell's Kitchen,Tea,201,583.35
+2023-06-10,Lower Manhattan,Bakery,64,230.25
+2023-06-10,Lower Manhattan,Branded,3,54.00
+2023-06-10,Lower Manhattan,Coffee,203,620.05
+2023-06-10,Lower Manhattan,Coffee beans,7,211.50
+2023-06-10,Lower Manhattan,Drinking Chocolate,39,155.50
+2023-06-10,Lower Manhattan,Flavours,43,34.40
+2023-06-10,Lower Manhattan,Loose Tea,3,27.15
+2023-06-10,Lower Manhattan,Packaged Chocolate,2,15.20
+2023-06-10,Lower Manhattan,Tea,194,538.55
+2023-06-11,Astoria,Bakery,41,145.00
+2023-06-11,Astoria,Branded,8,134.00
+2023-06-11,Astoria,Coffee,197,598.40
+2023-06-11,Astoria,Coffee beans,3,61.50
+2023-06-11,Astoria,Drinking Chocolate,37,152.75
+2023-06-11,Astoria,Flavours,49,39.20
+2023-06-11,Astoria,Loose Tea,5,49.60
+2023-06-11,Astoria,Packaged Chocolate,1,7.60
+2023-06-11,Astoria,Tea,183,515.60
+2023-06-11,Hell's Kitchen,Bakery,76,266.50
+2023-06-11,Hell's Kitchen,Branded,4,66.00
+2023-06-11,Hell's Kitchen,Coffee,258,787.55
+2023-06-11,Hell's Kitchen,Coffee beans,4,65.75
+2023-06-11,Hell's Kitchen,Drinking Chocolate,45,185.75
+2023-06-11,Hell's Kitchen,Flavours,55,44.00
+2023-06-11,Hell's Kitchen,Loose Tea,3,27.40
+2023-06-11,Hell's Kitchen,Packaged Chocolate,6,48.93
+2023-06-11,Hell's Kitchen,Tea,185,510.65
+2023-06-11,Lower Manhattan,Bakery,53,189.00
+2023-06-11,Lower Manhattan,Coffee,194,600.60
+2023-06-11,Lower Manhattan,Coffee beans,4,120.45
+2023-06-11,Lower Manhattan,Drinking Chocolate,43,170.25
+2023-06-11,Lower Manhattan,Flavours,56,44.80
+2023-06-11,Lower Manhattan,Loose Tea,6,54.85
+2023-06-11,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-06-11,Lower Manhattan,Tea,186,519.15
+2023-06-12,Astoria,Bakery,52,180.50
+2023-06-12,Astoria,Coffee,166,489.80
+2023-06-12,Astoria,Coffee beans,4,67.25
+2023-06-12,Astoria,Drinking Chocolate,34,136.25
+2023-06-12,Astoria,Flavours,27,21.60
+2023-06-12,Astoria,Loose Tea,7,63.50
+2023-06-12,Astoria,Packaged Chocolate,1,7.60
+2023-06-12,Astoria,Tea,103,278.10
+2023-06-12,Hell's Kitchen,Bakery,59,211.00
+2023-06-12,Hell's Kitchen,Branded,3,40.00
+2023-06-12,Hell's Kitchen,Coffee,236,712.60
+2023-06-12,Hell's Kitchen,Coffee beans,9,224.45
+2023-06-12,Hell's Kitchen,Drinking Chocolate,44,178.50
+2023-06-12,Hell's Kitchen,Flavours,56,44.80
+2023-06-12,Hell's Kitchen,Loose Tea,6,56.80
+2023-06-12,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-06-12,Hell's Kitchen,Tea,230,632.05
+2023-06-12,Lower Manhattan,Bakery,86,308.75
+2023-06-12,Lower Manhattan,Coffee,231,688.30
+2023-06-12,Lower Manhattan,Coffee beans,6,168.00
+2023-06-12,Lower Manhattan,Drinking Chocolate,46,184.25
+2023-06-12,Lower Manhattan,Flavours,76,60.80
+2023-06-12,Lower Manhattan,Loose Tea,4,38.40
+2023-06-12,Lower Manhattan,Packaged Chocolate,3,20.40
+2023-06-12,Lower Manhattan,Tea,184,508.60
+2023-06-13,Astoria,Bakery,50,177.75
+2023-06-13,Astoria,Coffee,188,562.75
+2023-06-13,Astoria,Drinking Chocolate,51,215.00
+2023-06-13,Astoria,Flavours,29,23.20
+2023-06-13,Astoria,Tea,162,460.75
+2023-06-13,Hell's Kitchen,Bakery,72,263.25
+2023-06-13,Hell's Kitchen,Coffee,344,1024.40
+2023-06-13,Hell's Kitchen,Coffee beans,14,283.15
+2023-06-13,Hell's Kitchen,Drinking Chocolate,50,209.50
+2023-06-13,Hell's Kitchen,Flavours,62,49.60
+2023-06-13,Hell's Kitchen,Loose Tea,7,65.20
+2023-06-13,Hell's Kitchen,Packaged Chocolate,4,28.00
+2023-06-13,Hell's Kitchen,Tea,216,611.70
+2023-06-13,Lower Manhattan,Bakery,85,306.00
+2023-06-13,Lower Manhattan,Branded,3,56.00
+2023-06-13,Lower Manhattan,Coffee,271,847.05
+2023-06-13,Lower Manhattan,Coffee beans,5,116.20
+2023-06-13,Lower Manhattan,Drinking Chocolate,52,210.75
+2023-06-13,Lower Manhattan,Flavours,72,57.60
+2023-06-13,Lower Manhattan,Loose Tea,6,54.00
+2023-06-13,Lower Manhattan,Packaged Chocolate,3,34.26
+2023-06-13,Lower Manhattan,Tea,192,533.25
+2023-06-14,Astoria,Bakery,31,106.75
+2023-06-14,Astoria,Branded,8,214.00
+2023-06-14,Astoria,Coffee,156,454.70
+2023-06-14,Astoria,Coffee beans,10,184.25
+2023-06-14,Astoria,Drinking Chocolate,38,167.00
+2023-06-14,Astoria,Flavours,36,28.80
+2023-06-14,Astoria,Loose Tea,4,37.80
+2023-06-14,Astoria,Tea,142,395.25
+2023-06-14,Hell's Kitchen,Bakery,97,348.50
+2023-06-14,Hell's Kitchen,Coffee,267,856.70
+2023-06-14,Hell's Kitchen,Coffee beans,19,428.95
+2023-06-14,Hell's Kitchen,Drinking Chocolate,30,124.25
+2023-06-14,Hell's Kitchen,Flavours,56,44.80
+2023-06-14,Hell's Kitchen,Loose Tea,14,130.40
+2023-06-14,Hell's Kitchen,Packaged Chocolate,5,48.26
+2023-06-14,Hell's Kitchen,Tea,184,514.75
+2023-06-14,Lower Manhattan,Bakery,85,303.50
+2023-06-14,Lower Manhattan,Branded,13,212.00
+2023-06-14,Lower Manhattan,Coffee,200,634.10
+2023-06-14,Lower Manhattan,Coffee beans,2,37.25
+2023-06-14,Lower Manhattan,Drinking Chocolate,36,144.00
+2023-06-14,Lower Manhattan,Flavours,58,46.40
+2023-06-14,Lower Manhattan,Loose Tea,2,18.45
+2023-06-14,Lower Manhattan,Packaged Chocolate,2,26.66
+2023-06-14,Lower Manhattan,Tea,113,329.00
+2023-06-15,Astoria,Bakery,70,246.00
+2023-06-15,Astoria,Branded,7,154.00
+2023-06-15,Astoria,Coffee,272,829.60
+2023-06-15,Astoria,Coffee beans,15,281.20
+2023-06-15,Astoria,Drinking Chocolate,51,213.00
+2023-06-15,Astoria,Flavours,48,38.40
+2023-06-15,Astoria,Loose Tea,3,26.85
+2023-06-15,Astoria,Packaged Chocolate,3,34.26
+2023-06-15,Astoria,Tea,192,549.90
+2023-06-15,Hell's Kitchen,Bakery,61,210.00
+2023-06-15,Hell's Kitchen,Branded,3,54.00
+2023-06-15,Hell's Kitchen,Coffee,203,614.25
+2023-06-15,Hell's Kitchen,Coffee beans,3,57.70
+2023-06-15,Hell's Kitchen,Drinking Chocolate,60,255.25
+2023-06-15,Hell's Kitchen,Flavours,36,28.80
+2023-06-15,Hell's Kitchen,Loose Tea,5,46.75
+2023-06-15,Hell's Kitchen,Packaged Chocolate,3,27.33
+2023-06-15,Hell's Kitchen,Tea,175,494.10
+2023-06-15,Lower Manhattan,Bakery,49,171.00
+2023-06-15,Lower Manhattan,Branded,2,26.00
+2023-06-15,Lower Manhattan,Coffee,227,681.15
+2023-06-15,Lower Manhattan,Coffee beans,2,42.95
+2023-06-15,Lower Manhattan,Drinking Chocolate,52,222.75
+2023-06-15,Lower Manhattan,Flavours,40,32.00
+2023-06-15,Lower Manhattan,Loose Tea,8,74.45
+2023-06-15,Lower Manhattan,Packaged Chocolate,2,15.20
+2023-06-15,Lower Manhattan,Tea,136,379.35
+2023-06-16,Astoria,Bakery,65,232.50
+2023-06-16,Astoria,Branded,5,82.00
+2023-06-16,Astoria,Coffee,287,852.65
+2023-06-16,Astoria,Coffee beans,8,137.50
+2023-06-16,Astoria,Drinking Chocolate,51,213.50
+2023-06-16,Astoria,Flavours,46,36.80
+2023-06-16,Astoria,Loose Tea,7,63.75
+2023-06-16,Astoria,Packaged Chocolate,1,7.60
+2023-06-16,Astoria,Tea,209,603.50
+2023-06-16,Hell's Kitchen,Bakery,72,259.00
+2023-06-16,Hell's Kitchen,Branded,3,42.00
+2023-06-16,Hell's Kitchen,Coffee,237,719.90
+2023-06-16,Hell's Kitchen,Coffee beans,7,158.45
+2023-06-16,Hell's Kitchen,Drinking Chocolate,44,180.50
+2023-06-16,Hell's Kitchen,Flavours,39,31.20
+2023-06-16,Hell's Kitchen,Loose Tea,7,63.20
+2023-06-16,Hell's Kitchen,Tea,188,521.70
+2023-06-16,Lower Manhattan,Bakery,55,194.75
+2023-06-16,Lower Manhattan,Branded,6,78.00
+2023-06-16,Lower Manhattan,Coffee,214,654.90
+2023-06-16,Lower Manhattan,Coffee beans,5,107.50
+2023-06-16,Lower Manhattan,Drinking Chocolate,43,175.00
+2023-06-16,Lower Manhattan,Flavours,45,36.00
+2023-06-16,Lower Manhattan,Loose Tea,4,38.10
+2023-06-16,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-06-16,Lower Manhattan,Tea,174,500.50
+2023-06-17,Astoria,Bakery,58,204.50
+2023-06-17,Astoria,Branded,10,192.00
+2023-06-17,Astoria,Coffee,242,725.65
+2023-06-17,Astoria,Coffee beans,5,93.45
+2023-06-17,Astoria,Drinking Chocolate,41,173.75
+2023-06-17,Astoria,Flavours,38,30.40
+2023-06-17,Astoria,Loose Tea,4,37.20
+2023-06-17,Astoria,Packaged Chocolate,1,7.60
+2023-06-17,Astoria,Tea,219,608.10
+2023-06-17,Hell's Kitchen,Bakery,49,171.50
+2023-06-17,Hell's Kitchen,Coffee,164,490.55
+2023-06-17,Hell's Kitchen,Coffee beans,31,1248.25
+2023-06-17,Hell's Kitchen,Drinking Chocolate,20,81.75
+2023-06-17,Hell's Kitchen,Flavours,28,22.40
+2023-06-17,Hell's Kitchen,Loose Tea,2,18.45
+2023-06-17,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-06-17,Hell's Kitchen,Tea,102,279.60
+2023-06-17,Lower Manhattan,Bakery,64,233.50
+2023-06-17,Lower Manhattan,Branded,4,66.00
+2023-06-17,Lower Manhattan,Coffee,214,664.65
+2023-06-17,Lower Manhattan,Coffee beans,6,107.50
+2023-06-17,Lower Manhattan,Drinking Chocolate,31,131.00
+2023-06-17,Lower Manhattan,Flavours,61,48.80
+2023-06-17,Lower Manhattan,Loose Tea,4,39.80
+2023-06-17,Lower Manhattan,Tea,153,433.60
+2023-06-18,Astoria,Bakery,67,238.25
+2023-06-18,Astoria,Branded,6,88.00
+2023-06-18,Astoria,Coffee,220,653.80
+2023-06-18,Astoria,Coffee beans,8,147.20
+2023-06-18,Astoria,Drinking Chocolate,58,246.00
+2023-06-18,Astoria,Flavours,35,28.00
+2023-06-18,Astoria,Loose Tea,7,63.20
+2023-06-18,Astoria,Packaged Chocolate,1,13.33
+2023-06-18,Astoria,Tea,203,567.10
+2023-06-18,Hell's Kitchen,Bakery,72,255.50
+2023-06-18,Hell's Kitchen,Branded,3,42.00
+2023-06-18,Hell's Kitchen,Coffee,263,785.75
+2023-06-18,Hell's Kitchen,Coffee beans,10,188.25
+2023-06-18,Hell's Kitchen,Drinking Chocolate,74,300.50
+2023-06-18,Hell's Kitchen,Flavours,40,32.00
+2023-06-18,Hell's Kitchen,Loose Tea,8,74.15
+2023-06-18,Hell's Kitchen,Packaged Chocolate,4,34.93
+2023-06-18,Hell's Kitchen,Tea,164,462.85
+2023-06-18,Lower Manhattan,Bakery,56,195.00
+2023-06-18,Lower Manhattan,Branded,7,92.00
+2023-06-18,Lower Manhattan,Coffee,211,650.70
+2023-06-18,Lower Manhattan,Coffee beans,9,184.20
+2023-06-18,Lower Manhattan,Drinking Chocolate,35,144.00
+2023-06-18,Lower Manhattan,Flavours,65,52.00
+2023-06-18,Lower Manhattan,Loose Tea,4,38.35
+2023-06-18,Lower Manhattan,Packaged Chocolate,4,34.93
+2023-06-18,Lower Manhattan,Tea,146,414.10
+2023-06-19,Astoria,Bakery,59,207.50
+2023-06-19,Astoria,Branded,7,154.00
+2023-06-19,Astoria,Coffee,266,811.60
+2023-06-19,Astoria,Coffee beans,16,377.90
+2023-06-19,Astoria,Drinking Chocolate,55,227.75
+2023-06-19,Astoria,Flavours,45,36.00
+2023-06-19,Astoria,Loose Tea,6,56.00
+2023-06-19,Astoria,Packaged Chocolate,2,20.93
+2023-06-19,Astoria,Tea,232,654.75
+2023-06-19,Hell's Kitchen,Bakery,84,294.75
+2023-06-19,Hell's Kitchen,Branded,2,26.00
+2023-06-19,Hell's Kitchen,Coffee,236,726.15
+2023-06-19,Hell's Kitchen,Coffee beans,9,214.15
+2023-06-19,Hell's Kitchen,Drinking Chocolate,51,212.75
+2023-06-19,Hell's Kitchen,Flavours,40,32.00
+2023-06-19,Hell's Kitchen,Loose Tea,5,45.85
+2023-06-19,Hell's Kitchen,Packaged Chocolate,2,20.93
+2023-06-19,Hell's Kitchen,Tea,195,551.50
+2023-06-19,Lower Manhattan,Bakery,54,192.75
+2023-06-19,Lower Manhattan,Branded,4,82.00
+2023-06-19,Lower Manhattan,Coffee,228,690.95
+2023-06-19,Lower Manhattan,Coffee beans,3,84.00
+2023-06-19,Lower Manhattan,Drinking Chocolate,44,182.25
+2023-06-19,Lower Manhattan,Flavours,53,42.40
+2023-06-19,Lower Manhattan,Loose Tea,1,8.95
+2023-06-19,Lower Manhattan,Tea,159,450.10
+2023-06-20,Astoria,Bakery,111,392.50
+2023-06-20,Astoria,Coffee,137,408.45
+2023-06-20,Astoria,Coffee beans,12,288.65
+2023-06-20,Astoria,Drinking Chocolate,35,143.25
+2023-06-20,Astoria,Flavours,23,18.40
+2023-06-20,Astoria,Loose Tea,9,81.95
+2023-06-20,Astoria,Packaged Chocolate,3,27.33
+2023-06-20,Astoria,Tea,110,318.85
+2023-06-20,Hell's Kitchen,Bakery,49,178.50
+2023-06-20,Hell's Kitchen,Branded,3,56.00
+2023-06-20,Hell's Kitchen,Coffee,231,704.80
+2023-06-20,Hell's Kitchen,Coffee beans,5,122.75
+2023-06-20,Hell's Kitchen,Drinking Chocolate,49,203.00
+2023-06-20,Hell's Kitchen,Flavours,50,40.00
+2023-06-20,Hell's Kitchen,Loose Tea,7,65.55
+2023-06-20,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-06-20,Hell's Kitchen,Tea,180,507.45
+2023-06-20,Lower Manhattan,Bakery,86,290.75
+2023-06-20,Lower Manhattan,Branded,3,36.00
+2023-06-20,Lower Manhattan,Coffee,252,770.20
+2023-06-20,Lower Manhattan,Coffee beans,4,75.00
+2023-06-20,Lower Manhattan,Drinking Chocolate,35,144.75
+2023-06-20,Lower Manhattan,Flavours,61,48.80
+2023-06-20,Lower Manhattan,Loose Tea,3,30.85
+2023-06-20,Lower Manhattan,Packaged Chocolate,2,20.93
+2023-06-20,Lower Manhattan,Tea,183,512.35
+2023-06-21,Astoria,Bakery,40,141.00
+2023-06-21,Astoria,Branded,10,233.00
+2023-06-21,Astoria,Coffee,151,450.15
+2023-06-21,Astoria,Coffee beans,8,151.20
+2023-06-21,Astoria,Drinking Chocolate,37,165.00
+2023-06-21,Astoria,Flavours,43,34.40
+2023-06-21,Astoria,Loose Tea,2,17.90
+2023-06-21,Astoria,Packaged Chocolate,1,7.60
+2023-06-21,Astoria,Tea,146,414.00
+2023-06-21,Hell's Kitchen,Bakery,77,273.25
+2023-06-21,Hell's Kitchen,Branded,4,68.00
+2023-06-21,Hell's Kitchen,Coffee,252,756.90
+2023-06-21,Hell's Kitchen,Coffee beans,10,287.50
+2023-06-21,Hell's Kitchen,Drinking Chocolate,51,214.75
+2023-06-21,Hell's Kitchen,Flavours,63,50.40
+2023-06-21,Hell's Kitchen,Loose Tea,4,36.10
+2023-06-21,Hell's Kitchen,Packaged Chocolate,4,32.53
+2023-06-21,Hell's Kitchen,Tea,206,584.40
+2023-06-21,Lower Manhattan,Bakery,72,248.60
+2023-06-21,Lower Manhattan,Branded,3,68.00
+2023-06-21,Lower Manhattan,Coffee,252,754.35
+2023-06-21,Lower Manhattan,Coffee beans,6,111.00
+2023-06-21,Lower Manhattan,Drinking Chocolate,39,167.00
+2023-06-21,Lower Manhattan,Flavours,46,36.80
+2023-06-21,Lower Manhattan,Loose Tea,5,45.90
+2023-06-21,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-06-21,Lower Manhattan,Tea,162,451.05
+2023-06-22,Astoria,Bakery,56,202.75
+2023-06-22,Astoria,Coffee,249,772.00
+2023-06-22,Astoria,Drinking Chocolate,56,231.00
+2023-06-22,Astoria,Tea,252,706.30
+2023-06-22,Hell's Kitchen,Bakery,58,199.75
+2023-06-22,Hell's Kitchen,Coffee,200,620.95
+2023-06-22,Hell's Kitchen,Coffee beans,5,92.20
+2023-06-22,Hell's Kitchen,Drinking Chocolate,48,201.00
+2023-06-22,Hell's Kitchen,Flavours,5,4.00
+2023-06-22,Hell's Kitchen,Loose Tea,2,17.90
+2023-06-22,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-06-22,Hell's Kitchen,Tea,150,413.70
+2023-06-22,Lower Manhattan,Bakery,63,218.00
+2023-06-22,Lower Manhattan,Branded,3,38.00
+2023-06-22,Lower Manhattan,Coffee,292,870.70
+2023-06-22,Lower Manhattan,Coffee beans,7,119.25
+2023-06-22,Lower Manhattan,Drinking Chocolate,47,187.50
+2023-06-22,Lower Manhattan,Flavours,54,43.20
+2023-06-22,Lower Manhattan,Loose Tea,6,58.85
+2023-06-22,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-06-22,Lower Manhattan,Tea,215,602.85
+2023-06-23,Astoria,Bakery,56,201.50
+2023-06-23,Astoria,Coffee,266,816.40
+2023-06-23,Astoria,Drinking Chocolate,54,220.00
+2023-06-23,Astoria,Tea,218,626.50
+2023-06-23,Hell's Kitchen,Bakery,62,217.00
+2023-06-23,Hell's Kitchen,Coffee,266,808.90
+2023-06-23,Hell's Kitchen,Coffee beans,9,238.50
+2023-06-23,Hell's Kitchen,Drinking Chocolate,37,146.75
+2023-06-23,Hell's Kitchen,Flavours,10,8.00
+2023-06-23,Hell's Kitchen,Loose Tea,4,35.80
+2023-06-23,Hell's Kitchen,Packaged Chocolate,2,19.73
+2023-06-23,Hell's Kitchen,Tea,180,509.40
+2023-06-23,Lower Manhattan,Bakery,42,140.70
+2023-06-23,Lower Manhattan,Branded,2,28.00
+2023-06-23,Lower Manhattan,Coffee,319,961.55
+2023-06-23,Lower Manhattan,Coffee beans,3,52.75
+2023-06-23,Lower Manhattan,Drinking Chocolate,44,186.75
+2023-06-23,Lower Manhattan,Flavours,57,45.60
+2023-06-23,Lower Manhattan,Loose Tea,8,75.30
+2023-06-23,Lower Manhattan,Packaged Chocolate,1,13.33
+2023-06-23,Lower Manhattan,Tea,155,429.40
+2023-06-24,Astoria,Bakery,69,243.75
+2023-06-24,Astoria,Coffee,328,1000.10
+2023-06-24,Astoria,Drinking Chocolate,64,266.00
+2023-06-24,Astoria,Tea,217,607.70
+2023-06-24,Hell's Kitchen,Bakery,60,207.00
+2023-06-24,Hell's Kitchen,Coffee,228,676.15
+2023-06-24,Hell's Kitchen,Coffee beans,6,111.70
+2023-06-24,Hell's Kitchen,Drinking Chocolate,51,212.50
+2023-06-24,Hell's Kitchen,Flavours,7,5.60
+2023-06-24,Hell's Kitchen,Loose Tea,4,36.10
+2023-06-24,Hell's Kitchen,Tea,155,441.75
+2023-06-24,Lower Manhattan,Bakery,65,221.90
+2023-06-24,Lower Manhattan,Branded,5,112.00
+2023-06-24,Lower Manhattan,Coffee,245,736.05
+2023-06-24,Lower Manhattan,Coffee beans,3,58.50
+2023-06-24,Lower Manhattan,Drinking Chocolate,55,233.75
+2023-06-24,Lower Manhattan,Flavours,47,37.60
+2023-06-24,Lower Manhattan,Loose Tea,4,36.10
+2023-06-24,Lower Manhattan,Packaged Chocolate,2,15.20
+2023-06-24,Lower Manhattan,Tea,231,646.65
+2023-06-25,Astoria,Bakery,43,148.50
+2023-06-25,Astoria,Coffee,262,771.00
+2023-06-25,Astoria,Drinking Chocolate,58,241.00
+2023-06-25,Astoria,Tea,205,580.20
+2023-06-25,Hell's Kitchen,Bakery,75,268.50
+2023-06-25,Hell's Kitchen,Coffee,228,672.70
+2023-06-25,Hell's Kitchen,Coffee beans,6,115.50
+2023-06-25,Hell's Kitchen,Drinking Chocolate,45,185.75
+2023-06-25,Hell's Kitchen,Flavours,12,9.60
+2023-06-25,Hell's Kitchen,Loose Tea,9,82.85
+2023-06-25,Hell's Kitchen,Packaged Chocolate,1,6.40
+2023-06-25,Hell's Kitchen,Tea,151,427.90
+2023-06-25,Lower Manhattan,Bakery,66,228.65
+2023-06-25,Lower Manhattan,Branded,3,70.00
+2023-06-25,Lower Manhattan,Coffee,310,899.75
+2023-06-25,Lower Manhattan,Coffee beans,8,135.90
+2023-06-25,Lower Manhattan,Drinking Chocolate,48,199.25
+2023-06-25,Lower Manhattan,Flavours,44,35.20
+2023-06-25,Lower Manhattan,Loose Tea,4,36.10
+2023-06-25,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-06-25,Lower Manhattan,Tea,223,632.50
+2023-06-26,Astoria,Bakery,49,171.50
+2023-06-26,Astoria,Coffee,319,981.50
+2023-06-26,Astoria,Drinking Chocolate,52,219.25
+2023-06-26,Astoria,Tea,215,602.85
+2023-06-26,Hell's Kitchen,Bakery,71,254.00
+2023-06-26,Hell's Kitchen,Coffee,241,732.60
+2023-06-26,Hell's Kitchen,Coffee beans,5,90.40
+2023-06-26,Hell's Kitchen,Drinking Chocolate,30,126.00
+2023-06-26,Hell's Kitchen,Flavours,15,12.00
+2023-06-26,Hell's Kitchen,Loose Tea,8,76.50
+2023-06-26,Hell's Kitchen,Packaged Chocolate,1,7.60
+2023-06-26,Hell's Kitchen,Tea,157,447.00
+2023-06-26,Lower Manhattan,Bakery,62,208.35
+2023-06-26,Lower Manhattan,Branded,5,112.00
+2023-06-26,Lower Manhattan,Coffee,278,837.75
+2023-06-26,Lower Manhattan,Coffee beans,5,99.25
+2023-06-26,Lower Manhattan,Drinking Chocolate,58,239.00
+2023-06-26,Lower Manhattan,Flavours,53,42.40
+2023-06-26,Lower Manhattan,Loose Tea,3,29.95
+2023-06-26,Lower Manhattan,Packaged Chocolate,1,7.60
+2023-06-26,Lower Manhattan,Tea,209,578.40
+2023-06-27,Astoria,Bakery,58,205.50
+2023-06-27,Astoria,Coffee,250,745.05
+2023-06-27,Astoria,Drinking Chocolate,66,272.75
+2023-06-27,Astoria,Tea,224,638.25
+2023-06-27,Hell's Kitchen,Bakery,37,127.75
+2023-06-27,Hell's Kitchen,Coffee,247,729.15
+2023-06-27,Hell's Kitchen,Drinking Chocolate,52,211.75
+2023-06-27,Hell's Kitchen,Flavours,56,44.80
+2023-06-27,Hell's Kitchen,Tea,202,563.25
+2023-06-27,Lower Manhattan,Bakery,74,249.95
+2023-06-27,Lower Manhattan,Branded,5,94.00
+2023-06-27,Lower Manhattan,Coffee,335,957.90
+2023-06-27,Lower Manhattan,Coffee beans,6,161.75
+2023-06-27,Lower Manhattan,Drinking Chocolate,49,198.00
+2023-06-27,Lower Manhattan,Flavours,47,37.60
+2023-06-27,Lower Manhattan,Loose Tea,2,18.50
+2023-06-27,Lower Manhattan,Packaged Chocolate,2,12.80
+2023-06-27,Lower Manhattan,Tea,250,706.90
+2023-06-28,Astoria,Bakery,40,139.00
+2023-06-28,Astoria,Coffee,287,856.85
+2023-06-28,Astoria,Drinking Chocolate,39,157.75
+2023-06-28,Astoria,Tea,214,604.50
+2023-06-28,Hell's Kitchen,Bakery,50,179.25
+2023-06-28,Hell's Kitchen,Coffee,205,614.05
+2023-06-28,Hell's Kitchen,Drinking Chocolate,58,237.75
+2023-06-28,Hell's Kitchen,Tea,146,414.80
+2023-06-28,Lower Manhattan,Bakery,61,208.75
+2023-06-28,Lower Manhattan,Coffee,242,735.75
+2023-06-28,Lower Manhattan,Drinking Chocolate,36,150.50
+2023-06-28,Lower Manhattan,Tea,153,429.95
+2023-06-29,Astoria,Bakery,61,216.75
+2023-06-29,Astoria,Coffee,240,745.15
+2023-06-29,Astoria,Drinking Chocolate,64,273.00
+2023-06-29,Astoria,Tea,220,617.85
+2023-06-29,Hell's Kitchen,Bakery,38,135.00
+2023-06-29,Hell's Kitchen,Coffee,218,652.00
+2023-06-29,Hell's Kitchen,Drinking Chocolate,30,125.50
+2023-06-29,Hell's Kitchen,Tea,134,386.05
+2023-06-29,Lower Manhattan,Bakery,77,266.80
+2023-06-29,Lower Manhattan,Coffee,186,537.60
+2023-06-29,Lower Manhattan,Drinking Chocolate,30,124.50
+2023-06-29,Lower Manhattan,Tea,131,370.55
+2023-06-30,Astoria,Bakery,57,203.00
+2023-06-30,Astoria,Branded,2,28.00
+2023-06-30,Astoria,Coffee,268,822.95
+2023-06-30,Astoria,Coffee beans,2,34.50
+2023-06-30,Astoria,Drinking Chocolate,39,159.25
+2023-06-30,Astoria,Flavours,28,22.40
+2023-06-30,Astoria,Loose Tea,4,38.10
+2023-06-30,Astoria,Tea,177,499.45
+2023-06-30,Hell's Kitchen,Bakery,65,234.75
+2023-06-30,Hell's Kitchen,Coffee,179,556.15
+2023-06-30,Hell's Kitchen,Coffee beans,13,477.00
+2023-06-30,Hell's Kitchen,Drinking Chocolate,31,124.50
+2023-06-30,Hell's Kitchen,Flavours,40,32.00
+2023-06-30,Hell's Kitchen,Loose Tea,3,27.95
+2023-06-30,Hell's Kitchen,Packaged Chocolate,5,41.33
+2023-06-30,Hell's Kitchen,Tea,142,411.25
+2023-06-30,Lower Manhattan,Bakery,58,209.63
+2023-06-30,Lower Manhattan,Branded,4,56.00
+2023-06-30,Lower Manhattan,Coffee,198,590.30
+2023-06-30,Lower Manhattan,Coffee beans,8,169.75
+2023-06-30,Lower Manhattan,Drinking Chocolate,44,184.00
+2023-06-30,Lower Manhattan,Flavours,49,39.20
+2023-06-30,Lower Manhattan,Loose Tea,2,18.45
+2023-06-30,Lower Manhattan,Packaged Chocolate,3,34.26
+2023-06-30,Lower Manhattan,Tea,169,467.15

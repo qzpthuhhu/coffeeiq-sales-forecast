@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0">
+    <title>CoffeeIQ · 门店销量预测智能平台</title>
+    <meta name="creative-medium" content="interactive-prototype">
+    <meta name="description" content="基于真实咖啡店交易数据的AI销量预测展示平台">
+
+    <!-- 早期错误捕获（必须在任何外部库和业务脚本之前） -->
+    <script src="early-error-capture.js"></script>
+
+    <!-- ECharts -->
+    <script src="https://sf3-scmcdn-cn.feishucdn.com/obj/feishu-static/miaoda/coding-unpkg-sdk/echarts@5.6.0/dist/echarts.min.js" crossorigin="anonymous"></script>
+
+    <!-- Google Fonts (自托管镜像) -->
+    <link rel="stylesheet" href="https://miaoda.feishu.cn/fonts/css2?family=Playfair+Display:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700&display=swap">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- 侧边导航 -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <svg viewBox="0 0 32 32" class="logo-icon">
+                        <path d="M6 10h18v8a6 6 0 0 1-6 6h-6a6 6 0 0 1-6-6v-8z" fill="none" stroke="#D4A574" stroke-width="2"/>
+                        <path d="M24 12h2a3 3 0 0 1 0 6h-2" fill="none" stroke="#D4A574" stroke-width="2"/>
+                        <ellipse cx="15" cy="9" rx="9" ry="2" fill="none" stroke="#D4A574" stroke-width="2"/>
+                        <path d="M11 4c0 1.5-1 2-1 3M15 3c0 1.5-1 2-1 3M19 4c0 1.5-1 2-1 3" stroke="#D4A574" stroke-width="1.5" stroke-linecap="round"/>
+                    </svg>
+                    <div class="logo-text">
+                        <span class="logo-title">CoffeeIQ</span>
+                        <span class="logo-sub">销量预测平台</span>
+                    </div>
+                </div>
+            </div>
+
+            <nav class="nav-menu" id="navMenu">
+                <!-- 导航项由JS动态生成 -->
+            </nav>
+
+            <div class="sidebar-footer">
+                <div class="version-badge">
+                    <span class="version-dot"></span>
+                    <span>门店销量预测 · LightGBM Tweedie</span>
+                </div>
+            </div>
+        </aside>
+
+         <!-- 侧边栏遮罩（移动端） -->
+         <div class="sidebar-overlay" id="sidebarOverlay" onclick="closeSidebar()"></div>
+
+         <!-- 主内容区 -->
+        <main class="main-content">
+            <!-- 顶部栏 -->
+            <header class="topbar">
+                <div class="topbar-left">
+                    <button class="menu-toggle" id="menuToggle" onclick="toggleSidebar()">
+                        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2">
+                            <line x1="3" y1="6" x2="21" y2="6"/>
+                            <line x1="3" y1="12" x2="21" y2="12"/>
+                            <line x1="3" y1="18" x2="21" y2="18"/>
+                        </svg>
+                    </button>
+                    <h1 class="page-title" id="pageTitle">经营驾驶舱</h1>
+                     <button class="data-legend-btn" onclick="showDataLegend()" title="数据来源说明">
+                         <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2">
+                             <circle cx="12" cy="12" r="9"/>
+                             <path d="M12 16v-5M12 8h.01"/>
+                         </svg>
+                         <span class="btn-text">数据说明</span>
+                     </button>
+                     <button class="demo-mode-btn" onclick="DemoMode.start()" title="10分钟老板演示模式">
+                         <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2">
+                             <polygon points="5 3 19 12 5 21 5 3"/>
+                         </svg>
+                         <span class="btn-text">演示模式</span>
+                     </button>
+                </div>
+                <div class="topbar-right">
+                    <div class="date-range-picker">
+                        <select id="storeSelect" onchange="onStoreChange(this.value)">
+                             <option value="all">全部门店</option>
+                             <option value="Lower Manhattan" title="曼哈顿下城店｜Lower Manhattan">曼哈顿下城店</option>
+                             <option value="Hell's Kitchen" title="地狱厨房店｜Hell's Kitchen">地狱厨房店</option>
+                             <option value="Astoria" title="阿斯托利亚店｜Astoria">阿斯托利亚店</option>
+                         </select>
+                    </div>
+                    <div class="user-avatar">
+                        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                            <circle cx="12" cy="8" r="4"/>
+                            <path d="M4 21c0-4 4-7 8-7s8 3 8 7"/>
+                        </svg>
+                    </div>
+                </div>
+            </header>
+
+            <!-- 页面内容容器 -->
+            <div class="page-container" id="pageContainer">
+                <!-- 各页面内容由JS动态渲染 -->
+            </div>
+        </main>
+    </div>
+
+    <!-- 数据脚本 -->
+    <script src="data-loader.js"></script>
+    <script src="app.js"></script>
+    <script src="charts.js"></script>
+    <script src="pages/cockpit.js"></script>
+    <script src="pages/data-asset.js"></script>
+    <script src="pages/store-forecast.js"></script>
+    <script src="pages/sku-forecast.js"></script>
+    <script src="pages/model-performance.js"></script>
+    <script src="pages/forecast-methodology.js"></script>
+    <script src="pages/weather-impact.js"></script>
+    <script src="pages/ai-insight.js"></script>
+    <script src="pages/store-compare.js"></script>
+    <script src="pages/scenario-sim.js"></script>
+    <script src="pages/extensions.js"></script>
+    <script src="pages/model-trust.js"></script>
+     <script src="pages/tea-migration.js"></script>
+     <script src="pages/mcp-center.js"></script>
+     <script src="demo-mode.js"></script>
+     <script src="self-check.js"></script>
+
+    <!-- AI 问答面板（基于飞书 Aily Web SDK） -->
+    <script type="module" src="ai-chat.js"></script>
+
+     <!-- 全局工具函数 -->
+     <script>
+         function showDataLegend() {
+             document.getElementById('dataLegendModal').classList.add('show');
+             document.body.style.overflow = 'hidden';
+         }
+         function hideDataLegend() {
+             document.getElementById('dataLegendModal').classList.remove('show');
+             if (!document.body.classList.contains('mobile-sidebar-open')) {
+                 document.body.style.overflow = '';
+             }
+         }
+         function closeSidebar() {
+             App && App.closeMobileSidebar && App.closeMobileSidebar();
+         }
+     </script>
+
+    <!-- 启动应用 -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            App.init();
+        });
+    </script>
+
+    <!-- 全局数据说明浮层 -->
+    <div class="modal-overlay data-legend-modal" id="dataLegendModal" onclick="if(event.target===this) hideDataLegend()">
+        <div class="modal">
+            <div class="modal-header">
+                <div>
+                    <div class="modal-title">数据来源与真实性说明</div>
+                    <div style="font-size:12px;color:var(--gray-500);margin-top:2px">三类内容的边界与识别方式</div>
+                </div>
+                <button class="modal-close" onclick="hideDataLegend()" aria-label="关闭">
+                    <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M18 6L6 18M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="data-legend-item">
+                    <span class="data-badge real">真实数据</span>
+                    <div class="data-legend-text">
+                        <div class="data-legend-title">来自 Coffee Shop Sales 原始交易与纽约天气数据</div>
+                        <div class="data-legend-desc">包括历史销量、门店与SKU基础信息、交易明细、真实气温、降雨量、风速、湿度等。数值均有原始数据支撑，可直接用于经营分析。</div>
+                    </div>
+                </div>
+                <div class="data-legend-item">
+                    <span class="data-badge model">模型输出</span>
+                    <div class="data-legend-text">
+                        <div class="data-legend-title">基于真实数据训练的预测模型产出</div>
+                         <div class="data-legend-desc">包括 35 天滚动回测预测、P10/P90 校准区间、R² / MAE / WAPE 等指标、TreeSHAP 逐预测解释、情景模拟等。结果为模型估算，有误差但基于真实数据生成。</div>
+                    </div>
+                </div>
+                <div class="data-legend-item">
+                    <span class="data-badge sim">模拟计算</span>
+                    <div class="data-legend-text">
+                        <div class="data-legend-title">缺少真实业务数据时的能力演示</div>
+                        <div class="data-legend-desc">当仓库没有 BOM、库存、在途、效期、员工、工时、成本等真实数据时，基于虚拟参数演示计算链路（如订货量、排班建议、成本节省、情景模拟等），<b>不代表真实经营结果</b>，仅展示系统能力。</div>
+                    </div>
+                </div>
+                <div class="data-legend-footer">
+                    标记 <b style="color:#FB8C00">*</b> 的数值为模拟计算结果。<br>
+                    标签会在每个卡片、KPI、图表和表格就近出现，可随时点击顶部「数据说明」查看图例。
+                </div>
+            </div>
+        </div>
+     </div>
+
+     <!-- 演示模式遮罩层 -->
+     <div class="demo-overlay" id="demoOverlay">
+         <div class="demo-overlay-top"></div>
+         <div class="demo-overlay-right"></div>
+         <div class="demo-overlay-bottom"></div>
+         <div class="demo-overlay-left"></div>
+     </div>
+
+     <!-- 演示模式控制条 -->
+     <div class="demo-control-bar" id="demoControlBar">
+         <div class="demo-control-left">
+             <div class="demo-step-indicator">
+                 <span class="demo-step-current" id="demoStepCurrent">1</span>
+              <span class="demo-step-sep">/</span>
+              <span class="demo-step-total" id="demoStepTotal">10</span>
+             </div>
+             <div class="demo-step-title" id="demoStepTitle">真实数据基础</div>
+         </div>
+         <div class="demo-control-center">
+              <div class="demo-first-hint" id="demoFirstHint" style="display:none">
+                  <span>方向键切换 · Esc 或点击暗区退出</span>
+              </div>
+              <div class="demo-tip" id="demoTip"></div>
+             <div class="demo-drilldown-bar" id="demoDrilldownBar" style="display:none">
+                 <div class="demo-drilldown-label">下钻示例</div>
+                 <div class="demo-drilldown-pills">
+                     <button class="demo-drilldown-pill active" data-level="all" onclick="DemoMode.setDrilldown('all')">全店总盘</button>
+                     <button class="demo-drilldown-pill" data-level="store" onclick="DemoMode.setDrilldown('store')">单店校准</button>
+                     <button class="demo-drilldown-pill" data-level="category" onclick="DemoMode.setDrilldown('category')">品类备货</button>
+                     <button class="demo-drilldown-pill" data-level="sku" onclick="DemoMode.setDrilldown('sku')">单品执行</button>
+                 </div>
+             </div>
+         </div>
+         <div class="demo-control-right">
+             <span class="demo-time" id="demoTime">建议 1.5 分钟</span>
+             <button class="demo-btn demo-btn-prev" id="demoPrevBtn" onclick="DemoMode.prev()">
+                 <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                     <polyline points="15 18 9 12 15 6"/>
+                 </svg>
+                 <span>上一步</span>
+             </button>
+             <button class="demo-btn demo-btn-next" id="demoNextBtn" onclick="DemoMode.next()">
+                 <span>下一步</span>
+                 <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                     <polyline points="9 18 15 12 9 6"/>
+                 </svg>
+             </button>
+             <button class="demo-btn demo-btn-exit" onclick="DemoMode.exit()" title="退出演示模式">
+                 <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+                     <path d="M18 6L6 18M6 6l12 12"/>
+                 </svg>
+                 <span class="btn-text">退出</span>
+             </button>
+         </div>
+     </div>
+
+     <!-- 演示模式欢迎浮层 -->
+     <div class="modal-overlay" id="demoWelcomeModal">
+         <div class="modal demo-welcome-modal">
+             <div class="modal-header">
+                 <div>
+                     <div class="modal-title">老板演示模式</div>
+                     <div style="font-size:12px;color:var(--gray-500);margin-top:2px">按故事线聚焦核心区域，从容向客户演示</div>
+                 </div>
+                 <button class="modal-close" onclick="DemoMode.closeWelcome()" aria-label="关闭">
+                     <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2">
+                         <path d="M18 6L6 18M6 6l12 12"/>
+                     </svg>
+                 </button>
+             </div>
+             <div class="modal-body">
+                  <div style="font-size:13px;font-weight:600;color:var(--coffee-800);margin-bottom:12px" id="demoWelcomeSummary">演示故事线</div>
+                  <div class="demo-welcome-steps" id="demoWelcomeSteps"></div>
+                 <div style="margin-top:18px;padding:14px;background:var(--coffee-50);border-radius:8px">
+                     <div style="font-size:12px;font-weight:600;color:var(--coffee-800);margin-bottom:8px">演示前提示</div>
+                     <div style="font-size:12px;color:var(--gray-600);line-height:1.7">
+                        • 全程数据边界清晰：真实数据 / 模型输出 / 模拟计算<br>
+                        • 用 ← → 方向键切换步骤，移动端点按钮即可<br>
+                        • 不自动播放，节奏由你掌控；随时可退出
+                     </div>
+                 </div>
+             </div>
+             <div class="modal-footer">
+                 <button class="demo-btn demo-btn-start" onclick="DemoMode.begin()">开始演示</button>
+             </div>
+         </div>
+     </div>
+ </body>
+ </html>
